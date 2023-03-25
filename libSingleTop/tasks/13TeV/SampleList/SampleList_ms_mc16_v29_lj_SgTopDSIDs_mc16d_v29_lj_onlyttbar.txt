@@ -1,0 +1,11 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kTtbar
+#
+410470ttbar kTtbar 452.352 kRed-4 /rdsk/datm6/atlas/SgTopD3PD/mc16_v29_lj/MC/user.moles.mc16_13TeV.410470.PhPy8EG_ttbar_hdamp258p75_l.SGTOP1.e6337_s3126_r10201_p3832.lj.v29.0_out.root

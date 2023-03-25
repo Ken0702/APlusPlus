@@ -1,0 +1,13 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kQCD_JetLepton
+#
+QCDJetLepton kQCD_JetLepton + kMagenta+2 /rdsk/dat21/atlas/SgTop_Fake/JetLepton_v34_lj/user.tpelzer.mc16_13TeV.423300.Py8EG_perf_JF17.SGTOP1.e3848_s3126_r10201_p4514.lj.v34.sk2_out-skim.root
+QCDJetLeptonShapeSyst1 kQCD_JetLepton + kMagenta+2 /rdsk/dat21/atlas/SgTop_Fake/JetLepton_v34_lj/user.tpelzer.mc16_13TeV.423300.Py8EG_perf_JF17.SGTOP1.e3848_s3126_r10201_p4514.shapeSyst1.lj.v34.sk2_out-skim.root
+QCDJetLeptonShapeSyst2 kQCD_JetLepton + kMagenta+2 /rdsk/dat21/atlas/SgTop_Fake/JetLepton_v34_lj/user.tpelzer.mc16_13TeV.423300.Py8EG_perf_JF17.SGTOP1.e3848_s3126_r10201_p4514.shapeSyst2.lj.v34.sk2_out-skim.root

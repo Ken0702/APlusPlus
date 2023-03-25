@@ -1,0 +1,12 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kDATA_TOPQ1
+#
+data15 kDATA_TOPQ1 + kBlack /rdsk/dats7/atlas/SgTopD3PD/mc16_v29_lj/DATA/user.alhroob.data15_13TeV.AllYear.physics_Main.SGTOP1.grp15_v01_p3794.lj.v29.0_out.root
+data16 kDATA_TOPQ1 + kBlack /rdsk/dats6/atlas/SgTopD3PD/mc16_v29_lj/DATA/user.alhroob.data16_13TeV.AllYear.physics_Main.SGTOP1.grp16_v01_p3794.lj.v29.0_out.root

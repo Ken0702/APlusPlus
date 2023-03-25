@@ -1,0 +1,11 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kWmunuInclLight
+#
+364156WmunuLight kWmunuInclLight 15300.1 kGreen-7 /rdsk/datv1/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nbruscin.mc16_13TeV.364156.Sh221_Wmunu_maxHtPtV0_70_L.SGTOP1.e5340_s3126_r10201_p4172.lj.v31_taus_out.root

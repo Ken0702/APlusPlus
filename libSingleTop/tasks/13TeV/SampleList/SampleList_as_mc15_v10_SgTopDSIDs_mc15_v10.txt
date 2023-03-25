@@ -1,0 +1,263 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kDATA_TOPQ1
+#
+DATA_TOPQ1 kDATA_TOPQ1 + kBlack /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279515.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00284427.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00278968.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00284484.physics_Main.SGTOP1.f644_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00284213.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00283608.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279259.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280977.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00284006.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280464.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00282631.physics_Main.SGTOP1.f640_m1511_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00282712.physics_Main.SGTOP1.f640_m1511_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280614.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00283074.physics_Main.SGTOP1.f640_m1511_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279598.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276511.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279928.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00281075.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00284285.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00282784.physics_Main.SGTOP1.f640_m1511_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00284154.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279984.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00281317.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276790.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280673.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280231.physics_Main.SGTOP1.f630_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279685.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00283155.physics_Main.SGTOP1.f640_m1511_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280500.physics_Main.SGTOP1.f631_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276952.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00282625.physics_Main.SGTOP1.f640_m1511_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276262.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280862.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00281411.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00283429.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276954.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00283270.physics_Main.SGTOP1.f640_m1511_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00283780.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00282992.physics_Main.SGTOP1.f640_m1511_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280520.physics_Main.SGTOP1.f632_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279284.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280950.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279867.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00278912.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276336.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279279.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279932.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280423.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00281385.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279813.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279345.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00281074.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00284420.physics_Main.SGTOP1.f643_m1518_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276416.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276778.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276689.physics_Main.SGTOP1.f623_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280368.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00281070.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00276329.physics_Main.SGTOP1.f620_m1480_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279169.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280853.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280319.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00280753.physics_Main.SGTOP1.f629_m1504_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00279764.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
++ + + + /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/DATA/user.carolina.data15_13TeV.00278880.physics_Main.SGTOP1.f628_m1497_p2452.v10_out.root
+#
+# kSgTop_sChannel_incl
+#
+schannel_top kSgTop_sChannel_incl 3.44809 kAzure+3 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.kind.mc15_13TeV.410025.PowPy6Ev_P2012_sgtop_schan_l_t.SGTOP1.e3998_s2608_s2183_r7326_r6282_p2516.v10_out.root
+schannel_antitop kSgTop_sChannel_incl 2.15565 kAzure+3 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.kind.mc15_13TeV.410026.PowPy6Ev_P2012_sgtop_schan_l_tbar.SGTOP1.e3998_s2608_s2183_r7326_r6282_p2516.v10_out.root
+tchannel_top kSgTop_tChannel_top_incl 44.1501 kAzure+5 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.kind.mc15_13TeV.410011.PowPy6Ev_P2012_sgtop_tchan_l_t.SGTOP1.e3824_s2608_s2183_r7326_r6282_p2516.v10_out.root
+#AF + + + + /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.410011.PowPy6Ev_P2012_sgtop_tchan_l_t.SGTOP1.e3824_a766_a810_r6282_p2516.v10_out.root
+tchannel_antitop kSgTop_tChannel_antitop_incl 26.2755 kAzure+5 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.kind.mc15_13TeV.410012.PowPy6Ev_P2012_sgtop_tchan_l_tbar.SGTOP1.e3824_s2608_s2183_r7326_r6282_p2516.v10_out.root
+# AF + + + + /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.kind.mc15_13TeV.410012.PowPy6Ev_P2012_sgtop_tchan_l_tbar.SGTOP1.e3824_a766_a810_r6282_p2516.v10_out.root
+wtchannel kSgTop_Wt 35.8455 kAzure-3 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.kind.mc15_13TeV.410013.PowPy6Ev_P2012_Wt_t_inc.SGTOP1.e3753_s2608_s2183_r7326_r6282_p2516.v10_out.root
+#
+# kTtbar
+#
+ttbar kTtbar 451.664 kRed-4 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.410000.PowPy6Ev_P2012_ttbar_hdamp172p5_l.SGTOP1.e3698_s2608_s2183_r7267_r6282_p2516.v10_out.root
+#
+# kWenuIncl
+#
+361300 kWenuIncl 17312.4 kGreen-7 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361300.Sherpa_Wenu_Pt0_70_CVetBVet.SGTOP1.e3651_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361301 kWenuIncl 941.067 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361301.Sherpa_Wenu_Pt0_70_CFilBVet.SGTOP1.e3651_s2586_s2174_r7326_r6282_p2516.v10_out.root
+361302 kWenuIncl 1159.92 kGreen-7 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361302.Sherpa_Wenu_Pt0_70_BFil.SGTOP1.e3651_s2586_s2174_r7326_r6282_p2516.v10_out.root
+361303 kWenuIncl 418.319 kGreen-7 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361303.Sherpa_Wenu_Pt70_140_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361304 kWenuIncl 101.16 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361304.Sherpa_Wenu_Pt70_140_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361305 kWenuIncl 55.3908 kGreen-7 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361305.Sherpa_Wenu_Pt70_140_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361306 kWenuIncl 55.924 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361306.Sherpa_Wenu_Pt140_280_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361307 kWenuIncl 16.7641 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361307.Sherpa_Wenu_Pt140_280_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361308 kWenuIncl 9.21699 kGreen-7 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361308.Sherpa_Wenu_Pt140_280_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361309 kWenuIncl 3.39979 kGreen-7 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361309.Sherpa_Wenu_Pt280_500_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361310 kWenuIncl 1.15362 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361310.Sherpa_Wenu_Pt280_500_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361311 kWenuIncl 0.685908 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361311.Sherpa_Wenu_Pt280_500_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361312 kWenuIncl 0.199268 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361312.Sherpa_Wenu_Pt500_700_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361313 kWenuIncl 0.0752074 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361313.Sherpa_Wenu_Pt500_700_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361314 kWenuIncl 0.05037 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361314.Sherpa_Wenu_Pt500_700_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361315 kWenuIncl 0.0345688 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361315.Sherpa_Wenu_Pt700_1000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361316 kWenuIncl 0.0120259 kGreen-7 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361316.Sherpa_Wenu_Pt700_1000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361317 kWenuIncl 0.00895839 kGreen-7 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361317.Sherpa_Wenu_Pt700_1000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361318 kWenuIncl 0.00368909 kGreen-7 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361318.Sherpa_Wenu_Pt1000_2000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361319 kWenuIncl 0.00143304 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361319.Sherpa_Wenu_Pt1000_2000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361320 kWenuIncl 0.00102334 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361320.Sherpa_Wenu_Pt1000_2000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361321 kWenuIncl 1.45056e-05 kGreen-7 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361321.Sherpa_Wenu_Pt2000_E_CMS_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361322 kWenuIncl 6.3036e-06 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361322.Sherpa_Wenu_Pt2000_E_CMS_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361323 kWenuIncl 4.46082e-06 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361323.Sherpa_Wenu_Pt2000_E_CMS_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+#
+# kWmunuIncl
+#
+361324 kWmunuIncl 17312.4 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361324.Sherpa_Wmunu_Pt0_70_CVetBVet.SGTOP1.e3651_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361325 kWmunuIncl 941.067 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361325.Sherpa_Wmunu_Pt0_70_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361326 kWmunuIncl 1159.92 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361326.Sherpa_Wmunu_Pt0_70_BFil.SGTOP1.e3651_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361327 kWmunuIncl 418.319 kGreen-7 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361327.Sherpa_Wmunu_Pt70_140_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361328 kWmunuIncl 101.16 kGreen-7 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361328.Sherpa_Wmunu_Pt70_140_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361329 kWmunuIncl 55.3908 kGreen-7 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361329.Sherpa_Wmunu_Pt70_140_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361330 kWmunuIncl 55.924 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361330.Sherpa_Wmunu_Pt140_280_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361331 kWmunuIncl 16.7641 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361331.Sherpa_Wmunu_Pt140_280_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361332 kWmunuIncl 9.21699 kGreen-7 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361332.Sherpa_Wmunu_Pt140_280_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361333 kWmunuIncl 3.39979 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361333.Sherpa_Wmunu_Pt280_500_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361334 kWmunuIncl 1.15362 kGreen-7 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361334.Sherpa_Wmunu_Pt280_500_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361335 kWmunuIncl 0.685908 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361335.Sherpa_Wmunu_Pt280_500_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361336 kWmunuIncl 0.199268 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361336.Sherpa_Wmunu_Pt500_700_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361337 kWmunuIncl 0.0752074 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361337.Sherpa_Wmunu_Pt500_700_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361338 kWmunuIncl 0.05037 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361338.Sherpa_Wmunu_Pt500_700_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361339 kWmunuIncl 0.0345688 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361339.Sherpa_Wmunu_Pt700_1000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361340 kWmunuIncl 0.0120259 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361340.Sherpa_Wmunu_Pt700_1000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361341 kWmunuIncl 0.00895839 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361341.Sherpa_Wmunu_Pt700_1000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361342 kWmunuIncl 0.00368909 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361342.Sherpa_Wmunu_Pt1000_2000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361343 kWmunuIncl 0.00143304 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361343.Sherpa_Wmunu_Pt1000_2000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361344 kWmunuIncl 0.00102334 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361344.Sherpa_Wmunu_Pt1000_2000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361345 kWmunuIncl 1.45056e-05 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361345.Sherpa_Wmunu_Pt2000_E_CMS_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361346 kWmunuIncl 6.3036e-06 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361346.Sherpa_Wmunu_Pt2000_E_CMS_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361347 kWmunuIncl 4.46082e-06 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361347.Sherpa_Wmunu_Pt2000_E_CMS_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+#
+# kWtaunuIncl
+#
+361348 kWtaunuIncl 17312.4 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361348.Sherpa_Wtaunu_Pt0_70_CVetBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361349 kWtaunuIncl 941.067 kGreen-7 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361349.Sherpa_Wtaunu_Pt0_70_CFilBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361350 kWtaunuIncl 1159.92 kGreen-7 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361350.Sherpa_Wtaunu_Pt0_70_BFil.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361351 kWtaunuIncl 418.319 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361351.Sherpa_Wtaunu_Pt70_140_CVetBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361352 kWtaunuIncl 101.16 kGreen-7 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361352.Sherpa_Wtaunu_Pt70_140_CFilBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361353 kWtaunuIncl 55.3908 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361353.Sherpa_Wtaunu_Pt70_140_BFil.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361354 kWtaunuIncl 55.924 kGreen-7 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361354.Sherpa_Wtaunu_Pt140_280_CVetBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361355 kWtaunuIncl 16.7641 kGreen-7 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361355.Sherpa_Wtaunu_Pt140_280_CFilBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361356 kWtaunuIncl 9.21699 kGreen-7 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361356.Sherpa_Wtaunu_Pt140_280_BFil.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361357 kWtaunuIncl 3.39979 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361357.Sherpa_Wtaunu_Pt280_500_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361358 kWtaunuIncl 1.15362 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361358.Sherpa_Wtaunu_Pt280_500_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361359 kWtaunuIncl 0.685908 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361359.Sherpa_Wtaunu_Pt280_500_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361360 kWtaunuIncl 0.199268 kGreen-7 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361360.Sherpa_Wtaunu_Pt500_700_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361361 kWtaunuIncl 0.0752074 kGreen-7 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361361.Sherpa_Wtaunu_Pt500_700_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361362 kWtaunuIncl 0.05037 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361362.Sherpa_Wtaunu_Pt500_700_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361363 kWtaunuIncl 0.0345688 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361363.Sherpa_Wtaunu_Pt700_1000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361364 kWtaunuIncl 0.0120259 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361364.Sherpa_Wtaunu_Pt700_1000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361367 kWtaunuIncl 0.00143304 kGreen-7 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361367.Sherpa_Wtaunu_Pt1000_2000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361368 kWtaunuIncl 0.00102334 kGreen-7 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361368.Sherpa_Wtaunu_Pt1000_2000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361369 kWtaunuIncl 1.45056e-05 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361369.Sherpa_Wtaunu_Pt2000_E_CMS_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361370 kWtaunuIncl 6.3036e-06 kGreen-7 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361370.Sherpa_Wtaunu_Pt2000_E_CMS_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361371 kWtaunuIncl 4.46082e-06 kGreen-7 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.carolina.mc15_13TeV.361371.Sherpa_Wtaunu_Pt2000_E_CMS_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+#
+# kZeeIncl
+#
+361372 kZeeIncl 1547.16 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361372.Sherpa_Zee_Pt0_70_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361373 kZeeIncl 282.604 kOrange+1 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361373.Sherpa_Zee_Pt0_70_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361374 kZeeIncl 157.996 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361374.Sherpa_Zee_Pt0_70_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361375 kZeeIncl 44.4047 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361375.Sherpa_Zee_Pt70_140_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361376 kZeeIncl 15.062 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361376.Sherpa_Zee_Pt70_140_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361377 kZeeIncl 8.97003 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361377.Sherpa_Zee_Pt70_140_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361378 kZeeIncl 6.44051 kOrange+1 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361378.Sherpa_Zee_Pt140_280_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361379 kZeeIncl 2.54515 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361379.Sherpa_Zee_Pt140_280_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361380 kZeeIncl 1.5401 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361380.Sherpa_Zee_Pt140_280_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361381 kZeeIncl 0.402179 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361381.Sherpa_Zee_Pt280_500_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361382 kZeeIncl 0.18138 kOrange+1 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361382.Sherpa_Zee_Pt280_500_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361383 kZeeIncl 0.109848 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361383.Sherpa_Zee_Pt280_500_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361384 kZeeIncl 0.0237426 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361384.Sherpa_Zee_Pt500_700_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361385 kZeeIncl 0.0112289 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361385.Sherpa_Zee_Pt500_700_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361386 kZeeIncl 0.00716615 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361386.Sherpa_Zee_Pt500_700_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361387 kZeeIncl 0.0040959 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361387.Sherpa_Zee_Pt700_1000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361388 kZeeIncl 0.0021539 kOrange+1 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361388.Sherpa_Zee_Pt700_1000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361389 kZeeIncl 0.00131506 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361389.Sherpa_Zee_Pt700_1000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361390 kZeeIncl 0.000526354 kOrange+1 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361390.Sherpa_Zee_Pt1000_2000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361391 kZeeIncl 0.000300076 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361391.Sherpa_Zee_Pt1000_2000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361392 kZeeIncl 0.000178131 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361392.Sherpa_Zee_Pt1000_2000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361393 kZeeIncl 1.85997e-06 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361393.Sherpa_Zee_Pt2000_E_CMS_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361394 kZeeIncl 1.1746e-06 kOrange+1 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361394.Sherpa_Zee_Pt2000_E_CMS_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361395 kZeeIncl 7.81538e-07 kOrange+1 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361395.Sherpa_Zee_Pt2000_E_CMS_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+#
+# kZmumuIncl
+#
+361396 kZmumuIncl 1547.16 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361396.Sherpa_Zmumu_Pt0_70_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361397 kZmumuIncl 282.604 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361397.Sherpa_Zmumu_Pt0_70_CFilBVet.SGTOP1.e3651_s2586_s2174_r7326_r6282_p2516.v10_out.root
+361398 kZmumuIncl 157.996 kOrange+1 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361398.Sherpa_Zmumu_Pt0_70_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361399 kZmumuIncl 44.4047 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361399.Sherpa_Zmumu_Pt70_140_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361400 kZmumuIncl 15.062 kOrange+1 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361400.Sherpa_Zmumu_Pt70_140_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361401 kZmumuIncl 8.97003 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361401.Sherpa_Zmumu_Pt70_140_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361402 kZmumuIncl 6.44051 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361402.Sherpa_Zmumu_Pt140_280_CVetBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361403 kZmumuIncl 2.54515 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361403.Sherpa_Zmumu_Pt140_280_CFilBVet.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361404 kZmumuIncl 1.5401 kOrange+1 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361404.Sherpa_Zmumu_Pt140_280_BFil.SGTOP1.e3651_s2586_s2174_r7267_r6282_p2516.v10_out.root
+361405 kZmumuIncl 0.402179 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361405.Sherpa_Zmumu_Pt280_500_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361406 kZmumuIncl 0.18138 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361406.Sherpa_Zmumu_Pt280_500_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361407 kZmumuIncl 0.109848 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361407.Sherpa_Zmumu_Pt280_500_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361408 kZmumuIncl 0.0237426 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361408.Sherpa_Zmumu_Pt500_700_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361409 kZmumuIncl 0.0112289 kOrange+1 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361409.Sherpa_Zmumu_Pt500_700_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361410 kZmumuIncl 0.00716615 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361410.Sherpa_Zmumu_Pt500_700_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361411 kZmumuIncl 0.0040959 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361411.Sherpa_Zmumu_Pt700_1000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361412 kZmumuIncl 0.0021539 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361412.Sherpa_Zmumu_Pt700_1000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361413 kZmumuIncl 0.00131506 kOrange+1 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361413.Sherpa_Zmumu_Pt700_1000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361414 kZmumuIncl 0.000526354 kOrange+1 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361414.Sherpa_Zmumu_Pt1000_2000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361415 kZmumuIncl 0.000300076 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361415.Sherpa_Zmumu_Pt1000_2000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361416 kZmumuIncl 0.000178131 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361416.Sherpa_Zmumu_Pt1000_2000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361417 kZmumuIncl 1.85997e-06 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361417.Sherpa_Zmumu_Pt2000_E_CMS_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361418 kZmumuIncl 1.1746e-06 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361418.Sherpa_Zmumu_Pt2000_E_CMS_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361419 kZmumuIncl 7.81538e-07 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361419.Sherpa_Zmumu_Pt2000_E_CMS_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+#
+# kZtautauIncl
+#
+361420 kZtautauIncl 1547.16 kOrange+1 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361420.Sherpa_Ztautau_Pt0_70_CVetBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361421 kZtautauIncl 282.604 kOrange+1 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361421.Sherpa_Ztautau_Pt0_70_CFilBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361422 kZtautauIncl 157.996 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361422.Sherpa_Ztautau_Pt0_70_BFil.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361423 kZtautauIncl 44.4047 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361423.Sherpa_Ztautau_Pt70_140_CVetBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361424 kZtautauIncl 15.062 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361424.Sherpa_Ztautau_Pt70_140_CFilBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361425 kZtautauIncl 8.97003 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361425.Sherpa_Ztautau_Pt70_140_BFil.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361426 kZtautauIncl 6.44051 kOrange+1 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361426.Sherpa_Ztautau_Pt140_280_CVetBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361427 kZtautauIncl 2.54515 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361427.Sherpa_Ztautau_Pt140_280_CFilBVet.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361428 kZtautauIncl 1.5401 kOrange+1 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361428.Sherpa_Ztautau_Pt140_280_BFil.SGTOP1.e3733_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361429 kZtautauIncl 0.402179 kOrange+1 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361429.Sherpa_Ztautau_Pt280_500_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361430 kZtautauIncl 0.18138 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361430.Sherpa_Ztautau_Pt280_500_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361431 kZtautauIncl 0.109848 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361431.Sherpa_Ztautau_Pt280_500_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361432 kZtautauIncl 0.0237426 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361432.Sherpa_Ztautau_Pt500_700_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361433 kZtautauIncl 0.0112289 kOrange+1 /rdsk/dats3/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361433.Sherpa_Ztautau_Pt500_700_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361434 kZtautauIncl 0.00716615 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361434.Sherpa_Ztautau_Pt500_700_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361435 kZtautauIncl 0.0040959 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361435.Sherpa_Ztautau_Pt700_1000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361436 kZtautauIncl 0.0021539 kOrange+1 /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361436.Sherpa_Ztautau_Pt700_1000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361437 kZtautauIncl 0.00131506 kOrange+1 /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361437.Sherpa_Ztautau_Pt700_1000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361438 kZtautauIncl 0.000526354 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361438.Sherpa_Ztautau_Pt1000_2000_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361439 kZtautauIncl 0.000300076 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361439.Sherpa_Ztautau_Pt1000_2000_CFilBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361440 kZtautauIncl 0.000178131 kOrange+1 /rdsk/dats1/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361440.Sherpa_Ztautau_Pt1000_2000_BFil.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+361441 kZtautauIncl 1.85997e-06 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.cescobar.mc15_13TeV.361441.Sherpa_Ztautau_Pt2000_E_CMS_CVetBVet.SGTOP1.e4133_s2608_s2183_r7326_r6282_p2516.v10_out.root
+#
+# kDibosonWW
+#
+361610 kDibosonWW 2.2739 kOrange /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361610.PowPy8Ev_AZ_ZZqqll_mqq20mll20.SGTOP1.e4054_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361609 kDibosonWW 10.099 kOrange /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361609.PowPy8Ev_AZ_WZlvqq_mqq20.SGTOP1.e4054_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361607 kDibosonWZ 3.2849 kOrange /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361607.PowPy8Ev_AZ_WZqqll_mll20.SGTOP1.e4054_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361606 kDibosonWZ 44.176 kOrange /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361606.PowPy8Ev_AZ_WWlvqq.SGTOP1.e4054_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361604 kDibosonZZ 0.92498 kOrange /rdsk/dats5/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361604.PowPy8Ev_AZ_ZZvvll_mll4.SGTOP1.e4475_s2726_r7267_r6282_p2516.v10_out.root
+361603 kDibosonZZ 1.2568 kOrange /rdsk/dats7/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361603.PowPy8Ev_AZ_ZZllll_mll4.SGTOP1.e4475_s2726_r7267_r6282_p2516.v10_out.root
+361602 kDibosonWZ 2.7778 kOrange /rdsk/dats4/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361602.PowPy8Ev_AZ_WZlvvv_mll4.SGTOP1.e4054_s2608_s2183_r7267_r6282_p2516.v10_out.root
+361601 kDibosonWZ 4.4625 kOrange /rdsk/dats6/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361601.PowPy8Ev_AZ_WZlvll_mll4.SGTOP1.e4475_s2726_r7267_r6282_p2516.v10_out.root
+361600 kDibosonWZ 10.631 kOrange /rdsk/dats2/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.361600.PowPy8Ev_AZ_WWlvlv.SGTOP1.e4054_s2608_s2183_r7267_r6282_p2516.v10_out.root
+#
+# kFCNC_utZ_K01L
+#
+FCNCutZ_K01L kFCNC_utZ_K01L 0.1 kYellow /rdsk/dats8/atlas/SgTopD3PD/mc15_v10/MC/user.smergelm.mc15_13TeV.957011.MGPy8EG_NN23LO_A14_topFCNC_KLut_tZ_3l.SGTOP1.e5333a_a766_a810_p2516_01.v10_out.root

@@ -1,0 +1,201 @@
+Error in <TSystem::ExpandFileName>: input: $HOME/AtlasStyle/rootalias.C, output: $HOME/AtlasStyle/rootalias.C
+Error in <TSystem::ExpandFileName>: input: $HOME/AtlasStyle/AtlasStyle.C, output: $HOME/AtlasStyle/AtlasStyle.C
+Error in <TROOT::LoadMacro>: macro AtlasStyle.C not found in path .:$(HOME)/AtlasStyle:
+Error in <TSystem::ExpandFileName>: input: $HOME/AtlasStyle/rootlogon.C, output: $HOME/AtlasStyle/rootlogon.C
+Info in <AtlTRExFitterTask::Exec>: Starting execution of AtlTRExFitterTask.cxx
+Info in <AtlTRExFitterTask::Exec>: Reading file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/MCPlotter.root
+Info in <AtlTRExFitterTask::Exec>: Processing 28 histograms
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /job_info/h_nevts
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410644schanlt.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410645schanltbar.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//600020schanltPH7.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//600019schanltbarPH7.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//503581schanltaMCP8.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//500288schanltbaraMCH7.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410658tchanlt.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410659tchanltbar.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//600018tchanltPH7.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//600017tchanltbarPH7.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//503582tchanltaMCP8.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//500289tchanltaMCH7.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410646Wt.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410647Wtbar.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410654WtDS.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410655WtbarDS.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//600727WtPH7.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//600728WtbarPH7.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//412002WtaMCP8.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410470ttbar.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410480ttbar1lhdamp3.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410482ttbar2lhdamp3.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//411356ttbar1lhdamp2.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//411358ttbar2lhdamp2.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//411353ttbar1lhdamp18.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//411355ttbar2lhdamp18.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//411350ttbar1lhdamp13.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//411352ttbar2lhdamp13.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//411233ttbar1lPH713.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//411234ttbar2lPH713.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410464ttbar1laMCP8.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//410465ttbar2laMCP8.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//412116ttbar1laMCH713.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Creating MC output file /rdsk/dat23/atlas/kkreul/combination/A++/v02_v34lj_77Btag_sampleSysts_MC16d/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/MemDisc/2Jets/lnu/nominal/SgTop_s_splitall/adapted_for_trexfitter_allhist//412117ttbar2laMCH713.root
+Info in <AtlTRExFitterTask::Exec>: Creating path 'job_info'
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /job_info/h_evtweight
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /job_info/h_evtweight_extended
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/Leading jet_pt_raw
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'MemDiscriminant/ManyBins'
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/Leading jet_eta_raw
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/Sub-Leading jet_eta_raw
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/Sub-Leading jet_pt_raw
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/MET
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/MTW
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/Lepton_pt
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/Lepton_eta
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/dR subjLep
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/dR ljLep
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/dR ljsub
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/sChannelProb_raw
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/sChannelProb_raw_eplus
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/sChannelProb_raw_eminus
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/sChannelProb_raw_muplus
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/sChannelProb_raw_muminus
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/wjetsProb_raw
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ManyBins/ttbarProb_raw
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/sChannelProb
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/sChannelProb_lplus
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/sChannelProb_lminus
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/wjetsProb
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /MemDiscriminant/ttbarProb
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /CFTool/h_CFTool_weighted
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Creating path 'CFTool'
+Info in <AtlTRExFitterTask::Exec>: Processing histogram /CFTool/h_CFTool_unweighted
+Info in <AtlTRExFitterTask::Exec>: DATA histogram does not exist. Skip.
+Info in <AtlTRExFitterTask::Exec>: Finished AtlTRExFitterTask.cxx
+Error in <TSystem::ExpandFileName>: input: $HOME/AtlasStyle/rootlogoff.C, output: $HOME/AtlasStyle/rootlogoff.C

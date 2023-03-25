@@ -1,0 +1,70 @@
+# see also
+# tasks/SgTopDSIDs_v15.txt (8 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc15_v15_lj.txt (13 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16_v20_lj.txt (13 TeV s-channel, rel.21)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16d_v21_lj.txt 
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16d_v23_lj.txt 
+# https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/SingleTopProductionV25lj
+# ~kaphle/atlas/download/mc16_v25_lj/all_reduced_MC16d.txt
+#
+# This sample list is for MC16d samples, corresponding to 2017 data. Need to adapt DSID field to check for r-tag.
+#
+# 2019-03-13: need to add ttbar 2l systematics
+
+# this file is just for the sample systematics; same as for mc16a except for r9364->r10201
+
+# Single-top t-channel
+410658tchanlt,kSgTop_tChannel_incl,410658*r10201,kAzure+5,kAtlFast
+410659tchanltbar,kSgTop_tChannel_incl,410659*r10201,kAzure+5,kAtlFast
+411032tchanltbarPhHpp,kSgTop_tChannel_incl,411032*r10201,kAzure+5,kAtlFast
+411033tchanltPhHpp,kSgTop_tChannel_incl,411033*r10201,kAzure+5,kAtlFast
+412004tchanlaMcPy8,kSgTop_tChannel_incl,412004*r10201,kAzure+5,kAtlFast
+# user.alhroob.mc16_13TeV.411032.PhHpp_H7UE_704_tchan_l_tbar.SGTOP1.e6719_a875_r10201_p3629.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.411033.PhHpp_H7UE_704_tchan_l_t.SGTOP1.e6719_a875_r10201_p3629.lj.v25.1_out.root
+# user.moles.mc16_13TeV.412004.aMcPy8_tchan_NLO.SGTOP1.e6888_a875_r10201_p3629.lj.v25_out.root
+# user.alhroob.mc16_13TeV.410658.PhPy8_tchan_BW50_l_t.SGTOP1.e6671_a875_r10201_p3629.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.410659.PhPy8_tchan_BW50_l_tbar.SGTOP1.e6671_a875_r10201_p3629.lj.v25.1_out.root
+
+# Single-top s-channel
+410644schanlt,kSgTop_sChannel_incl,410644*r10201,kAzure+3,kAtlFast
+410645schanltbar,kSgTop_sChannel_incl,410645*r10201,kAzure+3,kAtlFast
+411034schanltPhHpp,kSgTop_sChannel_incl,411034*r10201,kAzure+3,kAtlFast
+411035schanltbarPhHpp,kSgTop_sChannel_incl,411035*r10201,kAzure+3,kAtlFast
+412005schanlaMcPy8,kSgTop_sChannel_incl,412005*r10201,kAzure+3,kAtlFast
+# user.alhroob.mc16_13TeV.411034.PhHpp_H7UE_sgtop_schan_l_t.SGTOP1.e6734_a875_r10201_p3554.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.411035.PhHpp_H7UE_sgtop_schan_l_tbar.SGTOP1.e6734_a875_r10201_p3629.lj.v25.1_out.root
+# user.moles.mc16_13TeV.412005.aMcPy8_sgtop_schan_l.SGTOP1.e6867_a875_r10201_p3629.lj.v25_out.root
+# user.alhroob.mc16_13TeV.410644.PhPy8_sgtop_schan_l_t.SGTOP1.e6527_a875_r10201_p3629.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.410645.PhPy8_sgtop_schan_l_tbar.SGTOP1.e6527_a875_r10201_p3629.lj.v25.1_out.root
+
+# Single-top Wt
+410646Wt,kSgTop_Wt,410646*r10201,kAzure-3,kAtlFast
+410647Wtbar,kSgTop_Wt,410647*r10201,kAzure-3,kAtlFast
+410654WtDSt,kSgTop_Wt,410654*r10201,kAzure-3,kAtlFast
+410655WtDStbar,kSgTop_Wt,410655*r10201,kAzure-3,kAtlFast
+411036WtDRtPhHpp,kSgTop_Wt,411036*r10201,kAzure-3,kAtlFast
+411037WtDRtbarPhHpp,kSgTop_Wt,411037*r10201,kAzure-3,kAtlFast
+412002WtDRaMCPy8,kSgTop_Wt,412002*r10201,kAzure-3,kAtlFast
+# user.alhroob.mc16_13TeV.410654.PhPy8_Wt_DS_t.SGTOP1.e6552_s3126_r10201_p3629.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.410655.PhPy8_Wt_DS_tbar.SGTOP1.e6552_s3126_r10201_p3554.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.411036.PhHpp_H7UE_Wt_DR_t.SGTOP1.e6702_a875_r10201_p3554.lj.v25.2_out.root
+# user.alhroob.mc16_13TeV.411037.PhHpp_H7UE_Wt_DR_tbar.SGTOP1.e6702_a875_r10201_p3629.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.412002.aMcPy8_HThalfscale_tW.SGTOP1.e6817_a875_r10201_p3554.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.410646.PhPy8_Wt_DR_t.SGTOP1.e6552_a875_r10201_p3629.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.410647.PhPy8_Wt_DR_tbar.SGTOP1.e6552_a875_r10201_p3554.lj.v25.1_out.root
+
+# ttbar
+410470ttbar,kTtbar,410470*r10201,kRed-4,kAtlFast
+410464ttbaraMcPy8,kTtbar,410464*r10201,kRed-4,kAtlFast
+410465ttbaraMcPy8DiLep,kTtbar,410465*r10201,kRed-4,kAtlFast
+410480ttbarhdamp517,kTtbar,410480*r10201,kRed-4,kAtlFast
+410482ttbarhdamp517DiLep,kTtbar,410482*r10201,kRed-4,kAtlFast
+410557ttbarPhHpp,kTtbar,410557*r10201,kRed-4,kAtlFast
+410558ttbarPhHppDiLep,kTtbar,410558*r10201,kRed-4,kAtlFast
+# user.alhroob.mc16_13TeV.410464.aMcPy8_ttbar_noShWe_SingleLep.SGTOP1.e6762_a875_r10201_p3600.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.410480.PhPy8_ttbar_hdamp517_SingleLep.SGTOP1.e6454_a875_r10201_p3600.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.410557.PhHpp_H7UE_tt_hdamp258_704_SingleLep.SGTOP1.e6366_a875_r10201_p3629.lj.v25.1_out.root
+# user.alhroob.mc16_13TeV.410470.PhPy8_ttbar_hdamp258_l.SGTOP1.e6337_a875_r10201_p3554.lj.v25.2_out.root
+# user.gjakel.mc16_13TeV.410482.PhPy8_ttbar_hdamp517_2l.SGTOP1.e6454_a875_r10201_p3554.lj.v25_out.root
+# user.cescobar.mc16_13TeV.410558.PhHpp_H7UE_tt_hdamp258_704_2l.SGTOP1.e6366_a875_r10201_p3629.lj.v25_out.root
+# user.cescobar.mc16_13TeV.410465.aMcPy8_ttbar_noShWe_2l.SGTOP1.e6762_a875_r10201_p3629.lj.v25_out.root

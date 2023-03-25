@@ -1,0 +1,11 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kWmunuInclLight
+#
+364156WmunuLight kWmunuInclLight 15300.1 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364156.Sh221_Wmunu_maxHtPtV0_70_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root

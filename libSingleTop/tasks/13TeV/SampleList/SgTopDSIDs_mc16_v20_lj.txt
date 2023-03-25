@@ -1,0 +1,133 @@
+# see also
+# tasks/SgTopDSIDs_v15.txt (8 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc15_v15_lj.txt (13 TeV s-channel)
+# https://test-service-sgtopntuples.web.cern.ch/test-service-sgtopntuples/index.php?channel=lj&round=v15 (v15 ntuples)
+# https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/SingleTopProductionV20lj
+# ~/atlas/download/mc16_v20_lj/all_reduced.txt
+
+# DATA
+#data,kDATA_TOPQ1,physics_Main.SGTOP1,kBlack
+data15,kDATA_TOPQ1,data15_13TeV,kBlack
+data16,kDATA_TOPQ1,data16_13TeV,kBlack
+
+# QCD multi-jet
+#QCDMMdata,kQCDMatrixMethod,physics_Main.SGTOP1,kMagenta+2
+QCDMMdata15,kQCDMatrixMethod,data15_13TeV,kMagenta+2
+QCDMMdata16,kQCDMatrixMethod,data16_13TeV,kMagenta+2
+
+# Single-top s-channel
+410644schanlt,kSgTop_sChannel_incl,410644,kAzure+3,kFullSim
+410645schanltbar,kSgTop_sChannel_incl,410645,kAzure+3,kFullSim
+
+# Single-top t-channel
+410642tchanlt,kSgTop_tChannel_incl,410642,kAzure+5
+410643tchanltbar,kSgTop_tChannel_incl,410643,kAzure+5
+
+# Single-top Wt
+410646Wt,kSgTop_Wt,410646,kAzure-3
+410647Wtbar,kSgTop_Wt,410647,kAzure-3
+
+# ttbar
+410470ttbar,kTtbar,410470,kRed-4,kFullSim
+
+# W + jets
+364156WmunuLight,kWmunuInclLight,364156,kGreen-7,kFullSim
+364157WmunuC,kWmunuInclC,364157,kGreen-7,kFullSim
+364158WmunuB,kWmunuInclB,364158,kGreen-7,kFullSim
+364159WmunuLight,kWmunuInclLight,364159,kGreen-7,kFullSim
+364160WmunuC,kWmunuInclC,364160,kGreen-7,kFullSim
+364161WmunuB,kWmunuInclB,364161,kGreen-7,kFullSim
+364162WmunuLight,kWmunuInclLight,364162,kGreen-7,kFullSim
+364163WmunuC,kWmunuInclC,364163,kGreen-7,kFullSim
+364164WmunuB,kWmunuInclB,364164,kGreen-7,kFullSim
+364165WmunuLight,kWmunuInclLight,364165,kGreen-7,kFullSim
+364166WmunuC,kWmunuInclC,364166,kGreen-7,kFullSim
+364167WmunuB,kWmunuInclB,364167,kGreen-7,kFullSim
+364168Wmunu,kWmunuIncl,364168,kGreen-7,kFullSim
+364169Wmunu,kWmunuIncl,364169,kGreen-7,kFullSim
+364170WenuLight,kWenuInclLight,364170,kGreen-7,kFullSim
+364171WenuC,kWenuInclC,364171,kGreen-7,kFullSim
+364172WenuB,kWenuInclB,364172,kGreen-7,kFullSim
+364173WenuLight,kWenuInclLight,364173,kGreen-7,kFullSim
+364174WenuC,kWenuInclC,364174,kGreen-7,kFullSim
+364175WenuB,kWenuInclB,364175,kGreen-7,kFullSim
+364176WenuLight,kWenuInclLight,364176,kGreen-7,kFullSim
+364177WenuC,kWenuInclC,364177,kGreen-7,kFullSim
+364178WenuB,kWenuInclB,364178,kGreen-7,kFullSim
+364179WenuLight,kWenuInclLight,364179,kGreen-7,kFullSim
+364180WenuC,kWenuInclC,364180,kGreen-7,kFullSim
+364181WenuB,kWenuInclB,364181,kGreen-7,kFullSim
+364182Wenu,kWenuIncl,364182,kGreen-7,kFullSim
+364183Wenu,kWenuIncl,364183,kGreen-7,kFullSim
+364184WtaunuLight,kWtaunuInclLight,364184,kGreen-7,kFullSim
+364185WtaunuC,kWtaunuInclC,364185,kGreen-7,kFullSim
+364186WtaunuB,kWtaunuInclB,364186,kGreen-7,kFullSim
+364187WtaunuLight,kWtaunuInclLight,364187,kGreen-7,kFullSim
+364188WtaunuC,kWtaunuInclC,364188,kGreen-7,kFullSim
+364189WtaunuB,kWtaunuInclB,364189,kGreen-7,kFullSim
+364190WtaunuLight,kWtaunuInclLight,364190,kGreen-7,kFullSim
+364191WtaunuC,kWtaunuInclC,364191,kGreen-7,kFullSim
+364192WtaunuB,kWtaunuInclB,364192,kGreen-7,kFullSim
+364193WtaunuLight,kWtaunuInclLight,364193,kGreen-7,kFullSim
+364194WtaunuC,kWtaunuInclC,364194,kGreen-7,kFullSim
+364195WtaunuB,kWtaunuInclB,364195,kGreen-7,kFullSim
+364196Wtaunu,kWtaunuIncl,364196,kGreen-7,kFullSim
+364197Wtaunu,kWtaunuIncl,364197,kGreen-7,kFullSim
+
+# Z+jets, Diboson
+364100ZmumuLight,kZmumuInclLight,364100,kOrange+1,kFullSim
+364101ZmumuC,kZmumuInclC,364101,kOrange+1,kFullSim
+364102ZmumuB,kZmumuInclB,364102,kOrange+1,kFullSim
+364103ZmumuLight,kZmumuInclLight,364103,kOrange+1,kFullSim
+364104ZmumuC,kZmumuInclC,364104,kOrange+1,kFullSim
+364105ZmumuB,kZmumuInclB,364105,kOrange+1,kFullSim
+364106ZmumuLight,kZmumuInclLight,364106,kOrange+1,kFullSim
+364107ZmumuC,kZmumuInclC,364107,kOrange+1,kFullSim
+364108ZmumuB,kZmumuInclB,364108,kOrange+1,kFullSim
+364109ZmumuLight,kZmumuInclLight,364109,kOrange+1,kFullSim
+364110ZmumuC,kZmumuInclC,364110,kOrange+1,kFullSim
+364111ZmumuB,kZmumuInclB,364111,kOrange+1,kFullSim
+364112Zmumu,kZmumuIncl,364112,kOrange+1,kFullSim
+364113Zmumu,kZmumuIncl,364113,kOrange+1,kFullSim
+364114ZeeLight,kZeeInclLight,364114,kOrange+1,kFullSim
+364115ZeeC,kZeeInclC,364115,kOrange+1,kFullSim
+364116ZeeB,kZeeInclB,364116,kOrange+1,kFullSim
+364117ZeeLight,kZeeInclLight,364117,kOrange+1,kFullSim
+364118ZeeC,kZeeInclC,364118,kOrange+1,kFullSim
+364119ZeeB,kZeeInclB,364119,kOrange+1,kFullSim
+364120ZeeLight,kZeeInclLight,364120,kOrange+1,kFullSim
+364121ZeeC,kZeeInclC,364121,kOrange+1,kFullSim
+364122ZeeB,kZeeInclB,364122,kOrange+1,kFullSim
+364123ZeeLight,kZeeInclLight,364123,kOrange+1,kFullSim
+364124ZeeC,kZeeInclC,364124,kOrange+1,kFullSim
+364125ZeeB,kZeeInclB,364125,kOrange+1,kFullSim
+364126Zee,kZeeIncl,364126,kOrange+1,kFullSim
+364127Zee,kZeeIncl,364127,kOrange+1,kFullSim
+364128ZtautauLight,kZtautauInclLight,364128,kOrange+1,kFullSim
+364129ZtautauC,kZtautauInclC,364129,kOrange+1,kFullSim
+364130ZtautauB,kZtautauInclB,364130,kOrange+1,kFullSim
+364131ZtautauLight,kZtautauInclLight,364131,kOrange+1,kFullSim
+364132ZtautauC,kZtautauInclC,364132,kOrange+1,kFullSim
+364133ZtautauB,kZtautauInclB,364133,kOrange+1,kFullSim
+364134ZtautauLight,kZtautauInclLight,364134,kOrange+1,kFullSim
+364135ZtautauC,kZtautauInclC,364135,kOrange+1,kFullSim
+364136ZtautauB,kZtautauInclB,364136,kOrange+1,kFullSim
+364137ZtautauLight,kZtautauInclLight,364137,kOrange+1,kFullSim
+364138ZtautauC,kZtautauInclC,364138,kOrange+1,kFullSim
+364139ZtautauB,kZtautauInclB,364139,kOrange+1,kFullSim
+364140Ztautau,kZtautauIncl,364140,kOrange+1,kFullSim
+364141Ztautau,kZtautauIncl,364141,kOrange+1,kFullSim
+
+# change this part:
+364250llll,kDibosonZZ,364250,kOrange+1,kFullSim
+364253lllv,kDibosonWZ,364253,kOrange+1,kFullSim
+364254llvv,kDibosonZZ,364254,kOrange+1,kFullSim
+364255lvvv,kDibosonWZ,364255,kOrange+1,kFullSim
+363355ZqqZvv,kDibosonZZ,363355,kOrange+1,kFullSim
+363356ZqqZll,kDibosonZZ,363356,kOrange+1,kFullSim
+363357WqqZvv,kDibosonWZ,363357,kOrange+1,kFullSim
+363358WqqZll,kDibosonWZ,363358,kOrange+1,kFullSim
+363359WpqqWmlv,kDibosonWW,363359,kOrange+1,kFullSim
+363360WplvWmqq,kDibosonWW,363360,kOrange+1,kFullSim
+363489WlvZqq,kDibosonWZ,363489,kOrange+1,kFullSim
+363494vvvv,kDibosonZZ,363494,kOrange+1,kFullSim

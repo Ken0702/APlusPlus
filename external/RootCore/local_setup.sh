@@ -1,0 +1,1 @@
+/mnt/eeh/kaphle/atlas/APlusPlus_clean_2018-12-20/external/RootCore/internal/local_setup.sh

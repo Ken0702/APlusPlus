@@ -1,0 +1,7 @@
+as07b
+A++ Setup
+SHELL=/bin/bash
+TERM=dumb
+MY_SETUP=
+HERE
+HERE2

@@ -1,0 +1,37 @@
+# Number of events taken from /rdsk/dats1/atlas/kkreul/combination/A++/v02_v34lj_sampleSysts_MC16a/sgtop_tchan_signal/AtlSgTop_tChannelAnalysis/analysis/2Jets/lnu/nominal on 2022-05-11 13:32:36+02:00
+# Sample             ; n_events ;  n_files ;     evts/f
+410464ttbar1laMCP8   ;    58258 ;        8 ;     7282,2
+410465ttbar2laMCP8   ;   996952 ;       12 ;    83079,3
+410470ttbar          ;   297434 ;       22 ;    13519,7
+410480ttbar1lhdamp3  ;    71512 ;        9 ;     7945,7
+410482ttbar2lhdamp3  ;   745525 ;       13 ;    57348,0
+410644schanlt        ;    29590 ;        2 ;    14795,0
+410645schanltbar     ;    32639 ;        2 ;    16319,5
+410646Wt             ;     5719 ;        2 ;     2859,5
+410647Wtbar          ;     5862 ;        2 ;     2931,0
+410654WtDS           ;     5951 ;        3 ;     1983,6
+410655WtbarDS        ;     5969 ;        2 ;     2984,5
+410658tchanlt        ;    13337 ;        7 ;     1905,2
+410659tchanltbar     ;    15030 ;        4 ;     3757,5
+411233ttbar1lPH713   ;    64978 ;       22 ;     2953,5
+411234ttbar2lPH713   ;   643635 ;       13 ;    49510,3
+411350ttbar1lhdamp13 ;    15570 ;        3 ;     5190,0
+411352ttbar2lhdamp13 ;   196485 ;        4 ;    49121,2
+411353ttbar1lhdamp18 ;    15234 ;       11 ;     1384,9
+411355ttbar2lhdamp18 ;   191830 ;        2 ;    95915,0
+411356ttbar1lhdamp2  ;    15216 ;        4 ;     3804,0
+411358ttbar2lhdamp2  ;   190519 ;        5 ;    38103,8
+412002WtaMCP8        ;    10287 ;        2 ;     5143,5
+412116ttbar1laMCH713 ;    21549 ;        3 ;     7183,0
+412117ttbar2laMCH713 ;   146765 ;        4 ;    36691,2
+500288schanltbaraMCH7 ;    33157 ;        3 ;    11052,3
+500289tchanltaMCH7   ;     7046 ;        4 ;     1761,5
+503581schanltaMCP8   ;    39680 ;        2 ;    19840,0
+503582tchanltaMCP8   ;     6054 ;        2 ;     3027,0
+600017tchanltbarPH7  ;    13539 ;        4 ;     3384,7
+600018tchanltPH7     ;    12188 ;        4 ;     3047,0
+600019schanltbarPH7  ;    25863 ;        9 ;     2873,6
+600020schanltPH7     ;    25033 ;        1 ;    25033,0
+600727WtPH7          ;     9053 ;        4 ;     2263,2
+600728WtbarPH7       ;     9133 ;        1 ;     9133,0
+# Totals:            ;  3976592 ;      195

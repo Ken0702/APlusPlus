@@ -1,0 +1,472 @@
+#,===================================================
+#
+# List of Datasets to be used for your analysis:
+#
+# <short name>,<Type>,<DSID>
+#
+# <short name>: (part of the) output-file name
+#       <Type>: EType as in AtlSample.h
+#       <DSID>: ID (number) of the sample
+#               (used to find it on the file system)
+#
+# N.B.:
+# Data files have no DSID -> use "periodX"
+#
+# Systematics that exchange samples
+# (e.g. generator comparisons)
+# --> These samples have a special syntax
+#     a) short name has to be
+#
+#        <short name> + "_syst_" + <systematic name>
+#
+#        where <systematic name> has to be the name
+#        of the systematic that is used in
+#        AtlTopLevelAnalysis::fgSystematicNames
+#        for this particular systematic
+#
+#     b) the sample has to have the same type of the 
+#        sample that it will replace
+#
+#        N.B.:
+#        If this is not possible (e.g. for sgtop 
+#        t-channel generator comparison) the function
+#        AtlTopLevelAnalysis::BuildPlottingTasks(..)
+#        has to be altered to deal with this specific case.
+#        
+#
+# Here is a sample of the Wtchan generator comparison:
+#
+# - Nominal sample (uses DR scheme):
+#  wtchannel,kSgTop_Wt,110140,kAzure-3
+# 
+# - Systematic comparison (uses DS scheme):
+#  wtchannel_syst_WtDS,kSgTop_Wt,110142,kAzure-3
+#
+# (the first part of the short name is identical,
+#  but this is not needed)
+# ===================================================
+#
+#
+#
+#
+# DATA - Egamma
+DATAperiodA,kDATA_EGamma,periodA,kBlack
+DATAperiodB,kDATA_EGamma,periodB,kBlack
+DATAperiodC,kDATA_EGamma,periodC,kBlack
+DATAperiodD,kDATA_EGamma,periodD,kBlack
+DATAperiodE,kDATA_EGamma,periodE,kBlack
+DATAperiodG,kDATA_EGamma,periodG,kBlack
+DATAperiodH,kDATA_EGamma,periodH,kBlack
+DATAperiodI,kDATA_EGamma,periodI,kBlack
+DATAperiodJ,kDATA_EGamma,periodJ,kBlack
+DATAperiodL,kDATA_EGamma,periodL,kBlack
+# DATA - Muon
+DATAperiodA,kDATA_Muon,periodA,kBlack
+DATAperiodB,kDATA_Muon,periodB,kBlack
+DATAperiodC,kDATA_Muon,periodC,kBlack
+DATAperiodD,kDATA_Muon,periodD,kBlack
+DATAperiodE,kDATA_Muon,periodE,kBlack
+DATAperiodG,kDATA_Muon,periodG,kBlack
+DATAperiodH,kDATA_Muon,periodH,kBlack
+DATAperiodI,kDATA_Muon,periodI,kBlack
+DATAperiodJ,kDATA_Muon,periodJ,kBlack
+DATAperiodL,kDATA_Muon,periodL,kBlack
+#
+# DATA - Egamma (loose)
+QCDperiodA,kQCDMatrixMethod_EGamma,periodA,kMagenta+2
+QCDperiodB,kQCDMatrixMethod_EGamma,periodB,kMagenta+2
+QCDperiodC,kQCDMatrixMethod_EGamma,periodC,kMagenta+2
+QCDperiodD,kQCDMatrixMethod_EGamma,periodD,kMagenta+2
+QCDperiodE,kQCDMatrixMethod_EGamma,periodE,kMagenta+2
+QCDperiodG,kQCDMatrixMethod_EGamma,periodG,kMagenta+2
+QCDperiodH,kQCDMatrixMethod_EGamma,periodH,kMagenta+2
+QCDperiodI,kQCDMatrixMethod_EGamma,periodI,kMagenta+2
+QCDperiodJ,kQCDMatrixMethod_EGamma,periodJ,kMagenta+2
+QCDperiodL,kQCDMatrixMethod_EGamma,periodL,kMagenta+2
+# DATA - Muon (loose)
+QCDperiodA,kQCDMatrixMethod_Muon,periodA,kMagenta+2
+QCDperiodB,kQCDMatrixMethod_Muon,periodB,kMagenta+2
+QCDperiodC,kQCDMatrixMethod_Muon,periodC,kMagenta+2
+QCDperiodD,kQCDMatrixMethod_Muon,periodD,kMagenta+2
+QCDperiodE,kQCDMatrixMethod_Muon,periodE,kMagenta+2
+QCDperiodG,kQCDMatrixMethod_Muon,periodG,kMagenta+2
+QCDperiodH,kQCDMatrixMethod_Muon,periodH,kMagenta+2
+QCDperiodI,kQCDMatrixMethod_Muon,periodI,kMagenta+2
+QCDperiodJ,kQCDMatrixMethod_Muon,periodJ,kMagenta+2
+QCDperiodL,kQCDMatrixMethod_Muon,periodL,kMagenta+2
+#
+#
+# SgTop (inkl. Systematics)
+# =========================
+# t-channel
+#
+tchannel_top,kSgTop_tChannel_top_incl,110090,kAzure+5
+tchannel_antitop,kSgTop_tChannel_antitop_incl,110091,kAzure+5
+#
+# t-channel generator comparison
+# ==============================
+tchannel_syst_aMCatNLO_tchan,kSgTop_tChannel_incl,110095,kAzure+5
+#
+# s-channel
+# =========
+schannel,kSgTop_sChannel_incl,110119,kAzure+3
+#
+# s-channel scale variations
+# ==========================
+schannel_syst_ScaleVar1,kSgTop_sChannel_incl,110040,kAzure+3
+schannel_syst_ScaleVar2,kSgTop_sChannel_incl,110041,kAzure+3
+schannel_syst_ScaleVar3,kSgTop_sChannel_incl,110042,kAzure+3
+schannel_syst_ScaleVar4,kSgTop_sChannel_incl,110043,kAzure+3
+schannel_syst_ScaleVar5,kSgTop_sChannel_incl,110044,kAzure+3
+schannel_syst_ScaleVar6,kSgTop_sChannel_incl,110045,kAzure+3
+#
+# s-channel generator comparison
+# ==============================
+schannel_e_syst_MCatNLO_schan,kSgTop_sChannel_e,108343,kAzure+3
+schannel_mu_syst_MCatNLO_schan,kSgTop_sChannel_mu,108344,kAzure+3
+schannel_tau_syst_MCatNLO_schan,kSgTop_sChannel_tau,108345,kAzure+3
+#
+# Wt
+# ==
+wtchannel,kSgTop_Wt,110140,kAzure-3
+#
+# Wt DS
+# =====
+wtchannel_syst_WtDS,kSgTop_Wt,110142,kAzure-3
+#
+# Wt MCatNLO
+# ==========
+wtchannel_syst_MCatNLO_wt,kSgTop_Wt,108346,kAzure-3
+#
+#
+# ttbar (inkl. Systematics)
+# =========================
+ttbar,kTtbar,117050,kRed-4
+#
+# ttbar systematics
+#
+ttbar_syst_MCatNLO_ttbar,kTtbar,105200,kRed-4
+ttbar_syst_ISRFSR_ttbar_More,kTtbar,117209,kRed-4
+ttbar_syst_ISRFSR_ttbar_Less,kTtbar,117210,kRed-4
+#
+# ttbar RadHi + RadLo
+#
+ttbarlnlnNp0_syst_RadHi_ttbar,kTtbar,201030,kRed-4
+ttbarlnlnNp1_syst_RadHi_ttbar,kTtbar,201031,kRed-4
+ttbarlnlnNp2_syst_RadHi_ttbar,kTtbar,201032,kRed-4
+ttbarlnlnNp3_syst_RadHi_ttbar,kTtbar,201033,kRed-4
+ttbarlnlnNp4_syst_RadHi_ttbar,kTtbar,201034,kRed-4
+ttbarjjlnNp0_syst_RadHi_ttbar,kTtbar,201230,kRed-4
+ttbarjjlnNp1_syst_RadHi_ttbar,kTtbar,201231,kRed-4
+ttbarjjlnNp2_syst_RadHi_ttbar,kTtbar,201232,kRed-4
+ttbarjjlnNp3_syst_RadHi_ttbar,kTtbar,201233,kRed-4
+ttbarjjlnNp4_syst_RadHi_ttbar,kTtbar,201234,kRed-4
+ttbarjjjjNp0_syst_RadHi_ttbar,kTtbar,201430,kRed-4
+ttbarjjjjNp1_syst_RadHi_ttbar,kTtbar,201431,kRed-4
+ttbarjjjjNp2_syst_RadHi_ttbar,kTtbar,201432,kRed-4
+ttbarjjjjNp3_syst_RadHi_ttbar,kTtbar,201433,kRed-4
+ttbarjjjjNp4_syst_RadHi_ttbar,kTtbar,201434,kRed-4
+#
+ttbarlnlnNp0_syst_RadLo_ttbar,kTtbar,201040,kRed-4
+ttbarlnlnNp1_syst_RadLo_ttbar,kTtbar,201041,kRed-4
+ttbarlnlnNp2_syst_RadLo_ttbar,kTtbar,201042,kRed-4
+ttbarlnlnNp3_syst_RadLo_ttbar,kTtbar,201043,kRed-4
+ttbarlnlnNp4_syst_RadLo_ttbar,kTtbar,201044,kRed-4
+ttbarjjlnNp0_syst_RadLo_ttbar,kTtbar,201240,kRed-4
+ttbarjjlnNp1_syst_RadLo_ttbar,kTtbar,201241,kRed-4
+ttbarjjlnNp2_syst_RadLo_ttbar,kTtbar,201242,kRed-4
+ttbarjjlnNp3_syst_RadLo_ttbar,kTtbar,201243,kRed-4
+ttbarjjlnNp4_syst_RadLo_ttbar,kTtbar,201244,kRed-4
+ttbarjjjjNp0_syst_RadLo_ttbar,kTtbar,201440,kRed-4
+ttbarjjjjNp1_syst_RadLo_ttbar,kTtbar,201441,kRed-4
+ttbarjjjjNp2_syst_RadLo_ttbar,kTtbar,201442,kRed-4
+ttbarjjjjNp3_syst_RadLo_ttbar,kTtbar,201443,kRed-4
+ttbarjjjjNp4_syst_RadLo_ttbar,kTtbar,201444,kRed-4
+#
+#
+# Alpgen W + jets
+#
+# W + light jets
+WenuNp0,kWenuNp0,147025,kGreen-7
+WenuNp1,kWenuNp1,147026,kGreen-7
+WenuNp2,kWenuNp2,147027,kGreen-7
+WenuNp3,kWenuNp3,147028,kGreen-7
+WenuNp4,kWenuNp4,147029,kGreen-7
+WenuNp5,kWenuNp5,147030,kGreen-7
+WmunuNp0,kWmunuNp0,147033,kGreen-7
+WmunuNp1,kWmunuNp1,147034,kGreen-7
+WmunuNp2,kWmunuNp2,147035,kGreen-7
+WmunuNp3,kWmunuNp3,147036,kGreen-7
+WmunuNp4,kWmunuNp4,147037,kGreen-7
+WmunuNp5,kWmunuNp5,147038,kGreen-7
+WtaunuNp0,kWtaunuNp0,147041,kGreen-7
+WtaunuNp1,kWtaunuNp1,147042,kGreen-7
+WtaunuNp2,kWtaunuNp2,147043,kGreen-7
+WtaunuNp3,kWtaunuNp3,147044,kGreen-7
+WtaunuNp4,kWtaunuNp4,147045,kGreen-7
+WtaunuNp5,kWtaunuNp5,147046,kGreen-7
+#
+#
+# w + heavy jets
+WcNp0,kWcNp0,200056,kGreen+2
+WcNp1,kWcNp1,200057,kGreen+2
+WcNp2,kWcNp2,200058,kGreen+2
+WcNp3,kWcNp3,200059,kGreen+2
+WcNp4,kWcNp4,200060,kGreen+2
+WbbNp0,kWbbNp0,200256,kGreen-3
+WbbNp1,kWbbNp1,200257,kGreen-3
+WbbNp2,kWbbNp2,200258,kGreen-3
+WbbNp3,kWbbNp3,200259,kGreen-3
+WccNp0,kWccNp0,200156,kGreen-2
+WccNp1,kWccNp1,200157,kGreen-2
+WccNp2,kWccNp2,200158,kGreen-2
+WccNp3,kWccNp3,200159,kGreen-2
+#
+#
+# W + light jets (HFOR splitted)
+WenuNp0_hfor0,kWenuNp0_hfor0,147025,kGreen-3
+WenuNp0_hfor1,kWenuNp0_hfor1,147025,kGreen-2
+WenuNp0_hfor2,kWenuNp0_hfor2,147025,kGreen+2
+WenuNp0_hfor3,kWenuNp0_hfor3,147025,kGreen-7
+#
+WenuNp1_hfor0,kWenuNp1_hfor0,147026,kGreen-3
+WenuNp1_hfor1,kWenuNp1_hfor1,147026,kGreen-2
+WenuNp1_hfor2,kWenuNp1_hfor2,147026,kGreen+2
+WenuNp1_hfor3,kWenuNp1_hfor3,147026,kGreen-7
+#
+WenuNp2_hfor0,kWenuNp2_hfor0,147027,kGreen-3
+WenuNp2_hfor1,kWenuNp2_hfor1,147027,kGreen-2
+WenuNp2_hfor2,kWenuNp2_hfor2,147027,kGreen+2
+WenuNp2_hfor3,kWenuNp2_hfor3,147027,kGreen-7
+#
+WenuNp3_hfor0,kWenuNp3_hfor0,147028,kGreen-3
+WenuNp3_hfor1,kWenuNp3_hfor1,147028,kGreen-2
+WenuNp3_hfor2,kWenuNp3_hfor2,147028,kGreen+2
+WenuNp3_hfor3,kWenuNp3_hfor3,147028,kGreen-7
+#
+WenuNp4_hfor0,kWenuNp4_hfor0,147029,kGreen-3
+WenuNp4_hfor1,kWenuNp4_hfor1,147029,kGreen-2
+WenuNp4_hfor2,kWenuNp4_hfor2,147029,kGreen+2
+WenuNp4_hfor3,kWenuNp4_hfor3,147029,kGreen-7
+#
+WenuNp5_hfor0,kWenuNp5_hfor0,147030,kGreen-3
+WenuNp5_hfor1,kWenuNp5_hfor1,147030,kGreen-2
+WenuNp5_hfor2,kWenuNp5_hfor2,147030,kGreen+2
+WenuNp5_hfor3,kWenuNp5_hfor3,147030,kGreen-7
+#
+WmunuNp0_hfor0,kWmunuNp0_hfor0,147033,kGreen-3
+WmunuNp0_hfor1,kWmunuNp0_hfor1,147033,kGreen-2
+WmunuNp0_hfor2,kWmunuNp0_hfor2,147033,kGreen+2
+WmunuNp0_hfor3,kWmunuNp0_hfor3,147033,kGreen-7
+#
+WmunuNp1_hfor0,kWmunuNp1_hfor0,147034,kGreen-3
+WmunuNp1_hfor1,kWmunuNp1_hfor1,147034,kGreen-2
+WmunuNp1_hfor2,kWmunuNp1_hfor2,147034,kGreen+2
+WmunuNp1_hfor3,kWmunuNp1_hfor3,147034,kGreen-7
+#
+WmunuNp2_hfor0,kWmunuNp2_hfor0,147035,kGreen-3
+WmunuNp2_hfor1,kWmunuNp2_hfor1,147035,kGreen-2
+WmunuNp2_hfor2,kWmunuNp2_hfor2,147035,kGreen+2
+WmunuNp2_hfor3,kWmunuNp2_hfor3,147035,kGreen-7
+#
+WmunuNp3_hfor0,kWmunuNp3_hfor0,147036,kGreen-3
+WmunuNp3_hfor1,kWmunuNp3_hfor1,147036,kGreen-2
+WmunuNp3_hfor2,kWmunuNp3_hfor2,147036,kGreen+2
+WmunuNp3_hfor3,kWmunuNp3_hfor3,147036,kGreen-7
+#
+WmunuNp4_hfor0,kWmunuNp4_hfor0,147037,kGreen-3
+WmunuNp4_hfor1,kWmunuNp4_hfor1,147037,kGreen-2
+WmunuNp4_hfor2,kWmunuNp4_hfor2,147037,kGreen+2
+WmunuNp4_hfor3,kWmunuNp4_hfor3,147037,kGreen-7
+#
+WmunuNp5_hfor0,kWmunuNp5_hfor0,147038,kGreen-3
+WmunuNp5_hfor1,kWmunuNp5_hfor1,147038,kGreen-2
+WmunuNp5_hfor2,kWmunuNp5_hfor2,147038,kGreen+2
+WmunuNp5_hfor3,kWmunuNp5_hfor3,147038,kGreen-7
+#
+WtaunuNp0_hfor0,kWtaunuNp0_hfor0,147041,kGreen-3
+WtaunuNp0_hfor1,kWtaunuNp0_hfor1,147041,kGreen-2
+WtaunuNp0_hfor2,kWtaunuNp0_hfor2,147041,kGreen+2
+WtaunuNp0_hfor3,kWtaunuNp0_hfor3,147041,kGreen-7
+#
+WtaunuNp1_hfor0,kWtaunuNp1_hfor0,147042,kGreen-3
+WtaunuNp1_hfor1,kWtaunuNp1_hfor1,147042,kGreen-2
+WtaunuNp1_hfor2,kWtaunuNp1_hfor2,147042,kGreen+2
+WtaunuNp1_hfor3,kWtaunuNp1_hfor3,147042,kGreen-7
+#
+WtaunuNp2_hfor0,kWtaunuNp2_hfor0,147043,kGreen-3
+WtaunuNp2_hfor1,kWtaunuNp2_hfor1,147043,kGreen-2
+WtaunuNp2_hfor2,kWtaunuNp2_hfor2,147043,kGreen+2
+WtaunuNp2_hfor3,kWtaunuNp2_hfor3,147043,kGreen-7
+#
+WtaunuNp3_hfor0,kWtaunuNp3_hfor0,147044,kGreen-3
+WtaunuNp3_hfor1,kWtaunuNp3_hfor1,147044,kGreen-2
+WtaunuNp3_hfor2,kWtaunuNp3_hfor2,147044,kGreen+2
+WtaunuNp3_hfor3,kWtaunuNp3_hfor3,147044,kGreen-7
+#
+WtaunuNp4_hfor0,kWtaunuNp4_hfor0,147045,kGreen-3
+WtaunuNp4_hfor1,kWtaunuNp4_hfor1,147045,kGreen-2
+WtaunuNp4_hfor2,kWtaunuNp4_hfor2,147045,kGreen+2
+WtaunuNp4_hfor3,kWtaunuNp4_hfor3,147045,kGreen-7
+#
+WtaunuNp5_hfor0,kWtaunuNp5_hfor0,147046,kGreen-3
+WtaunuNp5_hfor1,kWtaunuNp5_hfor1,147046,kGreen-2
+WtaunuNp5_hfor2,kWtaunuNp5_hfor2,147046,kGreen+2
+WtaunuNp5_hfor3,kWtaunuNp5_hfor3,147046,kGreen-7
+#
+#
+# w + heavy jets (HFOR splitted)
+WcNp0_hfor0,kWcNp0_hfor0,200056,kGreen-3
+WcNp0_hfor1,kWcNp0_hfor1,200056,kGreen-2
+WcNp0_hfor2,kWcNp0_hfor2,200056,kGreen+2
+WcNp0_hfor3,kWcNp0_hfor3,200056,kGreen-7
+#
+WcNp1_hfor0,kWcNp1_hfor0,200057,kGreen-3
+WcNp1_hfor1,kWcNp1_hfor1,200057,kGreen-2
+WcNp1_hfor2,kWcNp1_hfor2,200057,kGreen+2
+WcNp1_hfor3,kWcNp1_hfor3,200057,kGreen-7
+#
+WcNp2_hfor0,kWcNp2_hfor0,200058,kGreen-3
+WcNp2_hfor1,kWcNp2_hfor1,200058,kGreen-2
+WcNp2_hfor2,kWcNp2_hfor2,200058,kGreen+2
+WcNp2_hfor3,kWcNp2_hfor3,200058,kGreen-7
+#
+WcNp3_hfor0,kWcNp3_hfor0,200059,kGreen-3
+WcNp3_hfor1,kWcNp3_hfor1,200059,kGreen-2
+WcNp3_hfor2,kWcNp3_hfor2,200059,kGreen+2
+WcNp3_hfor3,kWcNp3_hfor3,200059,kGreen-7
+#
+WcNp4_hfor0,kWcNp4_hfor0,200060,kGreen-3
+WcNp4_hfor1,kWcNp4_hfor1,200060,kGreen-2
+WcNp4_hfor2,kWcNp4_hfor2,200060,kGreen+2
+WcNp4_hfor3,kWcNp4_hfor3,200060,kGreen-7
+#
+WbbNp0_hfor0,kWbbNp0_hfor0,200256,kGreen-3
+WbbNp0_hfor1,kWbbNp0_hfor1,200256,kGreen-2
+WbbNp0_hfor2,kWbbNp0_hfor2,200256,kGreen+2
+WbbNp0_hfor3,kWbbNp0_hfor3,200256,kGreen-7
+#
+WbbNp1_hfor0,kWbbNp1_hfor0,200257,kGreen-3
+WbbNp1_hfor1,kWbbNp1_hfor1,200257,kGreen-2
+WbbNp1_hfor2,kWbbNp1_hfor2,200257,kGreen+2
+WbbNp1_hfor3,kWbbNp1_hfor3,200257,kGreen-7
+#
+WbbNp2_hfor0,kWbbNp2_hfor0,200258,kGreen-3
+WbbNp2_hfor1,kWbbNp2_hfor1,200258,kGreen-2
+WbbNp2_hfor2,kWbbNp2_hfor2,200258,kGreen+2
+WbbNp2_hfor3,kWbbNp2_hfor3,200258,kGreen-7
+#
+WbbNp3_hfor0,kWbbNp3_hfor0,200259,kGreen-3
+WbbNp3_hfor1,kWbbNp3_hfor1,200259,kGreen-2
+WbbNp3_hfor2,kWbbNp3_hfor2,200259,kGreen+2
+WbbNp3_hfor3,kWbbNp3_hfor3,200259,kGreen-7
+#
+WccNp0_hfor0,kWccNp0_hfor0,200156,kGreen-3
+WccNp0_hfor1,kWccNp0_hfor1,200156,kGreen-2
+WccNp0_hfor2,kWccNp0_hfor2,200156,kGreen+2
+WccNp0_hfor3,kWccNp0_hfor3,200156,kGreen-7
+#
+WccNp1_hfor0,kWccNp1_hfor0,200157,kGreen-3
+WccNp1_hfor1,kWccNp1_hfor1,200157,kGreen-2
+WccNp1_hfor2,kWccNp1_hfor2,200157,kGreen+2
+WccNp1_hfor3,kWccNp1_hfor3,200157,kGreen-7
+#
+WccNp2_hfor0,kWccNp2_hfor0,200158,kGreen-3
+WccNp2_hfor1,kWccNp2_hfor1,200158,kGreen-2
+WccNp2_hfor2,kWccNp2_hfor2,200158,kGreen+2
+WccNp2_hfor3,kWccNp2_hfor3,200158,kGreen-7
+#
+WccNp3_hfor0,kWccNp3_hfor0,200159,kGreen-3
+WccNp3_hfor1,kWccNp3_hfor1,200159,kGreen-2
+WccNp3_hfor2,kWccNp3_hfor2,200159,kGreen+2
+WccNp3_hfor3,kWccNp3_hfor3,200159,kGreen-7
+#
+# Sherpa W + jets
+#
+WenuInclB,kWenuInclB,167740,kGreen-7
+WenuInclC,kWenuInclC,167741,kGreen-7
+WenuInclLight,kWenuInclLight,167742,kGreen-7
+#
+WmunuInclB,kWmunuInclB,167743,kGreen-7
+WmunuInclC,kWmunuInclC,167744,kGreen-7
+WmunuInclLight,kWmunuInclLight,167745,kGreen-7
+#
+WtaunuInclB,kWtaunuInclB,167746,kGreen-7
+WtaunuInclC,kWtaunuInclC,167747,kGreen-7
+WtaunuInclLight,kWtaunuInclLight,167748,kGreen-7
+#
+#
+# z + jets
+ZeeNp0,kZeeNp0,147105,kOrange+1
+ZeeNp1,kZeeNp1,147106,kOrange+1
+ZeeNp2,kZeeNp2,147107,kOrange+1
+ZeeNp3,kZeeNp3,147108,kOrange+1
+ZeeNp4,kZeeNp4,147109,kOrange+1
+ZeeNp5,kZeeNp5,147110,kOrange+1
+ZmumuNp0,kZmumuNp0,147113,kOrange-3
+ZmumuNp1,kZmumuNp1,147114,kOrange-3
+ZmumuNp2,kZmumuNp2,147115,kOrange-3
+ZmumuNp3,kZmumuNp3,147116,kOrange-3
+ZmumuNp4,kZmumuNp4,147117,kOrange-3
+ZmumuNp5,kZmumuNp5,147118,kOrange-3
+ZtautauNp0,kZtautauNp0,147121,kOrange-2
+ZtautauNp1,kZtautauNp1,147122,kOrange-2
+ZtautauNp2,kZtautauNp2,147123,kOrange-2
+ZtautauNp3,kZtautauNp3,147124,kOrange-2
+ZtautauNp4,kZtautauNp4,147125,kOrange-2
+ZtautauNp5,kZtautauNp5,147126,kOrange-2
+#
+#
+# Z + ll + cc
+#
+ZeeccNp0,kZeeccNp0,200432,kOrange+3
+ZeeccNp1,kZeeccNp1,200433,kOrange+3
+ZeeccNp2,kZeeccNp2,200434,kOrange+3
+ZeeccNp3incl,kZeeccNp3incl,200435,kOrange+3
+ZmumuccNp0,kZmumuccNp0,200440,kOrange+3
+ZmumuccNp1,kZmumuccNp1,200441,kOrange+3
+ZmumuccNp2,kZmumuccNp2,200442,kOrange+3
+ZmumuccNp3incl,kZmumuccNp3incl,200443,kOrange+3
+ZtautauccNp0,kZtautauccNp0,200448,kOrange+3
+ZtautauccNp1,kZtautauccNp1,200449,kOrange+3
+ZtautauccNp2,kZtautauccNp2,200450,kOrange+3
+ZtautauccNp3incl,kZtautauccNp3incl,200451,kOrange+3
+#
+# Z + ll + bb
+#
+ZeebbNp0,kZeebbNp0,200332,kOrange+3
+ZeebbNp1,kZeebbNp1,200333,kOrange+3
+ZeebbNp2,kZeebbNp2,200334,kOrange+3
+ZeebbNp3incl,kZeebbNp3incl,200335,kOrange+3
+ZmumubbNp0,kZmumubbNp0,200340,kOrange+3
+ZmumubbNp1,kZmumubbNp1,200341,kOrange+3
+ZmumubbNp2,kZmumubbNp2,200342,kOrange+3
+ZmumubbNp3incl,kZmumubbNp3incl,200343,kOrange+3
+ZtautaubbNp0,kZtautaubbNp0,200348,kOrange+3
+ZtautaubbNp1,kZtautaubbNp1,200349,kOrange+3
+ZtautaubbNp2,kZtautaubbNp2,200350,kOrange+3
+ZtautaubbNp3incl,kZtautaubbNp3incl,200351,kOrange+3
+#
+#
+# Sherpa z + jets
+#ZeeInclB,kZeeInclB,167749,kOrange+1
+#ZeeInclC,kZeeInclC,167750,kOrange+1
+#ZeeInclLight,kZeeInclLight,167751,kOrange+1
+#
+#ZmumuInclB,kZmumuInclB,167752,kOrange-3
+#ZmumuInclC,kZmumuInclC,167753,kOrange-3
+#ZmumuInclLight,kZmumuInclLight,167754,kOrange-3
+#
+#ZtautauInclB,kZtautauInclB,167755,kOrange-2
+#ZtautauInclC,kZtautauInclC,167756,kOrange-2
+#ZtautauInclLight,kZtautauInclLight,167757,kOrange-2
+#
+#ZnunuInclB,kZnunuInclB,167758,kOrange-4
+#ZnunuInclC,kZnunuInclC,167759,kOrange-4
+#ZnunuInclLight,kZnunuInclLight,167760,kOrange-4
+#
+#
+# Diboson
+ww,kDibosonWW,105985,kOrange
+zz,kDibosonZZ,105986,kOrange
+wz,kDibosonWZ,105987,kOrange

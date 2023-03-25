@@ -1,0 +1,87 @@
+#,===================================================
+#
+# List of Datasets to be used for your analysis:
+#
+# <short name>,<Type>,<DSID>
+#
+# <short name>: (part of the) output-file name
+#       <Type>: EType as in AtlSample.h
+#       <DSID>: ID (number) of the sample
+#               (used to find it on the file system)
+#
+# N.B.:
+# Data files have no DSID -> use "periodX"
+#
+# Systematics that exchange samples
+# (e.g. generator comparisons)
+# --> These samples have a special syntax
+#     a) short name has to be
+#
+#        <short name> + "_syst_" + <systematic name>
+#
+#        where <systematic name> has to be the name
+#        of the systematic that is used in
+#        AtlTopLevelAnalysis::fgSystematicNames
+#        for this particular systematic
+#
+#     b) the sample has to have the same type of the 
+#        sample that it will replace
+#
+#        N.B.:
+#        If this is not possible (e.g. for sgtop 
+#        t-channel generator comparison) the function
+#        AtlTopLevelAnalysis::BuildPlottingTasks(..)
+#        has to be altered to deal with this specific case.
+#        
+#
+# Here is a sample of the Wtchan generator comparison:
+#
+# - Nominal sample (uses DR scheme):
+#  wtchannel,kSgTop_Wt,110140,kAzure-3
+# 
+# - Systematic comparison (uses DS scheme):
+#  wtchannel_syst_WtDS,kSgTop_Wt,110142,kAzure-3
+#
+# (the first part of the short name is identical,
+#  but this is not needed)
+# ===================================================
+#
+#
+#
+
+# DATA
+DATA_TOPQ2,kDATA_TOPQ2,physics_Main.SGTOP2,kBlack
+
+# single top s-channel
+schannel_top,kSgTop_sChannel_incl,410025,kAzure+3
+schannel_antitop,kSgTop_sChannel_incl,410026,kAzure+3
+
+# single top t-channel
+tchannel_top,kSgTop_tChannel_top_incl,410011,kAzure+5
+tchannel_antitop,kSgTop_tChannel_antitop_incl,410012,kAzure+5
+
+# single top Wt
+wtchannel,kSgTop_Wt,410013,kAzure-3
+
+# top-quark pair
+ttbar,kTtbar,410000,kRed-4
+
+# W+jets
+WpenuIncl,kWenuIncl,361100,kGreen-7
+WmenuIncl,kWenuIncl,361103,kGreen-7
+WpmunuIncl,kWmunuIncl,361101,kGreen-7
+WmmunuIncl,kWmunuIncl,361104,kGreen-7
+WptaunuIncl,kWtaunuIncl,361102,kGreen-7
+WmtaunuIncl,kWtaunuIncl,361105,kGreen-7
+
+# Z+jets
+ZeeIncl,kZeeIncl,361106,kOrange+1
+ZmumuIncl,kZmumuIncl,361107,kOrange+1
+ZtautauIncl,kZtautauIncl,361108,kOrange+1
+
+# diboson
+WplvWmqq,kDibosonWW,361081,kOrange
+WpqqWmlv,kDibosonWW,361082,kOrange
+WlvZqq,kDibosonWZ,361083,kOrange
+WqqZll,kDibosonWZ,361084,kOrange
+ZqqZll,kDibosonZZ,361086,kOrange

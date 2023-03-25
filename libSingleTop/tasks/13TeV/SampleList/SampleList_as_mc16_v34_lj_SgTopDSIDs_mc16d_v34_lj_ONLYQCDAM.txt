@@ -1,0 +1,7 @@
+
+# kQCD_AntiMuon
+#
+QCDANTIMUON17 kQCD_AntiMuon + kMagenta+2 /rdsk/dat24/atlas/SgTop_Fake/AntiMuon_v34_lj/user.tpelzer.data17_13TeV.AllYear.physics_Main.SGTOP1.grp17_v01_p4345.AntiMuon.lj.v34.sk2_out-skim.root
+QCDANTIMUON17ShapeSyst1 kQCD_AntiMuon + kMagenta+2 /rdsk/dat24/atlas/SgTop_Fake/AntiMuon_v34_lj/user.tpelzer.data17_13TeV.AllYear.physics_Main.SGTOP1.grp17_v01_p4345.AntiMuon_shapeSyst1.lj.v34.sk2_out-skim.root
+QCDANTIMUON17ShapeSyst2 kQCD_AntiMuon + kMagenta+2 /rdsk/dat24/atlas/SgTop_Fake/AntiMuon_v34_lj/user.tpelzer.data17_13TeV.AllYear.physics_Main.SGTOP1.grp17_v01_p4345.AntiMuon_shapeSyst2.lj.v34.sk2_out-skim.root
+

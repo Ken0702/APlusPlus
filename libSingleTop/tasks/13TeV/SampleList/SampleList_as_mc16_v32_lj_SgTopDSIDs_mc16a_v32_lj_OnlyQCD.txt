@@ -1,0 +1,19 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kQCD_AntiMuon
+#
+QCDANTIMUON15 kQCD_AntiMuon + kMagenta+2 /rdsk/dats7/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data15_13TeV.AllYear.physics_Main.SGTOP1.grp15_v01_p4345.AntiMuon.lj.v32.1.skim.2_out-skim.root
++ + + + /rdsk/dats7/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data15_13TeV.AllYear.physics_Main.SGTOP1.grp15_v01_p4345.AntiMuon_shapeSyst1.lj.v32.1.skim.2_out-skim.root
++ + + + /rdsk/dats7/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data15_13TeV.AllYear.physics_Main.SGTOP1.grp15_v01_p4345.AntiMuon_shapeSyst2.lj.v32.1.skim.2_out-skim.root
+QCDANTIMUON16 kQCD_AntiMuon + kMagenta+2 /rdsk/dats2/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data16_13TeV.AllYear.physics_Main.SGTOP1.grp16_v01_p4345.AntiMuon_shapeSyst2.lj.v32.1.skim.2_out-skim.root
++ + + + /rdsk/dats3/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data16_13TeV.AllYear.physics_Main.SGTOP1.grp16_v01_p4345.AntiMuon_shapeSyst1.lj.v32.1.skim.2_out-skim.root
++ + + + /rdsk/dats4/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data16_13TeV.AllYear.physics_Main.SGTOP1.grp16_v01_p4345.AntiMuon.lj.v32.1.skim.2_out-skim.root
+#
+# kQCD_JetLepton
+#

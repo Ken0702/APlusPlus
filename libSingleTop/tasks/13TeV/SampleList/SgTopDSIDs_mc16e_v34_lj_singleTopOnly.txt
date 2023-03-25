@@ -1,0 +1,144 @@
+# see also
+# tasks/SgTopDSIDs_v15.txt (8 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc15_v15_lj.txt (13 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16_v20_lj.txt (13 TeV s-channel, rel.21)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16d_v21_lj.txt
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16d_v23_lj.txt 
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16d_v25_lj.txt 
+# https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/SingleTopProductionV29lj
+# ~kaphle/atlas/download/mc16_v29_lj/all_reduced_mc16e.txt
+#
+# This sample list is for MC16e samples, corresponding to 2018 data. Need to adapt DSID field to check for r-tag.
+#
+# initial in v29:
+# - copy from mc16d, change r10201 -> r10724
+# - 2019-10-29: add QCD AM+JL
+
+## DATA
+#data18,kDATA_TOPQ1,data18_13TeV,kBlack
+#
+## QCD multi-jet
+##QCDMMdata18,kQCDMatrixMethod,data18_13TeV,kMagenta+2
+#QCDANTIMUON18,kQCD_AntiMuon,data18_13TeV,kMagenta+2
+#QCDJetLepton,kQCD_JetLepton,423300*r10724,kMagenta+2
+#
+# Single-top s-channel
+410644schanlt,kSgTop_sChannel_incl,410644*r10724,kAzure+3,kFullSim
+410645schanltbar,kSgTop_sChannel_incl,410645*r10724,kAzure+3,kFullSim
+
+# Single-top t-channel
+410658tchanlt,kSgTop_tChannel_incl,410658*r10724,kAzure+5,kFullSim
+410659tchanltbar,kSgTop_tChannel_incl,410659*r10724,kAzure+5,kFullSim
+
+## Single-top Wt
+#410646Wt,kSgTop_Wt,410646*r10724,kAzure-3,kFullSim
+#410647Wtbar,kSgTop_Wt,410647*r10724,kAzure-3,kFullSim
+#
+## ttbar
+#410470ttbar,kTtbar,410470*r10724,kRed-4,kFullSim
+#
+## W + jets
+#364156WmunuLight,kWmunuInclLight,364156*r10724,kGreen-7,kFullSim
+#364157WmunuC,kWmunuInclC,364157*r10724,kGreen-7,kFullSim
+#364158WmunuB,kWmunuInclB,364158*r10724,kGreen-7,kFullSim
+#364159WmunuLight,kWmunuInclLight,364159*r10724,kGreen-7,kFullSim
+#364160WmunuC,kWmunuInclC,364160*r10724,kGreen-7,kFullSim
+#364161WmunuB,kWmunuInclB,364161*r10724,kGreen-7,kFullSim
+#364162WmunuLight,kWmunuInclLight,364162*r10724,kGreen-7,kFullSim
+#364163WmunuC,kWmunuInclC,364163*r10724,kGreen-7,kFullSim
+#364164WmunuB,kWmunuInclB,364164*r10724,kGreen-7,kFullSim
+#364165WmunuLight,kWmunuInclLight,364165*r10724,kGreen-7,kFullSim
+#364166WmunuC,kWmunuInclC,364166*r10724,kGreen-7,kFullSim
+#364167WmunuB,kWmunuInclB,364167*r10724,kGreen-7,kFullSim
+#364168Wmunu,kWmunuIncl,364168*r10724,kGreen-7,kFullSim
+#364169Wmunu,kWmunuIncl,364169*r10724,kGreen-7,kFullSim
+#364170WenuLight,kWenuInclLight,364170*r10724,kGreen-7,kFullSim
+#364171WenuC,kWenuInclC,364171*r10724,kGreen-7,kFullSim
+#364172WenuB,kWenuInclB,364172*r10724,kGreen-7,kFullSim
+#364173WenuLight,kWenuInclLight,364173*r10724,kGreen-7,kFullSim
+#364174WenuC,kWenuInclC,364174*r10724,kGreen-7,kFullSim
+#364175WenuB,kWenuInclB,364175*r10724,kGreen-7,kFullSim
+#364176WenuLight,kWenuInclLight,364176*r10724,kGreen-7,kFullSim
+#364177WenuC,kWenuInclC,364177*r10724,kGreen-7,kFullSim
+#364178WenuB,kWenuInclB,364178*r10724,kGreen-7,kFullSim
+#364179WenuLight,kWenuInclLight,364179*r10724,kGreen-7,kFullSim
+#364180WenuC,kWenuInclC,364180*r10724,kGreen-7,kFullSim
+#364181WenuB,kWenuInclB,364181*r10724,kGreen-7,kFullSim
+#364182Wenu,kWenuIncl,364182*r10724,kGreen-7,kFullSim
+#364183Wenu,kWenuIncl,364183*r10724,kGreen-7,kFullSim
+#364184WtaunuLight,kWtaunuInclLight,364184*r10724,kGreen-7,kFullSim
+#364185WtaunuC,kWtaunuInclC,364185*r10724,kGreen-7,kFullSim
+#364186WtaunuB,kWtaunuInclB,364186*r10724,kGreen-7,kFullSim
+#364187WtaunuLight,kWtaunuInclLight,364187*r10724,kGreen-7,kFullSim
+#364188WtaunuC,kWtaunuInclC,364188*r10724,kGreen-7,kFullSim
+#364189WtaunuB,kWtaunuInclB,364189*r10724,kGreen-7,kFullSim
+#364190WtaunuLight,kWtaunuInclLight,364190*r10724,kGreen-7,kFullSim
+#364191WtaunuC,kWtaunuInclC,364191*r10724,kGreen-7,kFullSim
+#364192WtaunuB,kWtaunuInclB,364192*r10724,kGreen-7,kFullSim
+#364193WtaunuLight,kWtaunuInclLight,364193*r10724,kGreen-7,kFullSim
+#364194WtaunuC,kWtaunuInclC,364194*r10724,kGreen-7,kFullSim
+#364195WtaunuB,kWtaunuInclB,364195*r10724,kGreen-7,kFullSim
+#364196Wtaunu,kWtaunuIncl,364196*r10724,kGreen-7,kFullSim
+#364197Wtaunu,kWtaunuIncl,364197*r10724,kGreen-7,kFullSim
+#
+## Z+jets
+#364100ZmumuLight,kZmumuInclLight,364100*r10724,kOrange+1,kFullSim
+#364101ZmumuC,kZmumuInclC,364101*r10724,kOrange+1,kFullSim
+#364102ZmumuB,kZmumuInclB,364102*r10724,kOrange+1,kFullSim
+#364103ZmumuLight,kZmumuInclLight,364103*r10724,kOrange+1,kFullSim
+#364104ZmumuC,kZmumuInclC,364104*r10724,kOrange+1,kFullSim
+#364105ZmumuB,kZmumuInclB,364105*r10724,kOrange+1,kFullSim
+#364106ZmumuLight,kZmumuInclLight,364106*r10724,kOrange+1,kFullSim
+#364107ZmumuC,kZmumuInclC,364107*r10724,kOrange+1,kFullSim
+#364108ZmumuB,kZmumuInclB,364108*r10724,kOrange+1,kFullSim
+#364109ZmumuLight,kZmumuInclLight,364109*r10724,kOrange+1,kFullSim
+#364110ZmumuC,kZmumuInclC,364110*r10724,kOrange+1,kFullSim
+#364111ZmumuB,kZmumuInclB,364111*r10724,kOrange+1,kFullSim
+#364112Zmumu,kZmumuIncl,364112*r10724,kOrange+1,kFullSim
+#364113Zmumu,kZmumuIncl,364113*r10724,kOrange+1,kFullSim
+#364114ZeeLight,kZeeInclLight,364114*r10724,kOrange+1,kFullSim
+#364115ZeeC,kZeeInclC,364115*r10724,kOrange+1,kFullSim
+#364116ZeeB,kZeeInclB,364116*r10724,kOrange+1,kFullSim
+#364117ZeeLight,kZeeInclLight,364117*r10724,kOrange+1,kFullSim
+#364118ZeeC,kZeeInclC,364118*r10724,kOrange+1,kFullSim
+#364119ZeeB,kZeeInclB,364119*r10724,kOrange+1,kFullSim
+#364120ZeeLight,kZeeInclLight,364120*r10724,kOrange+1,kFullSim
+#364121ZeeC,kZeeInclC,364121*r10724,kOrange+1,kFullSim
+#364122ZeeB,kZeeInclB,364122*r10724,kOrange+1,kFullSim
+#364123ZeeLight,kZeeInclLight,364123*r10724,kOrange+1,kFullSim
+#364124ZeeC,kZeeInclC,364124*r10724,kOrange+1,kFullSim
+#364125ZeeB,kZeeInclB,364125*r10724,kOrange+1,kFullSim
+#364126Zee,kZeeIncl,364126*r10724,kOrange+1,kFullSim
+#364127Zee,kZeeIncl,364127*r10724,kOrange+1,kFullSim
+#364128ZtautauLight,kZtautauInclLight,364128*r10724,kOrange+1,kFullSim
+#364129ZtautauC,kZtautauInclC,364129*r10724,kOrange+1,kFullSim
+#364130ZtautauB,kZtautauInclB,364130*r10724,kOrange+1,kFullSim
+#364131ZtautauLight,kZtautauInclLight,364131*r10724,kOrange+1,kFullSim
+#364132ZtautauC,kZtautauInclC,364132*r10724,kOrange+1,kFullSim
+#364133ZtautauB,kZtautauInclB,364133*r10724,kOrange+1,kFullSim
+#364134ZtautauLight,kZtautauInclLight,364134*r10724,kOrange+1,kFullSim
+#364135ZtautauC,kZtautauInclC,364135*r10724,kOrange+1,kFullSim
+#364136ZtautauB,kZtautauInclB,364136*r10724,kOrange+1,kFullSim
+#364137ZtautauLight,kZtautauInclLight,364137*r10724,kOrange+1,kFullSim
+#364138ZtautauC,kZtautauInclC,364138*r10724,kOrange+1,kFullSim
+#364139ZtautauB,kZtautauInclB,364139*r10724,kOrange+1,kFullSim
+#364140Ztautau,kZtautauIncl,364140*r10724,kOrange+1,kFullSim
+#364141Ztautau,kZtautauIncl,364141*r10724,kOrange+1,kFullSim
+#
+## Diboson
+## all-lep
+#364250llll,kDibosonZZ,364250*r10724,kOrange+1,kFullSim
+#364253lllv,kDibosonWZ,364253*r10724,kOrange+1,kFullSim
+#364254llvv,kDibosonZZ,364254*r10724,kOrange+1,kFullSim
+#364255lvvv,kDibosonWZ,364255*r10724,kOrange+1,kFullSim
+## 364288llll,kDibosonZZ,364288*r10724,kOrange+1,kFullSim
+## 364289lllv,kDibosonWZ,364289*r10724,kOrange+1,kFullSim
+## 364290llvv,kDibosonZZ,364290*r10724,kOrange+1,kFullSim
+## hadr.
+#363355ZqqZvv,kDibosonZZ,363355*r10724,kOrange+1,kFullSim
+#363356ZqqZll,kDibosonZZ,363356*r10724,kOrange+1,kFullSim
+#363357WqqZvv,kDibosonWZ,363357*r10724,kOrange+1,kFullSim
+#363358WqqZll,kDibosonWZ,363358*r10724,kOrange+1,kFullSim
+#363359WpqqWmlv,kDibosonWW,363359*r10724,kOrange+1,kFullSim
+#363360WplvWmqq,kDibosonWW,363360*r10724,kOrange+1,kFullSim
+#363489WlvZqq,kDibosonWZ,363489*r10724,kOrange+1,kFullSim

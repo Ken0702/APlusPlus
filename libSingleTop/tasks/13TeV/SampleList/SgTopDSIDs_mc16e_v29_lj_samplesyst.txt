@@ -1,0 +1,64 @@
+# see also
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16e_v29_lj.txt 
+# https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/SingleTopProductionV29lj
+# ~kaphle/atlas/download/mc16_v29lj/all_reduced_MC16e.txt  # full list including systematics
+# ~kaphle/atlas/download/mc16_v29lj/systematics_MC16e.txt  # only systematics incl v29*
+#
+# This sample list is for MC16e samples, corresponding to 2018 data. Need to adapt DSID field to check for r-tag.
+
+# 2019-11-21: created from mc16a file and v29 systematics_MC16e.txt
+# 2020-02-11: add 2l samples again, see mc16d file
+
+# this file is just for the sample systematics and AF2 nominals
+
+# Single-top t-channel
+410658tchanlt,kSgTop_tChannel_incl,410658*r10724,kAzure+5,kAtlFast
+410659tchanltbar,kSgTop_tChannel_incl,410659*r10724,kAzure+5,kAtlFast
+411032tchanltbarPhHpp,kSgTop_tChannel_incl,411032*r10724,kAzure+5,kAtlFast
+411033tchanltPhHpp,kSgTop_tChannel_incl,411033*r10724,kAzure+5,kAtlFast
+412004tchanlaMcPy8,kSgTop_tChannel_incl,412004*r10724,kAzure+5,kAtlFast
+# user.cescobar.mc16_13TeV.410658.PhPy8EG_tch_BW50_l_t.SGTOP1.e6671_a875_r10724_p3629.lj.v29.1_out.root
+# user.cescobar.mc16_13TeV.410659.PhPy8EG_tch_BW50_l_tbar.SGTOP1.e6671_a875_r10724_p3629.lj.v29.1_out.root
+# user.gjakel.mc16_13TeV.411032.PhH7EG_tch_l_tbar.SGTOP1.e6719_a875_r10724_p3629.lj.v29_AT21.2.85_out.root
+# user.gjakel.mc16_13TeV.411033.PhH7EG_tch_l_t.SGTOP1.e6719_a875_r10724_p3629.lj.v29_AT21.2.85_out.root
+# user.cescobar.mc16_13TeV.412004.aMCPy8EG_tch.SGTOP1.e6888_a875_r10724_p3629.lj.v29.1_out.root
+
+# Single-top s-channel
+410644schanlt,kSgTop_sChannel_incl,410644*r10724,kAzure+3,kAtlFast
+410645schanltbar,kSgTop_sChannel_incl,410645*r10724,kAzure+3,kAtlFast
+411034schanltPhHpp,kSgTop_sChannel_incl,411034*r10724,kAzure+3,kAtlFast
+411035schanltbarPhHpp,kSgTop_sChannel_incl,411035*r10724,kAzure+3,kAtlFast
+412005schanlaMcPy8,kSgTop_sChannel_incl,412005*r10724,kAzure+3,kAtlFast
+# user.gjakel.mc16_13TeV.410644.PhPy8EG_sch_l_t.SGTOP1.e6527_a875_r10724_p3629.lj.v29.0_out.root
+# user.gjakel.mc16_13TeV.410645.PhPy8EG_sch_l_tbar.SGTOP1.e6527_a875_r10724_p3629.lj.v29.0_out.root
+# user.gjakel.mc16_13TeV.411034.PhH7EG_sch_l_t.SGTOP1.e6734_a875_r10724_p3629.lj.v29_AT21.2.85_out.root
+# user.gjakel.mc16_13TeV.411035.PhH7EG_sch_l_tbar.SGTOP1.e6734_a875_r10724_p3629.lj.v29_AT21.2.85_out.root
+# user.gjakel.mc16_13TeV.412005.aMCPy8EG_sch_l.SGTOP1.e6867_a875_r10724_p3629.lj.v29.0_out.root
+
+# Single-top Wt
+410646Wt,kSgTop_Wt,410646*r10724,kAzure-3,kAtlFast
+410647Wtbar,kSgTop_Wt,410647*r10724,kAzure-3,kAtlFast
+410654WtDSt,kSgTop_Wt,410654*r10724,kAzure-3,kFullSim
+410655WtDStbar,kSgTop_Wt,410655*r10724,kAzure-3,kFullSim
+411036WtDRtPhHpp,kSgTop_Wt,411036*r10724,kAzure-3,kAtlFast
+411037WtDRtbarPhHpp,kSgTop_Wt,411037*r10724,kAzure-3,kAtlFast
+412002WtDRaMCPy8,kSgTop_Wt,412002*r10724,kAzure-3,kAtlFast
+# user.gjakel.mc16_13TeV.410646.PhPy8EG_Wt_DR_t.SGTOP1.e6552_a875_r10724_p3832.lj.v29.0_out.root
+# user.gjakel.mc16_13TeV.410647.PhPy8EG_Wt_DR_tbar.SGTOP1.e6552_a875_r10724_p3832.lj.v29.0_out.root
+# user.gjakel.mc16_13TeV.410654.PhPy8EG_Wt_DS_t.SGTOP1.e6552_s3126_r10724_p3832.lj.v29.0_out.root
+# user.gjakel.mc16_13TeV.410655.PhPy8EG_Wt_DS_tbar.SGTOP1.e6552_s3126_r10724_p3832.lj.v29.0_out.root
+# user.gjakel.mc16_13TeV.411036.PhH7EG_Wt_DR_t.SGTOP1.e6702_a875_r10724_p3832.lj.v29_AT21.2.85_out.root
+# user.gjakel.mc16_13TeV.411037.PhH7EG_Wt_DR_tbar.SGTOP1.e6702_a875_r10724_p3832.lj.v29_AT21.2.85_out.root
+# user.gjakel.mc16_13TeV.412002.aMCPy8EG_HThalfscale_tW.SGTOP1.e6817_a875_r10724_p3832.lj.v29.0_out.root
+
+# ttbar
+410470ttbar,kTtbar,410470*r10724,kRed-4,kAtlFast
+410480ttbarhdamp517,kTtbar,410480*r10724,kRed-4,kAtlFast
+410482ttbarhdamp517DiLep,kTtbar,410482*r10724,kRed-4,kAtlFast
+410557ttbarPhHpp,kTtbar,410557*r10724,kRed-4,kAtlFast
+410558ttbarPhHppDiLep,kTtbar,410558*r10724,kRed-4,kAtlFast
+# user.gjakel.mc16_13TeV.410470.PhPy8EG_ttbar_hdamp258p75_l.SGTOP1.e6337_a875_r10724_p3832.lj.v29.0_out.root
+# user.gjakel.mc16_13TeV.410480.PhPy8EG_ttbar_hdamp517p5_1l.SGTOP1.e6454_a875_r10724_p3832.lj.v29.0_out.root
+# user.gjakel.mc16_13TeV.410482.PhPy8EG_ttbar_hdamp517p5_2l.SGTOP1.e6454_a875_r10724_p3832.lj.v29_slim_out.root
+# user.gjakel.mc16_13TeV.410557.PhH7EG_ttbar_hdamp258p75_1l.SGTOP1.e6366_a875_r10724_p3832.lj.v29_AT21.2.85_out.root
+# user.gjakel.mc16_13TeV.410558.PhH7EG_ttbar_hdamp258p75_2l.SGTOP1.e6366_a875_r10724_p3832.lj.v29_AT21.2.85_out.root

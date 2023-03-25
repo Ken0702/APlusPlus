@@ -1,0 +1,16 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kSgTop_sChannel_incl
+#
+#
+# kSgTop_tChannel_incl
+#
+#
+# kSgTop_Wt
+#

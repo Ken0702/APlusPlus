@@ -1,0 +1,172 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kDATA_TOPQ1
+#
+data15D kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodD.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+data15E kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodE.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+data15F kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodF.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+data15G kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodG.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+data15H kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodH.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+data15J kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodJ.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+data16A kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodA.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16B kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodB.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16C kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodC.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16D kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodD.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16E kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodE.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16F kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodF.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16G kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodG.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16I kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodI.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16K kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodK.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+data16L kDATA_TOPQ1 + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodL.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+#
+# kQCDMatrixMethod
+#
+QCDMMdata15D kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodD.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+QCDMMdata15E kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodE.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+QCDMMdata15F kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodF.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+QCDMMdata15G kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodG.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+QCDMMdata15H kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodH.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+QCDMMdata15J kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data15_13TeV.periodJ.physics_Main.SGTOP1.grp15_v01_p2950.lj.v15_out.root
+QCDMMdata16A kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodA.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16B kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodB.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16C kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodC.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16D kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodD.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16E kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodE.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16F kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodF.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16G kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodG.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16I kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodI.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16K kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodK.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+QCDMMdata16L kQCDMatrixMethod + kBlack /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/DATA/user.dhirsch.data16_13TeV.periodL.physics_Main.SGTOP1.grp16_v01_p2950.lj.v15_out.root
+#
+# kSgTop_sChannel_incl
+#
+410025schanlt kSgTop_sChannel_incl 2.06196 kAzure+3 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.410025.PhPy6_P2012_sgtop_schan_l_t.SGTOP1.e3998_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+410026schanltbar kSgTop_sChannel_incl 1.28925 kAzure+3 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.410026.PhPy6_P2012_sgtop_schan_l_tbar.SGTOP1.e3998_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+410011tchanlt kSgTop_tChannel_incl 44.1501 kAzure+5 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.410011.PhPy6_P2012_sgtop_tchan_l_t.SGTOP1.e3824_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+410012tchanltbar kSgTop_tChannel_incl 26.2755 kAzure+5 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.410012.PhPy6_P2012_sgtop_tchan_l_tbar.SGTOP1.e3824_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+410013Wt kSgTop_Wt 35.8455 kAzure-3 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.410013.PhPy6_P2012_Wt_t.SGTOP1.e3753_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+410014Wtbar kSgTop_Wt 35.8244 kAzure-3 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.410014.PhPy6_P2012_Wt_tbar.SGTOP1.e3753_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+#
+# kTtbar
+#
+410000ttbar kTtbar 451.664 kRed-4 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.410000.PhPy6_P2012_ttbar_hdamp172_l.SGTOP1.e3698_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+#
+# kWmunuInclLight
+#
+364156WmunuLight kWmunuInclLight 15300.1 kGreen-7 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364156.Sh221_Wmunu_maxHtPtV0_70_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364157WmunuC kWmunuInclC 2419.08 kGreen-7 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364157.Sh221_Wmunu_maxHtPtV0_70_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364158WmunuB kWmunuInclB 819.041 kGreen-7 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364158.Sh221_Wmunu_maxHtPtV0_70_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364159WmunuLight kWmunuInclLight 618.429 kGreen-7 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364159.Sh221_Wmunu_maxHtPtV70_140_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364160WmunuC kWmunuInclC 213.411 kGreen-7 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364160.Sh221_Wmunu_maxHtPtV70_140_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364161WmunuB kWmunuInclB 69.3299 kGreen-7 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364161.Sh221_Wmunu_maxHtPtV70_140_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364162WmunuLight kWmunuInclLight 206.221 kGreen-7 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364162.Sh221_Wmunu_maxHtPtV140_280_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364163WmunuC kWmunuInclC 95.5037 kGreen-7 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364163.Sh221_Wmunu_maxHtPtV140_280_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364164WmunuB kWmunuInclB 35.8147 kGreen-7 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364164.Sh221_Wmunu_maxHtPtV140_280_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364165WmunuLight kWmunuInclLight 38.2089 kGreen-7 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364165.Sh221_Wmunu_maxHtPtV280_500_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364166WmunuC kWmunuInclC 22.2349 kGreen-7 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364166.Sh221_Wmunu_maxHtPtV280_500_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364167WmunuB kWmunuInclB 9.3223 kGreen-7 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364167.Sh221_Wmunu_maxHtPtV280_500_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364168Wmunu kWmunuIncl 14.5627 kGreen-7 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364168.Sh221_Wmunu_maxHtPtV500_1000.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364169Wmunu kWmunuIncl 1.19761 kGreen-7 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.jdonini.mc15_13TeV.364169.Sh221_Wmunu_maxHtPtV1000_Ecms.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+#
+# kWenuInclLight
+#
+364170WenuLight kWenuInclLight 15299.7 kGreen-7 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364170.Sh221_Wenu_maxHtPtV0_70_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364171WenuC kWenuInclC 2418.36 kGreen-7 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364171.Sh221_Wenu_maxHtPtV0_70_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364172WenuB kWenuInclB 819.468 kGreen-7 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364172.Sh221_Wenu_maxHtPtV0_70_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364173WenuLight kWenuInclLight 611.538 kGreen-7 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364173.Sh221_Wenu_maxHtPtV70_140_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364174WenuC kWenuInclC 209.068 kGreen-7 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364174.Sh221_Wenu_maxHtPtV70_140_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364175WenuB kWenuInclB 94.8254 kGreen-7 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364175.Sh221_Wenu_maxHtPtV70_140_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364176WenuLight kWenuInclLight 196.791 kGreen-7 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364176.Sh221_Wenu_maxHtPtV140_280_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364177WenuC kWenuInclC 95.5097 kGreen-7 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364177.Sh221_Wenu_maxHtPtV140_280_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364178WenuB kWenuInclB 35.894 kGreen-7 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364178.Sh221_Wenu_maxHtPtV140_280_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364179WenuLight kWenuInclLight 38.0738 kGreen-7 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364179.Sh221_Wenu_maxHtPtV280_500_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364180WenuC kWenuInclC 22.1657 kGreen-7 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364180.Sh221_Wenu_maxHtPtV280_500_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364181WenuB kWenuInclB 9.36888 kGreen-7 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364181.Sh221_Wenu_maxHtPtV280_500_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364182Wenu kWenuIncl 14.7703 kGreen-7 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364182.Sh221_Wenu_maxHtPtV500_1000.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364183Wenu kWenuIncl 1.19664 kGreen-7 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364183.Sh221_Wenu_maxHtPtV1000_Ecms.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+#
+# kWtaunuInclLight
+#
+364184WtaunuLight kWtaunuInclLight 15328.6 kGreen-7 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364184.Sh221_Wtaunu_maxHtPtV0_70_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364185WtaunuC kWtaunuInclC 2403.43 kGreen-7 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364185.Sh221_Wtaunu_maxHtPtV0_70_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364186WtaunuB kWtaunuInclB 829.089 kGreen-7 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364186.Sh221_Wtaunu_maxHtPtV0_70_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364187WtaunuLight kWtaunuInclLight 619.517 kGreen-7 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364187.Sh221_Wtaunu_maxHtPtV70_140_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364188WtaunuC kWtaunuInclC 204.113 kGreen-7 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364188.Sh221_Wtaunu_maxHtPtV70_140_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364189WtaunuB kWtaunuInclB 95.0974 kGreen-7 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364189.Sh221_Wtaunu_maxHtPtV70_140_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364190WtaunuLight kWtaunuInclLight 196.304 kGreen-7 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364190.Sh221_Wtaunu_maxHtPtV140_280_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364191WtaunuC kWtaunuInclC 95.64 kGreen-7 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364191.Sh221_Wtaunu_maxHtPtV140_280_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364192WtaunuB kWtaunuInclB 38.8685 kGreen-7 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364192.Sh221_Wtaunu_maxHtPtV140_280_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364193WtaunuLight kWtaunuInclLight 38.1533 kGreen-7 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364193.Sh221_Wtaunu_maxHtPtV280_500_L.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364194WtaunuC kWtaunuInclC 22.1002 kGreen-7 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364194.Sh221_Wtaunu_maxHtPtV280_500_C.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364195WtaunuB kWtaunuInclB 9.38204 kGreen-7 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364195.Sh221_Wtaunu_maxHtPtV280_500_B.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364196Wtaunu kWtaunuIncl 14.5976 kGreen-7 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364196.Sh221_Wtaunu_maxHtPtV500_1000.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+364197Wtaunu kWtaunuIncl 1.19713 kGreen-7 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364197.Sh221_Wtaunu_maxHtPtV1000_Ecms.SGTOP1.e5340_s2726_r7772_r7676_p2952.lj.v15_out.root
+#
+# kZmumuInclLight
+#
+364100ZmumuLight kZmumuInclLight 1589.63 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364100.Sh221_Zmumu_maxHtPtV0_70_L.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364101ZmumuC kZmumuInclC 218.147 kOrange+1 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364101.Sh221_Zmumu_maxHtPtV0_70_C.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364102ZmumuB kZmumuInclB 124.013 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364102.Sh221_Zmumu_maxHtPtV0_70_B.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364103ZmumuLight kZmumuInclLight 73.1486 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364103.Sh221_Zmumu_maxHtPtV70_140_L.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364104ZmumuC kZmumuInclC 19.8411 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364104.Sh221_Zmumu_maxHtPtV70_140_C.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364105ZmumuB kZmumuInclB 12.08 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364105.Sh221_Zmumu_maxHtPtV70_140_B.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364106ZmumuLight kZmumuInclLight 23.6806 kOrange+1 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364106.Sh221_Zmumu_maxHtPtV140_280_L.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364107ZmumuC kZmumuInclC 9.04446 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364107.Sh221_Zmumu_maxHtPtV140_280_C.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364108ZmumuB kZmumuInclB 5.86387 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364108.Sh221_Zmumu_maxHtPtV140_280_B.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364109ZmumuLight kZmumuInclLight 4.65413 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364109.Sh221_Zmumu_maxHtPtV280_500_L.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364110ZmumuC kZmumuInclC 2.20916 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364110.Sh221_Zmumu_maxHtPtV280_500_C.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364111ZmumuB kZmumuInclB 1.45419 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364111.Sh221_Zmumu_maxHtPtV280_500_B.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364112Zmumu kZmumuIncl 1.74358 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364112.Sh221_Zmumu_maxHtPtV500_1000.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+364113Zmumu kZmumuIncl 0.144013 kOrange+1 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.364113.Sh221_Zmumu_maxHtPtV1000_Ecms.SGTOP1.e5271_s2726_r7772_r7676_p2952.lj.v15_out.root
+#
+# kZeeInclLight
+#
+364114ZeeLight kZeeInclLight 1586.66 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364114.Sh221_Zee_maxHtPtV0_70_L.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364115ZeeC kZeeInclC 218.16 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364115.Sh221_Zee_maxHtPtV0_70_C.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364116ZeeB kZeeInclB 123.302 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364116.Sh221_Zee_maxHtPtV0_70_B.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364117ZeeLight kZeeInclLight 74.3928 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364117.Sh221_Zee_maxHtPtV70_140_L.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364118ZeeC kZeeInclC 19.8296 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364118.Sh221_Zee_maxHtPtV70_140_C.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364119ZeeB kZeeInclB 12.3085 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364119.Sh221_Zee_maxHtPtV70_140_B.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364120ZeeLight kZeeInclLight 24.4068 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364120.Sh221_Zee_maxHtPtV140_280_L.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364121ZeeC kZeeInclC 9.13863 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364121.Sh221_Zee_maxHtPtV140_280_C.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364122ZeeB kZeeInclB 5.93117 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364122.Sh221_Zee_maxHtPtV140_280_B.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364123ZeeLight kZeeInclLight 4.74799 kOrange+1 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364123.Sh221_Zee_maxHtPtV280_500_L.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364124ZeeC kZeeInclC 2.22321 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364124.Sh221_Zee_maxHtPtV280_500_C.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364125ZeeB kZeeInclB 1.45716 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364125.Sh221_Zee_maxHtPtV280_500_B.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364126Zee kZeeIncl 1.76308 kOrange+1 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364126.Sh221_Zee_maxHtPtV500_1000.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+364127Zee kZeeIncl 0.144871 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.cescobar.mc15_13TeV.364127.Sh221_Zee_maxHtPtV1000_Ecms.SGTOP1.e5299_s2726_r7772_r7676_p2952.lj.v15_out.root
+#
+# kZtautauInclLight
+#
+364128ZtautauLight kZtautauInclLight 1587.2 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364128.Sh221_Ztautau_maxHtPtV0_70_L.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364129ZtautauC kZtautauInclC 218.307 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364129.Sh221_Ztautau_maxHtPtV0_70_C.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364130ZtautauB kZtautauInclB 124.552 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364130.Sh221_Ztautau_maxHtPtV0_70_B.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364131ZtautauLight kZtautauInclLight 74.1331 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364131.Sh221_Ztautau_maxHtPtV70_140_L.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364132ZtautauC kZtautauInclC 19.709 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364132.Sh221_Ztautau_maxHtPtV70_140_C.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364133ZtautauB kZtautauInclB 11.9878 kOrange+1 /rdsk/datm8/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364133.Sh221_Ztautau_maxHtPtV70_140_B.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364134ZtautauLight kZtautauInclLight 24.1858 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364134.Sh221_Ztautau_maxHtPtV140_280_L.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364135ZtautauC kZtautauInclC 9.09596 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364135.Sh221_Ztautau_maxHtPtV140_280_C.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364136ZtautauB kZtautauInclB 5.34266 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364136.Sh221_Ztautau_maxHtPtV140_280_B.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364137ZtautauLight kZtautauInclLight 4.67189 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364137.Sh221_Ztautau_maxHtPtV280_500_L.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364138ZtautauC kZtautauInclC 2.21896 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364138.Sh221_Ztautau_maxHtPtV280_500_C.SGTOP1.e5313_s2726_r7772_r7676_p2952.lj.v15_out.root
+364139ZtautauB kZtautauInclB 1.46542 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364139.Sh221_Ztautau_maxHtPtV280_500_B.SGTOP1.e5313_s2726_r7772_r7676_p2952.lj.v15_out.root
+364140Ztautau kZtautauIncl 1.76454 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364140.Sh221_Ztautau_maxHtPtV500_1000.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+364141Ztautau kZtautauIncl 0.144646 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.364141.Sh221_Ztautau_maxHtPtV1000_Ecms.SGTOP1.e5307_s2726_r7772_r7676_p2952.lj.v15_out.root
+#
+# kDibosonWW
+#
+361600WWlvlv kDibosonWW 10.631 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.361600.PhPy8_WWlvlv.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.lj.v15_out.root
+361601WZlvll kDibosonWZ 4.4625 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc15_v15_lj/MC/user.dhirsch.mc15_13TeV.361601.PhPy8_WZlvll_mll4.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+361602WZlvvv kDibosonWZ 2.7778 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.361602.PhPy8_WZlvvv_mll4.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.lj.v15_out.root
+361603ZZllll kDibosonZZ 1.2568 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.361603.PhPy8_ZZllll_mll4.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2952.lj.v15_out.root
+361604ZZvvll kDibosonZZ 0.92498 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.361604.PhPy8_ZZvvll_mll4.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.lj.v15_out.root
+361606WWlvqq kDibosonWW 44.176 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.361606.PhPy8_WWlvqq.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.lj.v15_out.root
+361607WZqqll kDibosonWZ 3.2849 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.361607.PhPy8_WZqqll_mll20.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.lj.v15_out.root
+361609WZlvqq kDibosonWZ 10.099 kOrange+1 /rdsk/datm1/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.361609.PhPy8_WZlvqq_mqq20.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.lj.v15_out.root
+361610ZZqqll kDibosonZZ 2.2739 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc15_v15_lj/MC/user.smergelm.mc15_13TeV.361610.PhPy8_ZZqqll_mqq20mll20.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.lj.v15_out.root

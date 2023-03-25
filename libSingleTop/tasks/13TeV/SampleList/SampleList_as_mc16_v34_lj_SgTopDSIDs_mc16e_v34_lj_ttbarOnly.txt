@@ -1,0 +1,11 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kTtbar
+#
+410470ttbar kTtbar 452.352 kRed-4 /rdsk/dat23/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410470.PhPy8EG_ttbar_hdamp258p75_l.SGTOP1.e6337_s3126_r10724_p4346.lj.v34truth.sk1_out-skim.root

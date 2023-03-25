@@ -1,0 +1,11 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kSgTop_tChannel_incl
+#
+410658tchanlt kSgTop_tChannel_incl 44.0587 kAzure+5 /rdsk/dats1/atlas/SgTopD3PD/mc16_v29_lj/MC/user.cescobar.mc16_13TeV.410658.PhPy8EG_tch_BW50_l_t.SGTOP1.e6671_s3126_r9364_p3832.lj.v29_out.root

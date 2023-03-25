@@ -1,0 +1,91 @@
+<p style="margin:0em 1em 2em 1em;">
+The PDF reweighting tool computes the total pdf uncertainties for the user's observable (cross section, etc.). The procedure is based on the <a href="http://www.hep.ucl.ac.uk/pdf4lhc/PDF4LHC_practical_guide.pdf">PDF4LHC-guide<a/> / <a href="https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/TopPdfUncertainty">TopPdfUncertainty TWiki</a> and includes the computation of the inter- and intra-pdf uncertainties using <a href="http://lhapdf.hepforge.org/">LHAPDF</a>.<br />
+RootCore is needed to compile the tool.
+</p>
+
+<h3>Installation:</h3>
+<p>
+This is a RootCore package and depends on RootCore itself and
+LHAPDF6. In order to install it, you need to install (in this order).
+<ol>
+<li>Create a new directory:</li>
+<pre>
+  e.g.:
+  mkdir packages
+  cd packages
+</li>
+<li>Install RootCore</li>
+<pre>
+   Please follow the setup instrutions on this TWiki:
+   
+   https://twiki.cern.ch/twiki/bin/viewauth/AtlasComputing/RootCore#Setting_up_RootCore
+   
+</pre>
+<li>Install Asg_Boost, Asg_Lhapdf and PdfReweightingTool</li>
+<pre>
+  touch packages.txt
+  echo "atlasoff/AsgExternal/Asg_Boost/tags" >> packages.txt
+  echo "atlasoff/AsgExternal/Asg_Lhapdf/tags" >> packages.txt
+  echo "atlasinst/Institutes/Humboldt/SingleTop/PdfReweightingTool/tags" >> packages.txt
+  ./RootCore/scripts/checkout.sh packages.txt
+  ./RootCore/scripts/find_packages.sh
+</pre>
+<li>Compile the tool</li>
+<pre>
+  ./RootCore/scripts/compile.sh
+</pre>
+</ol>
+The shared library of the tool can be found in 'RootCore/lib/generic/'
+</p>
+<h3>FAQ:</h3>
+<p>
+<ol>
+<li>I can't compile the tool?</li>
+<pre>
+Please try the setup on lxplus. Start with a clean shell. Then type
+these two commands:
+
+setupATLAS
+localSetupROOT
+
+then follow the setup described above.  If this solves your problem,
+check your shell variables. Don't define variables pointing to another
+LHAPDF6 or boost install directory. This might confuse Asg_Lhapdf.
+
+Please check the documenation of Asg_Lhapdf on how to use a different
+LHADDF6 version.
+
+If it still does not compile, sent me an email.
+(Check the 'Changelog' for email contact.)
+</pre>
+<li>The compilation step was successful, but I can't find the shared library?</li>
+<pre>
+Do you use a recent RootCore version? In earlier versions of RootCore,
+the shared libary was located in 'PdfReweightingTool/StandAlone/'.
+</pre>
+<li>The tool can't find any pdf set?</li>
+<pre>
+Please set the environment variable 'LHAPDF_DATA_PATH' to point to the
+directory that hold the pdf sets (and make sure the directory contains
+the pdf set you are looking for).
+</pre>
+<li>I would like to use different pdf sets. How can I change this?</li>
+<pre>
+The names of the pdf sets that are used, can be found in PdfSet::fgPdfNames (PdfSet.cxx).
+</pre>
+<li>How do I get the normalization scale factors needed for each sample?</li>
+<pre>
+If you don't have all events available (for example: if you used
+skimmed ntuples), you need to have one normalization scale factor for
+each sample.  These scale factors can be determined using the
+PdfReweightingTool and the extra package 'PdfScripts' which is located
+here:
+
+atlasinst/Institutes/Humboldt/SingleTop/PdfScripts/tags
+
+You need to run once over all events in each sample. The package above 
+is a collection of scripts, that can be used to run the tool on the grid.
+Please consult the 'README' for further info. 
+</pre>
+</ol>
+</p>

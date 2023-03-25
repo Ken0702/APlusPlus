@@ -1,0 +1,8 @@
+include = include
+cxxflags = -g
+cxxflags = -Wno-tautological-undefined-compare
+semiinclude = -DROOTCORE
+lib = libLHAPDF
+lib = libCalibrationDataInterface
+lib = libPdfReweightingTool
+lib = libTopFakes

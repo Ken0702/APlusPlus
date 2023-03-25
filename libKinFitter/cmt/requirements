@@ -1,0 +1,67 @@
+package KinFitter
+author Jan Erik Sundermann <jan.erik.sundermann@cern.ch>
+
+private
+   apply_tag no_genconf
+end_private
+
+## For Athena policies: it has to be the first use statement
+#use AtlasPolicy       AtlasPolicy-01-*    
+use AtlasPolicy       AtlasPolicy-*
+
+## ROOT support
+use AtlasROOT         AtlasROOT-*               External
+
+# ROOT libraries
+#private
+#apply_tag  ROOTBasicLibs
+apply_tag  ROOTMathLibs
+#apply_tag  ROOTPhysicsLibs
+#apply_tag  ROOTSTLDictLibs
+apply_tag  ROOTGraphicsLibs
+#apply_tag  ROOTTableLibs
+#macro_append ROOT_linkopts " -lTreePlayer "
+#end_private
+
+
+## package dependencies:
+#use GaudiInterface    GaudiInterface-01-* External 
+
+use AthenaPython      AthenaPython-*      Control -no_auto_imports
+
+#use AraTool           AraTool-00-*        PhysicsAnalysis
+
+#use EventKernel       EventKernel-*       Event
+#use NavFourMom        NavFourMom-*        Event
+#use EventInfo         EventInfo-*         Event
+
+## for reco objects
+#use Particle          Particle-*          Reconstruction
+
+## for McTruth
+#use McParticleEvent   McParticleEvent-*   PhysicsAnalysis/TruthParticleID
+
+## for Truth Analysis
+#use AnalysisTools     AnalysisTools-*     PhysicsAnalysis/AnalysisCommon
+
+## install our python modules
+apply_pattern declare_python_modules files="*.py"
+
+## declare the directories CMT should know about
+branches python KinFitter src doc
+
+## build library
+library KinFitter *.cxx
+apply_pattern installed_library
+
+#library KinFitter  *.cxx -s=components *.cxx
+#apply_pattern component_library
+
+#library KinFitter *.cxx
+#apply_pattern libraryShr library=KinFitter
+
+## build dictionary
+private
+use AtlasReflex AtlasReflex-* External -no_auto_imports
+apply_pattern lcgdict dict=KinFitter selectionfile=selection.xml headerfiles="../KinFitter/KinFitterDict.h"
+end_private

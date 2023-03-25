@@ -1,0 +1,130 @@
+2014-06-25 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* bug fixes to CalibrationDataInterfaceROOT.cxx:
+	  - the check for extrapolation uncertainty evaluation was wrong and (in the eigenvector variation framework)
+	    led to faulty uncertainties in the extrapolation range
+	  - minor mistake in checkWeightScaleFactors() (only leading to inefficient code)
+2014-06-08 Attila Krasznahorkay <Attila.Krasznahorkay@cern.ch>
+	* Made the package compile with clang and ROOT 6 on MacOS X.
+	* Had to remove the explicit std::make_pair template parameters
+	  from CalibrationDataContainer.cxx,
+	  CalibrationDataEigenVariations.cxx, and
+	  CalibrationDataInterfaceROOT.cxx.
+	* Tagging as CalibrationDataInterface-00-04-07
+2014-05-30 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* add utility function showing the CDI file's build number; show this also upon CDI initialisation
+2014-04-26 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* implement interpolation of (statistical) uncertainties (merely reproducing ROOT's code for central values; for MC)
+2014-04-07 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* implement MC/MC scale factor for continuous tagging (3-step procedure)
+2014-03-03 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* allow users to switch off the application of MC/MC scale factors
+2014-02-25 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* bug fix (another protection against retrieving the hadronisation string as an uncertainty)
+2014-02-13 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* bug fix (protect against retrieving the hadronisation string as an uncertainty)
+	* change strategy such as to allow users to override all hadronisation references
+2014-01-14 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* CalibrationDataContainer: additional method getHadronisation() providing access to PS/hadronisation code used
+	* CalibrationDataInterfaceROOT:
+	  - infrastructure to apply MC/MC scale factors to deal with PS/hadronisation information differences
+	  - minor restructuring of utility methods
+	* CalibrationDataBackend: extend to add information concerning PS/hadronisation reference containers
+2013-08-21 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* CalibrationDataContainer: container-level access to variables used (getVariableTypes())
+	* CalibrationDataHistogramContainer: access to binning information (getBinBoundaries())
+	* CalibrationDataInterfaceROOT:
+	  - continuous tagging: protection agains unphysical or suspicious tag weight scale factors
+	  - strategies for dealing with out-of-bounds variables (either directly jet |eta| or following from container bounds)
+2013-08-21 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* add methods specific to "continuous tagging" (separate because even scale factor retrieval needs MC information)
+	* allow for specification of multiple MC efficiency objects
+2013-08-13 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* add 'back-end' utility and macro showing its use (scripts/copyContainer.C) to copy a container to file
+2013-07-27 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* fix bug in bounds computation (introduced with previous commit)
+	* add documentation to individual methods
+	* add scripts/makeHtml.C which can be used to produce web-based documentation of the package's classes
+2013-07-23 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* add code to deal with extrapolation uncertainties (typically to be used for high-pt extrapolation, but the code is general)
+2013-04-21 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* remove ability to use different binnings for different objects belonging to the same calibration
+	* add CalibrationDataMappedHistogramContainer class for calibrations with non-regular binnings
+2013-04-13 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* allow for interpolation (histogram container) and add utility to return MC efficiency object (interface code)
+2013-03-15 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* code speed-up by avoiding string comparisons in the container classes
+2013-02-22 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* bug fixes and safer logic in eigenvector variation code
+2013-02-10 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* modifications needed for "continuous" b-tagging calibration
+2012-11-30 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* implement eigenvector treatment (while allowing users to exclude given sources of uncertainty):
+		- class CalibrationDataEigenVariations
+		- modifications in CalibrationDataInterfaceROOT
+2012-11-19 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* correct bug in MC efficiency retrieval (use separate CDI file if requested)
+2012-02-14 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* tau-jet calibrations are now in separately
+	* comment out MC efficiency systematics
+2012-01-13 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* re-add PROOF functionality
+	* allow for access to more container information
+2011-09-15 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* new class CalibrationDataContainer (plus derived classes) as custom data
+	  objects to be stored in calibration ROOT files
+	* existing CalibrationDataInterfaceROOT functionality maintained but will
+	  now use automatic boundary checking (if implemented in data objects)
+2011-08-12 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* implement RootCore functionality (tag CalibrationDataInterface-00-00-08)
+2010-09-29 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* allow for independent charm jet scale factors
+	* allow for different efficiency and scale factor calibration names
+2010-09-09 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* separate functionality:
+		- common: CalibrationDataInterfaceBase
+		- Athena/COOL specific : CalibrationDataInterfaceTool
+	* add file CalibrationDataInterfaceROOT for direct access to calibration file
+2010-06-08 Frank Filthaut <F.Filthaut@science.ru.nl>
+	* simplify interface (avoiding excessive code duplication)
+	* handle flexible parametrisations
+	* handle error conditions by returning dummy object
+	* add ancillary code:
+		- CalibrationDataUpdater: code to update a (possibly existing)
+		  calibration file with new information
+		- CalibrationDataInterfaceTester: small test of the interface
+2010-03-01 Frank Filthaut <F.Filthaut@science.ru.nl>
+	Setup of CalibrationDataInterfaceTool (empty) using SetupUtility
+
+
+Tags log:
+CalibrationDataInterface-00-04-08 bug fixes to CalibrationDataInterfaceROOT.cxx
+CalibrationDataInterface-00-04-07 fixes to make code compile under C++11
+CalibrationDataInterface-00-04-06 add utility function showing CDI file's build number; show this also during CDI initialisation
+CalibrationDataInterface-00-04-05 implementation of interpolated statistical uncertainties (for MC)
+CalibrationDataInterface-00-04-04 MC/MC scale factors for continuous tagging; modifications for PROOF functionality
+CalibrationDataInterface-00-04-03 allow users to switch off the application of MC/MC scale factors
+CalibrationDataInterface-00-04-02 bug fix
+CalibrationDataInterface-00-04-01 allow users to override all hadronisation references for MC/MC scale factors; bug fix
+CalibrationDataInterface-00-04-00 incorporate MC-to-MC scale factors
+CalibrationDataInterface-00-03-06 allow for multiple MC efficiency objects; add interface methods specific for continuous tagging
+CalibrationDataInterface-00-03-05 'back-end' utility and macro; web-based (THtml) documentation; allow for extrapolation uncertainties
+CalibrationDataInterface-00-03-04 fix pathological case (variable equal to container's upper bound)
+CalibrationDataInterface-00-03-03 add entry for CalibrationDataMappedHistogramContainer to stand-alone LinkdDef.h
+CalibrationDataInterface-00-03-02 fix memory leak upon interface destruction
+CalibrationDataInterface-00-03-01 bug fixes and safer logic in eigenvector variation code; code speed-up; partial updates for continuous tagging and histogram interpolation
+CalibrationDataInterface-00-03-00 implement "continuous" b-tagging calibration functionality
+CalibrationDataInterface-00-02-01 update stand-alone compilation tools for eigenvector treatment
+CalibrationDataInterface-00-02-00 implement eigenvector treatment
+CalibrationDataInterface-00-01-03 use correct CDI file for MC efficiency retrieval (if separate files requested)
+CalibrationDataInterface-00-01-02 comment out MC efficiency systematics
+CalibrationDataInterface-00-01-01 implement separate tau-jet SF calibrations
+CalibrationDataInterface-00-01-00 update to use of CalibrationDataContainer data class
+CalibrationDataInterface-00-00-12 tau-jet scale factor hack, a few more PROOF modifications
+CalibrationDataInterface-00-00-11 adds bits of code needed to make the package work with PROOF 
+CalibrationDataInterface-00-00-10 implements efficiency scale factors for tau jets 
+CalibrationDataInterface-00-00-09 scripts updated for JetFitterCombNN > 2.40 working point
+CalibrationDataInterface-00-00-08 organizes code in a RootCore compliant way
+CalibrationDataInterface-00-00-05 fixes the ineffSF error bug
+CalibrationDataInterface-00-00-04 fixed the ACLIC pair problem
+CalibrationDataInterface-00-00-03 rel.16, introduces the possibility for separate calib files for SF and eff.
+CalibrationDataInterface-00-00-00 original rel.15 version by Frank

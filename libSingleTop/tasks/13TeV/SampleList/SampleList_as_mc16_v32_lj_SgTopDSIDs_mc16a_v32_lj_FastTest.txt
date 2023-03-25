@@ -1,0 +1,23 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kZeeInclC
+#
+364115ZeeC kZeeInclC 218.16 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc16_v32_lj/MC/user.tpelzer.mc16_13TeV.364115.Sh221_Zee_maxHtPtV0_70_C.SGTOP1.e5299_s3126_r9364_p4344.lj.v32.skim.2_out-skim.root
+#
+# kZeeInclB
+#
+364116ZeeB kZeeInclB 123.302 kOrange+1 /rdsk/dats7/atlas/SgTopD3PD/mc16_v32_lj/MC/user.tpelzer.mc16_13TeV.364116.Sh221_Zee_maxHtPtV0_70_B.SGTOP1.e5299_s3126_r9364_p4344.lj.v32.skim.2_out-skim.root
+#
+# kZeeInclLight
+#
+364117ZeeLight kZeeInclLight 74.3928 kOrange+1 /rdsk/dats4/atlas/SgTopD3PD/mc16_v32_lj/MC/user.tpelzer.mc16_13TeV.364117.Sh221_Zee_maxHtPtV70_140_L.SGTOP1.e5299_s3126_r9364_p4344.lj.v32.skim.2_out-skim.root
+#
+# kZeeInclC
+#
+364118ZeeC kZeeInclC 19.8296 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc16_v32_lj/MC/user.tpelzer.mc16_13TeV.364118.Sh221_Zee_maxHtPtV70_140_C.SGTOP1.e5299_s3126_r9364_p4344.lj.v32.skim.2_out-skim.root

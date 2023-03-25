@@ -1,0 +1,88 @@
+
+// Measured and unmeasured four vectors
+// (used as input values for the fit)
+
+// hadronic top [t->Wb, W->jj]
+TVector3 vecWhad_d1;   // light jet
+TVector3 vecWhad_d2;   // light jet
+TVector3 vecTophad_d2; // b jet
+
+// leptonic top [t->Wb, W->lnu]
+TVector3 vecWlep_d1;   // lepton
+TVector3 vecWlep_d2;   // neutrino
+TVector3 vecToplep_d2; // b jet
+
+// Covariance matrices
+// (used as input values for the fit)
+TMatrixD covLJet;
+TMatrixD covBJet;
+TMatrixD covLepton;
+TMatrixD covEMiss;
+
+// Fitted four vectors
+// (Contains the output of the fit)
+TLorentzVector vecFit_Whad_d1;
+TLorentzVector vecFit_Whad_d2;
+TLorentzVector vecFit_Tophad_d2;
+TLorentzVector vecFit_Wlep_d1;
+TLorentzVector vecFit_Wlep_d2;
+TLorentzVector vecFit_Toplep_d2;
+
+
+void ttbarFit() {
+
+  // Definition of Fit Particles
+  TFitParticlePtEtaPhi Whad_d1( "Whad_d1", "Whad_d1", &vecWhad_d1, 0., &covLJet);
+  TFitParticlePtEtaPhi Whad_d2( "Whad_d2", "Whad_d2", &vecWhad_d2, 0., &covLJet);
+  TFitParticlePtEtaPhi Tophad_d2( "Tophad_d2", "Tophad_d2", &vecTophad_d2, 0., &covBJet);
+  TFitParticlePtEtaPhi Wlep_d1( "Wlep_d1", "Wlep_d1", &vecWlep_d1, 0., &covLepton);
+  TFitParticlePtEtaPhi Wlep_d2( "Wlep_d2", "Wlep_d2", &vecWlep_d2, 0., &covEMiss);
+  TFitParticlePtEtaPhi Toplep_d2( "Toplep_d2", "Toplep_d2", &vecToplep_d2, 0., &covBJet);
+
+  // Definition of constraints:
+  // Constrain lepton and hadronic W mass to m=80.4GeV and
+  // both top quark masses to be equal
+
+  TFitConstraintM MConsWhad( "MassConstraint Whad", "Mass-Constraint Whad", 0, 0, 80.4*GeV);
+  MConsWhad.addParticles1( Whad_d1, Whad_d2 );
+
+  TFitConstraintM MConsWlep( "MassConstraint Wlep", "Mass-Constraint Wlep", 0, 0, 80.4*GeV);
+  MConsWlep.addParticles1( Wlep_d1, Wlep_d2 );
+
+  TFitConstraintM MConsTops( "MassConstraint Tops", "Mass-Constraint Tops", 0, 0, 0.);
+  MConsTops.addParticles1( Whad_d1, Whad_d2, Tophad_d2 );
+  MConsTops.addParticles2( Wlep_d1, Wlep_d2, Toplep_d2 );
+
+  // Definition of the fitter
+  // Add 6 measured particle and one unmeasured parameter
+  // Add three constraints
+  TKinFitter kinfitter;
+  fitter.addMeasParticle( &Whad_d1 );
+  fitter.addMeasParticle( &Whad_d2 );
+  fitter.addMeasParticle( &Tophad_d2 );
+  fitter.addMeasParticle( &Wlep_d1 );
+  fitter.addMeasParticle( &Wlep_d2 );
+  fitter.setParamUnmeas( &Wlep_d2, 1 ); // eta of neutrino unmeasured
+  fitter.addMeasParticle( &Toplep_d2 );
+
+  fitter.addConstraint( &MConsWhad );
+  fitter.addConstraint( &MConsWlep );
+  fitter.addConstraint( &MConsTops );
+
+  // Perform the fit
+  // Set convergence criteria
+  fitter.setMaxNbIter( 50 );
+  fitter.setMaxDeltaS( 5e-5 );
+  fitter.setMaxF( 1e-4 );
+  fitter.setVerbosity(1);
+  fitter.fit();
+
+  // Copy fit reult
+  vecFit_Whad_d1 = (*Whad_d1.getCurr4Vec());
+  vecFit_Whad_d2 = (*Whad_d2.getCurr4Vec());
+  vecFit_Tophad_d2 = (*Tophad_d2.getCurr4Vec());
+  vecFit_Wlep_d1 = (*Wlep_d1.getCurr4Vec());
+  vecFit_Wlep_d2 = (*Wlep_d2.getCurr4Vec());
+  vecFit_Toplep_d2 = (*Toplep_d2.getCurr4Vec());
+
+}

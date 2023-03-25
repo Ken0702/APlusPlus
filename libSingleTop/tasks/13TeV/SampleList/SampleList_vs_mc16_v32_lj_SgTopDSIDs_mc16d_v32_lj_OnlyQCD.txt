@@ -1,0 +1,16 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kQCD_AntiMuon
+#
+QCDANTIMUON17 kQCD_AntiMuon + kMagenta+2 /rdsk/datv4/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data17_13TeV.AllYear.physics_Main.SGTOP1.grp17_v01_p4345.AntiMuon_shapeSyst2.lj.v32.1.skim.2_out-skim.root
++ + + + /rdsk/datv7/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data17_13TeV.AllYear.physics_Main.SGTOP1.grp17_v01_p4345.AntiMuon_shapeSyst1.lj.v32.1.skim.2_out-skim.root
++ + + + /rdsk/datv8/atlas/SgTop_Fake/AntiMuon_v32_lj/DATA/user.tpelzer.data17_13TeV.AllYear.physics_Main.SGTOP1.grp17_v01_p4345.AntiMuon.lj.v32.1.skim.2_out-skim.root
+#
+# kQCD_JetLepton
+#

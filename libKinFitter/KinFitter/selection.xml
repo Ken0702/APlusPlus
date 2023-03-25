@@ -1,0 +1,38 @@
+<lcgdict>
+    <class name="TAbsFitConstraint" />
+    <class name="TFitConstraintEp" />
+    <class name="TFitConstraintEpGaus" />
+    <class name="TFitConstraintPt" />
+    <class name="TFitConstraintM" />
+    <class name="TFitConstraintMGaus" />
+    <class name="TFitConstraintMBW" />
+    <class name="TAbsFitParticle" />
+    <class name="TFitParticlePInvThetaPhi" />
+    <class name="TFitParticlePInvThetaPhiE" />
+    <class name="TFitParticlePInvThetaPhiM" />
+    <class name="TFitParticlePtEtaPhi" />
+    <class name="TFitParticlePtEtaPhiE" />
+    <class name="TFitParticlePtEtaPhiM" />
+    <class name="TFitParticlePThetaPhi" />
+    <class name="TFitParticlePThetaPhiE" />
+    <class name="TFitParticlePThetaPhiM" />
+    <class name="TFitParticlePxPyPz" />
+    <class name="TFitParticlePxPyPzE" />
+    <class name="TFitParticlePxPyPzM" />
+    <class name="TFitParticleRelPtEtaPhi" />
+    <class name="TFitParticleRelPtEtaPhiE" />
+    <class name="TFitParticleRelPtEtaPhiM" />
+    <class name="TFitParticleRelPxPyPz" />
+    <class name="TFitParticleRelPxPyPzE" />
+    <class name="TFitParticleRelPxPyPzM" />
+    <class name="TFitParticleRelE" />
+    <class name="TKinFitter" />
+    <class name="TGetErrorMatrix" />
+    <class name="TToyGentT" />
+
+<!---
+    <class name="std::vector<TAbsFitParticle*>" />
+    <class name="std::vector<TAbsFitConstraint*>" />
+-->
+
+</lcgdict>

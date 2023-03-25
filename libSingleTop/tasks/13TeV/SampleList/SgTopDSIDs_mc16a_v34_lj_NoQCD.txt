@@ -1,0 +1,185 @@
+# see also
+# tasks/SgTopDSIDs_v15.txt (8 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc15_v15_lj.txt (13 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16_v20_lj.txt (13 TeV s-channel, rel.21)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16a_v21_lj.txt 
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16a_v23_lj.txt 
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16a_v25_lj.txt 
+# https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/SingleTopProductionV29lj
+# ~kaphle/atlas/download/mc16_v29_lj/all_reduced_MC16a.txt
+#
+# This sample list is for MC16a samples, corresponding to 2015/16 data. Need to adapt DSID field to check for r-tag.
+#
+# changes from v21:
+# - initial:
+#   - for now without QCD
+#   - t-channel samples with BW50 and new DSID
+#   - removed vvvv
+# - 2018-07-31: add QCD again; all samples DL
+# changes from v23:
+# - Fakes are not available
+# changes in v29:
+# - 2019-10-01: don't add QCDAM and JL for now, add later
+# - 2019-10-29: add QCD AM+JL
+
+# DATA
+data15,kDATA_TOPQ1,data15_13TeV,kBlack
+data16,kDATA_TOPQ1,data16_13TeV,kBlack
+
+## # QCD multi-jet
+## QCDMMdata15,kQCDMatrixMethod,data15_13TeV,kMagenta+2
+## QCDMMdata16,kQCDMatrixMethod,data16_13TeV,kMagenta+2
+#QCDANTIMUON15,kQCD_AntiMuon,data15_13TeV,kMagenta+2
+#QCDANTIMUON16,kQCD_AntiMuon,data16_13TeV,kMagenta+2
+#QCDJetLepton,kQCD_JetLepton,423300*r9364,kMagenta+2
+
+# Single-top s-channel
+410644schanlt,kSgTop_sChannel_incl,410644*r9364,kAzure+3,kFullSim
+410645schanltbar,kSgTop_sChannel_incl,410645*r9364,kAzure+3,kFullSim
+
+# Single-top t-channel
+#410011tchanlt,kSgTop_tChannel_incl,410011*r9364,kAzure+5,kFullSim
+#410012tchanltbar,kSgTop_tChannel_incl,410012*r9364,kAzure+5,kFullSim
+#410642tchanlt,kSgTop_tChannel_incl,410642*r9364,kAzure+5,kAtlFast
+#410643tchanltbar,kSgTop_tChannel_incl,410643*r9364,kAzure+5,kAtlFast
+410658tchanlt,kSgTop_tChannel_incl,410658*r9364,kAzure+5,kFullSim
+410659tchanltbar,kSgTop_tChannel_incl,410659*r9364,kAzure+5,kFullSim
+
+# Single-top Wt
+410646Wt,kSgTop_Wt,410646*r9364,kAzure-3,kFullSim
+410647Wtbar,kSgTop_Wt,410647*r9364,kAzure-3,kFullSim
+
+### small top backgrounds
+## tZq
+410560tZq,ktZq,410560*r9364,kYellow,kFullSim
+### 3tops
+3040143tops,k3tops,304014*r9364,kYellow,kFullSim
+### 4tops
+4120434tops,k4tops,412043*r9364,kYellow,kAtlFast
+### ttH
+346343ttH0l,kttH0l,346343*r9364,kYellow,kFullSim
+346344ttH1l,kttH1l,346344*r9364,kYellow,kFullSim
+346345ttH2l,kttH2l,346345*r9364,kYellow,kFullSim
+### ttV
+410155ttW,kttW,410155*r9364,kYellow,kFullSim
+410156ttZnunu,kttZnunu,410156*r9364,kYellow,kFullSim
+410157ttZqq,kttZqq,410157*r9364,kYellow,kFullSim
+410218ttee,kttee,410218*r9364,kYellow,kFullSim
+410219ttmumu,kttmumu,410219*r9364,kYellow,kFullSim
+410220tttautau,ktttautau,410220*r9364,kYellow,kFullSim
+410276ttee_mll,kttee_mll,410276*r9364,kYellow,kFullSim
+410277ttmumu_mll,kttmumu_mll,410277*r9364,kYellow,kFullSim
+410278tttautau_mll,ktttautau_mll,410278*r9364,kYellow,kFullSim
+###
+
+
+# ttbar
+410470ttbar,kTtbar,410470*r9364,kRed-4,kFullSim
+#410471ttbar,kTtbar,410471*r9364,kRed-4,kFullSim
+
+# W + jets
+364156WmunuLight,kWmunuInclLight,364156*r9364,kGreen-7,kFullSim
+364157WmunuC,kWmunuInclC,364157*r9364,kGreen-7,kFullSim
+364158WmunuB,kWmunuInclB,364158*r9364,kGreen-7,kFullSim
+364159WmunuLight,kWmunuInclLight,364159*r9364,kGreen-7,kFullSim
+364160WmunuC,kWmunuInclC,364160*r9364,kGreen-7,kFullSim
+364161WmunuB,kWmunuInclB,364161*r9364,kGreen-7,kFullSim
+364162WmunuLight,kWmunuInclLight,364162*r9364,kGreen-7,kFullSim
+364163WmunuC,kWmunuInclC,364163*r9364,kGreen-7,kFullSim
+364164WmunuB,kWmunuInclB,364164*r9364,kGreen-7,kFullSim
+364165WmunuLight,kWmunuInclLight,364165*r9364,kGreen-7,kFullSim
+364166WmunuC,kWmunuInclC,364166*r9364,kGreen-7,kFullSim
+364167WmunuB,kWmunuInclB,364167*r9364,kGreen-7,kFullSim
+364168Wmunu,kWmunuIncl,364168*r9364,kGreen-7,kFullSim
+364169Wmunu,kWmunuIncl,364169*r9364,kGreen-7,kFullSim
+364170WenuLight,kWenuInclLight,364170*r9364,kGreen-7,kFullSim
+364171WenuC,kWenuInclC,364171*r9364,kGreen-7,kFullSim
+364172WenuB,kWenuInclB,364172*r9364,kGreen-7,kFullSim
+364173WenuLight,kWenuInclLight,364173*r9364,kGreen-7,kFullSim
+364174WenuC,kWenuInclC,364174*r9364,kGreen-7,kFullSim
+364175WenuB,kWenuInclB,364175*r9364,kGreen-7,kFullSim
+364176WenuLight,kWenuInclLight,364176*r9364,kGreen-7,kFullSim
+364177WenuC,kWenuInclC,364177*r9364,kGreen-7,kFullSim
+364178WenuB,kWenuInclB,364178*r9364,kGreen-7,kFullSim
+364179WenuLight,kWenuInclLight,364179*r9364,kGreen-7,kFullSim
+364180WenuC,kWenuInclC,364180*r9364,kGreen-7,kFullSim
+364181WenuB,kWenuInclB,364181*r9364,kGreen-7,kFullSim
+364182Wenu,kWenuIncl,364182*r9364,kGreen-7,kFullSim
+364183Wenu,kWenuIncl,364183*r9364,kGreen-7,kFullSim
+364184WtaunuLight,kWtaunuInclLight,364184*r9364,kGreen-7,kFullSim
+364185WtaunuC,kWtaunuInclC,364185*r9364,kGreen-7,kFullSim
+364186WtaunuB,kWtaunuInclB,364186*r9364,kGreen-7,kFullSim
+364187WtaunuLight,kWtaunuInclLight,364187*r9364,kGreen-7,kFullSim
+364188WtaunuC,kWtaunuInclC,364188*r9364,kGreen-7,kFullSim
+364189WtaunuB,kWtaunuInclB,364189*r9364,kGreen-7,kFullSim
+364190WtaunuLight,kWtaunuInclLight,364190*r9364,kGreen-7,kFullSim
+364191WtaunuC,kWtaunuInclC,364191*r9364,kGreen-7,kFullSim
+364192WtaunuB,kWtaunuInclB,364192*r9364,kGreen-7,kFullSim
+364193WtaunuLight,kWtaunuInclLight,364193*r9364,kGreen-7,kFullSim
+364194WtaunuC,kWtaunuInclC,364194*r9364,kGreen-7,kFullSim
+364195WtaunuB,kWtaunuInclB,364195*r9364,kGreen-7,kFullSim
+364196Wtaunu,kWtaunuIncl,364196*r9364,kGreen-7,kFullSim
+364197Wtaunu,kWtaunuIncl,364197*r9364,kGreen-7,kFullSim
+
+# Z+jets
+364100ZmumuLight,kZmumuInclLight,364100*r9364,kOrange+1,kFullSim
+364101ZmumuC,kZmumuInclC,364101*r9364,kOrange+1,kFullSim
+364102ZmumuB,kZmumuInclB,364102*r9364,kOrange+1,kFullSim
+364103ZmumuLight,kZmumuInclLight,364103*r9364,kOrange+1,kFullSim
+364104ZmumuC,kZmumuInclC,364104*r9364,kOrange+1,kFullSim
+364105ZmumuB,kZmumuInclB,364105*r9364,kOrange+1,kFullSim
+364106ZmumuLight,kZmumuInclLight,364106*r9364,kOrange+1,kFullSim
+364107ZmumuC,kZmumuInclC,364107*r9364,kOrange+1,kFullSim
+364108ZmumuB,kZmumuInclB,364108*r9364,kOrange+1,kFullSim
+364109ZmumuLight,kZmumuInclLight,364109*r9364,kOrange+1,kFullSim
+364110ZmumuC,kZmumuInclC,364110*r9364,kOrange+1,kFullSim
+364111ZmumuB,kZmumuInclB,364111*r9364,kOrange+1,kFullSim
+364112Zmumu,kZmumuIncl,364112*r9364,kOrange+1,kFullSim
+364113Zmumu,kZmumuIncl,364113*r9364,kOrange+1,kFullSim
+364114ZeeLight,kZeeInclLight,364114*r9364,kOrange+1,kFullSim
+364115ZeeC,kZeeInclC,364115*r9364,kOrange+1,kFullSim
+364116ZeeB,kZeeInclB,364116*r9364,kOrange+1,kFullSim
+364117ZeeLight,kZeeInclLight,364117*r9364,kOrange+1,kFullSim
+364118ZeeC,kZeeInclC,364118*r9364,kOrange+1,kFullSim
+364119ZeeB,kZeeInclB,364119*r9364,kOrange+1,kFullSim
+364120ZeeLight,kZeeInclLight,364120*r9364,kOrange+1,kFullSim
+364121ZeeC,kZeeInclC,364121*r9364,kOrange+1,kFullSim
+364122ZeeB,kZeeInclB,364122*r9364,kOrange+1,kFullSim
+364123ZeeLight,kZeeInclLight,364123*r9364,kOrange+1,kFullSim
+364124ZeeC,kZeeInclC,364124*r9364,kOrange+1,kFullSim
+364125ZeeB,kZeeInclB,364125*r9364,kOrange+1,kFullSim
+364126Zee,kZeeIncl,364126*r9364,kOrange+1,kFullSim
+364127Zee,kZeeIncl,364127*r9364,kOrange+1,kFullSim
+364128ZtautauLight,kZtautauInclLight,364128*r9364,kOrange+1,kFullSim
+364129ZtautauC,kZtautauInclC,364129*r9364,kOrange+1,kFullSim
+364130ZtautauB,kZtautauInclB,364130*r9364,kOrange+1,kFullSim
+364131ZtautauLight,kZtautauInclLight,364131*r9364,kOrange+1,kFullSim
+364132ZtautauC,kZtautauInclC,364132*r9364,kOrange+1,kFullSim
+364133ZtautauB,kZtautauInclB,364133*r9364,kOrange+1,kFullSim
+364134ZtautauLight,kZtautauInclLight,364134*r9364,kOrange+1,kFullSim
+364135ZtautauC,kZtautauInclC,364135*r9364,kOrange+1,kFullSim
+364136ZtautauB,kZtautauInclB,364136*r9364,kOrange+1,kFullSim
+364137ZtautauLight,kZtautauInclLight,364137*r9364,kOrange+1,kFullSim
+364138ZtautauC,kZtautauInclC,364138*r9364,kOrange+1,kFullSim
+364139ZtautauB,kZtautauInclB,364139*r9364,kOrange+1,kFullSim
+364140Ztautau,kZtautauIncl,364140*r9364,kOrange+1,kFullSim
+364141Ztautau,kZtautauIncl,364141*r9364,kOrange+1,kFullSim
+
+# Diboson
+# all-lep
+364250llll,kDibosonZZ,364250*r9364,kOrange+1,kFullSim
+364253lllv,kDibosonWZ,364253*r9364,kOrange+1,kFullSim
+364254llvv,kDibosonZZ,364254*r9364,kOrange+1,kFullSim
+364255lvvv,kDibosonWZ,364255*r9364,kOrange+1,kFullSim
+# 364288llll,kDibosonZZ,364288*r9364,kOrange+1,kFullSim
+# 364289lllv,kDibosonWZ,364289*r9364,kOrange+1,kFullSim
+# 364290llvv,kDibosonZZ,364290*r9364,kOrange+1,kFullSim
+# hadr.
+363355ZqqZvv,kDibosonZZ,363355*r9364,kOrange+1,kFullSim
+363356ZqqZll,kDibosonZZ,363356*r9364,kOrange+1,kFullSim
+363357WqqZvv,kDibosonWZ,363357*r9364,kOrange+1,kFullSim
+363358WqqZll,kDibosonWZ,363358*r9364,kOrange+1,kFullSim
+363359WpqqWmlv,kDibosonWW,363359*r9364,kOrange+1,kFullSim
+363360WplvWmqq,kDibosonWW,363360*r9364,kOrange+1,kFullSim
+363489WlvZqq,kDibosonWZ,363489*r9364,kOrange+1,kFullSim
+#363494vvvv,kDibosonZZ,363494*r9364,kOrange+1,kFullSim

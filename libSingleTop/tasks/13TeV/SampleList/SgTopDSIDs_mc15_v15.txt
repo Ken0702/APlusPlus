@@ -1,0 +1,41 @@
+# DATA
+data,kDATA_TOPQ1,physics_Main.SGTOP1,kBlack
+
+# Single-top Wt
+Wt_ll,kSgTop_Wt,410015,kAzure-3,kFullSim
+Wtbar_ll,kSgTop_Wt,410016,kAzure-3,kFullSim
+
+# Single-top tZ SM
+410049,kSgTop_tZj,410049,kAzure+3,kFullSim
+410050,kSgTop_tZj,410050,kAzure+3,kFullSim
+
+# tt+X
+410066,kTtbarPlusW,410066,kRed+2,kFullSim
+410067,kTtbarPlusW,410067,kRed+2,kFullSim
+410068,kTtbarPlusW,410068,kRed+2,kFullSim
+410111,kTtbarPlusZ,410111,kRed+2,kFullSim
+410112,kTtbarPlusZ,410112,kRed+2,kFullSim
+410113,kTtbarPlusZ,410113,kRed+2,kFullSim
+410114,kTtbarPlusZ,410114,kRed+2,kFullSim
+410115,kTtbarPlusZ,410115,kRed+2,kFullSim
+410116,kTtbarPlusZ,410116,kRed+2,kFullSim
+
+# Top-quark pair
+410000,kTtbar,410000,kRed-4,kFullSim
+
+# Z+jets
+361106,kZeeIncl,361106,kOrange+1,kFullSim
+361107,kZmumuIncl,361107,kOrange+1,kFullSim
+361108,kZtautauIncl,361108,kOrange+1,kFullSim
+
+# Diboson
+361600,kDibosonWW,361600,kOrange,kFullSim
+361601,kDibosonWZ,361601,kOrange,kFullSim
+361603,kDibosonZZ,361603,kOrange,kFullSim
+361604,kDibosonZZ,361604,kOrange,kFullSim
+361607,kDibosonWZ,361607,kOrange,kFullSim
+361610,kDibosonZZ,361610,kOrange,kFullSim
+
+# Single-top FCNC tZ
+957011,kFCNC_utZ_K01L,957011,kYellow,kFullSim
+

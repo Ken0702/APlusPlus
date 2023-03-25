@@ -1,0 +1,15 @@
+# see also SgTopDSIDs_mc16e_v29_lj.txt
+
+# QCD multi-jet JL
+QCDJetLepton,kQCD_JetLepton,423300*r10724*JetLepton.lj,kMagenta+2
+
+QCDJL-0608sys,kQCD_JetLepton,423300*r10724*_sys_06_08,kMagenta+2
+QCDJL-0809sys,kQCD_JetLepton,423300*r10724*_sys_08_09,kMagenta+2
+QCDJL-091sys,kQCD_JetLepton,423300*r10724*_sys_09_1,kMagenta+2
+
+# QCD multi-jet AM
+QCDANTIMUON18,kQCD_AntiMuon,data18_13TeV*AntiMuon.v29,kMagenta+2
+
+QCDAM18-005sys,kQCD_AntiMuon,data18_13TeV*sys_0.05_,kMagenta+2
+QCDAM18-01sys,kQCD_AntiMuon,data18_13TeV*sys_0.1_,kMagenta+2
+QCDAM18-sys,kQCD_AntiMuon,data18_13TeV*sys_v,kMagenta+2

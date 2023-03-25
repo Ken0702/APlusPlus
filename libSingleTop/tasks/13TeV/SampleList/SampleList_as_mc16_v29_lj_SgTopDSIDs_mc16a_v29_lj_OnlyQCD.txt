@@ -1,0 +1,25 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kQCD_AntiMuon
+#
+QCDANTIMUON15 kQCD_AntiMuon + kMagenta+2 /rdsk/dats1/atlas/SgTop_Fake/AntiMuon_v29_lj/user.gjakel.data15_13TeV.AllYear.physics_Main.SGTOP1.grp15_v01_p3794.AntiMuon.sys_v29.0_out.root
++ + + + /rdsk/dats2/atlas/SgTop_Fake/AntiMuon_v29_lj/user.gjakel.data15_13TeV.AllYear.physics_Main.SGTOP1.grp15_v01_p3794.AntiMuon.v29.0_out.root
++ + + + /rdsk/dats2/atlas/SgTop_Fake/AntiMuon_v29_lj/user.gjakel.data15_13TeV.AllYear.physics_Main.SGTOP1.grp15_v01_p3794.AntiMuon.sys_0.05_v29.0_out.root
++ + + + /rdsk/dats3/atlas/SgTop_Fake/AntiMuon_v29_lj/user.gjakel.data15_13TeV.AllYear.physics_Main.SGTOP1.grp15_v01_p3794.AntiMuon.sys_0.1_v29.0_out.root
+QCDANTIMUON16 kQCD_AntiMuon + kMagenta+2 /rdsk/dats1/atlas/SgTop_Fake/AntiMuon_v29_lj/user.gjakel.data16_13TeV.AllYear.physics_Main.SGTOP1.grp16_v01_p3794.AntiMuon.sys_0.05_v29.0_out.root
++ + + + /rdsk/dats2/atlas/SgTop_Fake/AntiMuon_v29_lj/user.gjakel.data16_13TeV.AllYear.physics_Main.SGTOP1.grp16_v01_p3794.AntiMuon.v29.0_out.root
++ + + + /rdsk/dats2/atlas/SgTop_Fake/AntiMuon_v29_lj/user.gjakel.data16_13TeV.AllYear.physics_Main.SGTOP1.grp16_v01_p3794.AntiMuon.sys_0.1_v29.0_out.root
++ + + + /rdsk/dats4/atlas/SgTop_Fake/AntiMuon_v29_lj/user.gjakel.data16_13TeV.AllYear.physics_Main.SGTOP1.grp16_v01_p3794.AntiMuon.sys_v29.0_out.root
+#
+# kQCD_JetLepton
+#
+QCDJetLepton kQCD_JetLepton + kMagenta+2 /rdsk/dats1/atlas/SgTop_Fake/JetLepton_v29_lj/user.gjakel.423300.Pythia8EvtGen.DAOD_TOPQ1.e3848_s3126_r9364_p3629.JetLepton_sys_06_08.lj.v29_output_root
++ + + + /rdsk/dats1/atlas/SgTop_Fake/JetLepton_v29_lj/user.gjakel.423300.Pythia8EvtGen.DAOD_TOPQ1.e3848_s3126_r9364_p3629.JetLepton_sys_08_09.lj.v29_output_root
++ + + + /rdsk/dats2/atlas/SgTop_Fake/JetLepton_v29_lj/user.gjakel.423300.Pythia8EvtGen.DAOD_TOPQ1.e3848_s3126_r9364_p3629.SGTOP_JetLepton.lj.v29_output_root
++ + + + /rdsk/dats2/atlas/SgTop_Fake/JetLepton_v29_lj/user.gjakel.423300.Pythia8EvtGen.DAOD_TOPQ1.e3848_s3126_r9364_p3629.JetLepton_sys_09_1.lj.v29_output_root

@@ -1,0 +1,189 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kDATA_EGamma
+#
+DATAperiodA kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodA.physics_Egamma.SGTOP_SL.grp14_v01_p1517_p1562_v15
+DATAperiodB kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodB.physics_Egamma.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodC kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodC.physics_Egamma.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodD kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodD.physics_Egamma.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodE kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodE.physics_Egamma.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodG kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodG.physics_Egamma.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodH kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodH.physics_Egamma.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodI kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodI.physics_Egamma.SGTOP_SL.grp14_v01_p1562_v15
+DATAperiodJ kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodJ.physics_Egamma.SGTOP_SL.grp14_v01_p1562_v15
+DATAperiodL kDATA_EGamma 0 kBlack /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/DATA/Egamma/user.sstamm.data12_8TeV.periodL.physics_Egamma.SGTOP_SL.grp14_v01_p1562_v15
+DATAperiodA kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodA.physics_Muons.SGTOP_SL.grp14_v01_p1517_p1562_v15
+DATAperiodB kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodB.physics_Muons.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodC kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodC.physics_Muons.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodD kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodD.physics_Muons.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodE kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodE.physics_Muons.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodG kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodG.physics_Muons.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodH kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodH.physics_Muons.SGTOP_SL.grp14_v01_p1278_p1562_v15
+DATAperiodI kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodI.physics_Muons.SGTOP_SL.grp14_v01_p1562_v15
+DATAperiodJ kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodJ.physics_Muons.SGTOP_SL.grp14_v01_p1562_v15
+DATAperiodL kDATA_Muon 0 kBlack /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/DATA/Muon/user.tpelzer.data12_8TeV.periodL.physics_Muons.SGTOP_SL.grp14_v01_p1562_v15
+#
+# kQCDMatrixMethod_EGamma
+#
+QCDperiodA_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodA.physics_Egamma.SGTOP_looseSL.grp14_v01_p1517_p1562_v15
+QCDperiodB_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodB.physics_Egamma.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodC_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodC.physics_Egamma.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodD_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodD.physics_Egamma.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodE_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodE.physics_Egamma.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodG_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodG.physics_Egamma.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodH_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodH.physics_Egamma.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodI_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodI.physics_Egamma.SGTOP_looseSL.grp14_v01_p1562_v15
+QCDperiodJ_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodJ.physics_Egamma.SGTOP_looseSL.grp14_v01_p1562_v15
+QCDperiodL_loose kQCDMatrixMethod_EGamma 0 kMagenta+2 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/QCDMM/Egamma/user.sstamm.data12_8TeV.periodL.physics_Egamma.SGTOP_looseSL.grp14_v01_p1562_v15
+QCDperiodA_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodA.physics_Muons.SGTOP_looseSL.grp14_v01_p1517_p1562_v15
+QCDperiodB_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodB.physics_Muons.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodC_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodC.physics_Muons.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodD_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodD.physics_Muons.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodE_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodE.physics_Muons.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodG_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodG.physics_Muons.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodH_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodH.physics_Muons.SGTOP_looseSL.grp14_v01_p1278_p1562_v15
+QCDperiodI_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodI.physics_Muons.SGTOP_looseSL.grp14_v01_p1562_v15
+QCDperiodJ_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodJ.physics_Muons.SGTOP_looseSL.grp14_v01_p1562_v15
+QCDperiodL_loose kQCDMatrixMethod_Muon 0 kMagenta+2 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/QCDMM/Muon/user.tpelzer.data12_8TeV.periodL.physics_Muons.SGTOP_looseSL.grp14_v01_p1562_v15
+#
+# kSgTop_tChannel_incl
+#
+tchannel_incl kSgTop_tChannel_incl 28.4332 kAzure+5 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/sgtop/user.kind.mc12_8TeV.110101.AcerMCPythia_sgtop_tchan_l.SGTOP_SL.e1731_s1581_s1586_r3658_r3549_p1575_v15
+schannel_e kSgTop_sChannel_e 0.605908 kAzure+3 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/sgtop/user.spedraza.mc12_8TeV.108343.McAtNloJimmy_AUET2CT10_SgTopSChanWenu.SGTOP_SL.e1525_s1499_s1504_r3658_r3549_p1575_v15
+schannel_mu kSgTop_sChannel_mu 0.605889 kAzure+3 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/sgtop/user.spedraza.mc12_8TeV.108344.McAtNloJimmy_AUET2CT10_SgTopSChanWmunu.SGTOP_SL.e1525_s1499_s1504_r3658_r3549_p1575_v15
+schannel_tau kSgTop_sChannel_tau 0.605875 kAzure+3 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/sgtop/user.spedraza.mc12_8TeV.108345.McAtNloJimmy_AUET2CT10_SgTopSChanWtaunu.SGTOP_SL.e1525_s1499_s1504_r3658_r3549_p1575_v15
+wtchannel kSgTop_Wt 22.3709 kAzure-3 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/sgtop/user.kind.mc12_8TeV.108346.McAtNloJimmy_AUET2CT10_SgTopWtChanIncl.SGTOP_SL.e1525_s1499_s1504_r3658_r3549_p1575_v15
+#
+# kTtbar
+#
+ttbar001 kTtbar 137.312 kRed-4 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.001
+ttbar002 kTtbar 137.312 kRed-4 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.002
+ttbar003 kTtbar 137.312 kRed-4 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.003
+ttbar004 kTtbar 137.312 kRed-4 /rdsk/dats1/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.004
+ttbar005 kTtbar 137.312 kRed-4 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.005
+ttbar006 kTtbar 137.312 kRed-4 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.006
+ttbar007 kTtbar 137.312 kRed-4 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.007
+ttbar008 kTtbar 137.312 kRed-4 /rdsk/dats2/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.008
+ttbar009 kTtbar 137.312 kRed-4 /rdsk/dats3/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.009
+ttbar010 kTtbar 137.312 kRed-4 /rdsk/dats3/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.010
+ttbar011 kTtbar 137.312 kRed-4 /rdsk/dats3/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.011
+ttbar012 kTtbar 137.312 kRed-4 /rdsk/dats3/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.012
+ttbar013 kTtbar 137.312 kRed-4 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.013
+ttbar014 kTtbar 137.312 kRed-4 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.014
+ttbar015 kTtbar 137.312 kRed-4 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.015
+ttbar016 kTtbar 137.312 kRed-4 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.016
+ttbar017 kTtbar 137.312 kRed-4 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.017
+ttbar018 kTtbar 137.312 kRed-4 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.018
+ttbar019 kTtbar 137.312 kRed-4 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.019
+ttbar020 kTtbar 137.312 kRed-4 /rdsk/dats5/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.020
+ttbar021 kTtbar 137.312 kRed-4 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.021
+ttbar022 kTtbar 137.312 kRed-4 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.022
+ttbar023 kTtbar 137.312 kRed-4 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.023
+ttbar024 kTtbar 137.312 kRed-4 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.024
+ttbar025 kTtbar 137.312 kRed-4 /rdsk/dats7/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.025
+ttbar026 kTtbar 137.312 kRed-4 /rdsk/dats7/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.026
+ttbar027 kTtbar 137.312 kRed-4 /rdsk/dats7/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.027
+ttbar028 kTtbar 137.312 kRed-4 /rdsk/dats7/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.028
+ttbar029 kTtbar 137.312 kRed-4 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.029
+ttbar030 kTtbar 137.312 kRed-4 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.030
+ttbar031 kTtbar 137.312 kRed-4 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.031
+ttbar032 kTtbar 137.312 kRed-4 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ttbar/user.spedraza.mc12_8TeV.105200.McAtNloJimmy_CT10_ttbar_LeptonFilter.SGTOP_SL.e1513_s1499_s1504_r3658_r3549_p1562_v15.032
+#
+# kWenuInclB
+#
+WenuInclB kWenuInclB 154.374 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167740.Sherpa__WenuMassiveCBPt0_BFilter.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+WenuInclC kWenuInclC 591.624 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167741.Sherpa__WenuMassiveCBPt0_CJetFilterBVeto.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+WenuInclLight kWenuInclLight 11324.5 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167742.Sherpa__WenuMassiveCBPt0_CJetVetoBVeto.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+#
+# kWmunuInclB
+#
+WmunuInclB kWmunuInclB 154.429 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167743.Sherpa__WmunuMassiveCBPt0_BFilter.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+WmunuInclC kWmunuInclC 513.117 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167744.Sherpa__WmunuMassiveCBPt0_CJetFilterBVeto.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+WmunuInclLight kWmunuInclLight 11404.8 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167745.Sherpa__WmunuMassiveCBPt0_CJetVetoBVeto.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+#
+# kWtaunuInclB
+#
+WtaunuInclB kWtaunuInclB 154.374 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167746.Sherpa__WtaunuMassiveCBPt0_BFilter.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+WtaunuInclC kWtaunuInclC 557.095 kGreen-7 /rdsk/dats4/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167747.Sherpa__WtaunuMassiveCBPt0_CJetFilterBVeto.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+WtaunuInclLight kWtaunuInclLight 11359.7 kGreen-7 /rdsk/dats3/atlas/SgTopD3PD/mc12_v15/MC/Wjets_Sherpa/user.cescobar.mc12_8TeV.167748.Sherpa__WtaunuMassiveCBPt0_CJetVetoBVeto.SGTOP_SL.e1585_s1773_s1776_r4485_r4540_p1575_v15
+#
+# kZeeNp0
+#
+ZeeNp0 kZeeNp0 848.385 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147105.AlpgenPythia_Auto__ZeeNp0.SGTOP_SL.e1879_s1581_s1586_r3658_r3549_p1575_v15
+ZeeNp1 kZeeNp1 207.326 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147106.AlpgenPythia_Auto__ZeeNp1.SGTOP_SL.e1879_s1581_s1586_r3658_r3549_p1575_v15
+ZeeNp2 kZeeNp2 69.4725 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147107.AlpgenPythia_Auto__ZeeNp2.SGTOP_SL.e1879_s1581_s1586_r3658_r3549_p1575_v15
+ZeeNp3 kZeeNp3 18.4505 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147108.AlpgenPythia_Auto__ZeeNp3.SGTOP_SL.e1879_s1581_s1586_r3658_r3549_p1575_v15
+ZeeNp4 kZeeNp4 4.73369 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147109.AlpgenPythia_Auto__ZeeNp4.SGTOP_SL.e1879_s1581_s1586_r3658_r3549_p1575_v15
+ZeeNp5 kZeeNp5 1.48586 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147110.AlpgenPythia_Auto__ZeeNp5incl.SGTOP_SL.e1879_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kZmumuNp0
+#
+ZmumuNp0 kZmumuNp0 848.609 kOrange-3 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147113.AlpgenPythia_Auto__ZmumuNp0.SGTOP_SL.e1880_s1581_s1586_r3658_r3549_p1575_v15
+ZmumuNp1 kZmumuNp1 207.373 kOrange-3 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147114.AlpgenPythia_Auto__ZmumuNp1.SGTOP_SL.e1880_s1581_s1586_r3658_r3549_p1575_v15
+ZmumuNp2 kZmumuNp2 69.4808 kOrange-3 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147115.AlpgenPythia_Auto__ZmumuNp2.SGTOP_SL.e1880_s1581_s1586_r3658_r3549_p1575_v15
+ZmumuNp3 kZmumuNp3 18.4941 kOrange-3 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147116.AlpgenPythia_Auto__ZmumuNp3.SGTOP_SL.e1880_s1581_s1586_r3658_r3549_p1575_v15
+ZmumuNp4 kZmumuNp4 4.72673 kOrange-3 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147117.AlpgenPythia_Auto__ZmumuNp4.SGTOP_SL.e1880_s1581_s1586_r3658_r3549_p1575_v15
+ZmumuNp5 kZmumuNp5 1.48019 kOrange-3 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147118.AlpgenPythia_Auto__ZmumuNp5incl.SGTOP_SL.e1880_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kZtautauNp0
+#
+ZtautauNp0 kZtautauNp0 848.267 kOrange-2 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147121.AlpgenPythia_Auto__ZtautauNp0.SGTOP_SL.e1881_s1581_s1586_r3658_r3549_p1575_v15
+ZtautauNp1 kZtautauNp1 207.397 kOrange-2 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147122.AlpgenPythia_Auto__ZtautauNp1.SGTOP_SL.e1881_s1581_s1586_r3658_r3549_p1575_v15
+ZtautauNp2 kZtautauNp2 69.4501 kOrange-2 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147123.AlpgenPythia_Auto__ZtautauNp2.SGTOP_SL.e1881_s1581_s1586_r3658_r3549_p1575_v15
+ZtautauNp3 kZtautauNp3 18.4871 kOrange-2 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147124.AlpgenPythia_Auto__ZtautauNp3.SGTOP_SL.e1881_s1581_s1586_r3658_r3549_p1575_v15
+ZtautauNp4 kZtautauNp4 4.73428 kOrange-2 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147125.AlpgenPythia_Auto__ZtautauNp4.SGTOP_SL.e1881_s1581_s1586_r3658_r3549_p1575_v15
+ZtautauNp5 kZtautauNp5 1.48208 kOrange-2 /rdsk/dats6/atlas/SgTopD3PD/mc12_v15/MC/ZjetsLF_AlpgenPythia/user.kind.mc12_8TeV.147126.AlpgenPythia_Auto__ZtautauNp5incl.SGTOP_SL.e1881_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kZeeccNp0
+#
+ZeeccNp0 kZeeccNp0 13.8803 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200432.AlpgenPythia_Auto__ZeeccNp0.SGTOP_SL.e2384_s1581_s1586_r3658_r3549_p1575_v15
+ZeeccNp1 kZeeccNp1 8.41104 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200433.AlpgenPythia_Auto__ZeeccNp1.SGTOP_SL.e2384_s1581_s1586_r3658_r3549_p1575_v15
+ZeeccNp2 kZeeccNp2 3.96515 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200434.AlpgenPythia_Auto__ZeeccNp2.SGTOP_SL.e2384_s1581_s1586_r3658_r3549_p1575_v15
+ZeeccNp3incl kZeeccNp3incl 2.01851 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200435.AlpgenPythia_Auto__ZeeccNp3incl.SGTOP_SL.e2384_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kZmumuccNp0
+#
+ZmumuccNp0 kZmumuccNp0 13.9181 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200440.AlpgenPythia_Auto__ZmumuccNp0.SGTOP_SL.e2385_s1581_s1586_r3658_r3549_p1575_v15
+ZmumuccNp1 kZmumuccNp1 8.39251 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200441.AlpgenPythia_Auto__ZmumuccNp1.SGTOP_SL.e2385_s1581_s1586_r3658_r3549_p1575_v15
+ZmumuccNp2 kZmumuccNp2 3.97754 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200442.AlpgenPythia_Auto__ZmumuccNp2.SGTOP_SL.e2385_s1581_s1586_r3658_r3549_p1575_v15
+ZmumuccNp3incl kZmumuccNp3incl 2.01296 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200443.AlpgenPythia_Auto__ZmumuccNp3incl.SGTOP_SL.e2385_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kZtautauccNp0
+#
+ZtautauccNp0 kZtautauccNp0 13.8768 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200448.AlpgenPythia_Auto__ZtautauccNp0.SGTOP_SL.e2386_s1581_s1586_r3658_r3549_p1575_v15
+ZtautauccNp1 kZtautauccNp1 8.42638 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200449.AlpgenPythia_Auto__ZtautauccNp1.SGTOP_SL.e2386_s1581_s1586_r3658_r3549_p1575_v15
+ZtautauccNp2 kZtautauccNp2 3.96268 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200450.AlpgenPythia_Auto__ZtautauccNp2.SGTOP_SL.e2386_s1581_s1586_r3658_r3549_p1575_v15
+ZtautauccNp3incl kZtautauccNp3incl 2.01143 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200451.AlpgenPythia_Auto__ZtautauccNp3incl.SGTOP_SL.e2386_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kZeebbNp0
+#
+ZeebbNp0 kZeebbNp0 7.67979 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200332.AlpgenPythia_Auto__ZeebbNp0.SGTOP_SL.e2384_s1581_s1586_r3658_r3549_p1575_v15
+ZeebbNp1 kZeebbNp1 3.88539 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200333.AlpgenPythia_Auto__ZeebbNp1.SGTOP_SL.e2384_s1581_s1586_r3658_r3549_p1575_v15
+ZeebbNp2 kZeebbNp2 1.48019 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200334.AlpgenPythia_Auto__ZeebbNp2.SGTOP_SL.e2384_s1581_s1586_r3658_r3549_p1575_v15
+ZeebbNp3incl kZeebbNp3incl 0.72819 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200335.AlpgenPythia_Auto__ZeebbNp3incl.SGTOP_SL.e2384_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kZmumubbNp0
+#
+ZmumubbNp0 kZmumubbNp0 7.67661 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200340.AlpgenPythia_Auto__ZmumubbNp0.SGTOP_SL.e2385_s1581_s1586_r3658_r3549_p1575_v15
+ZmumubbNp1 kZmumubbNp1 3.88267 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200341.AlpgenPythia_Auto__ZmumubbNp1.SGTOP_SL.e2385_s1581_s1586_r3658_r3549_p1575_v15
+ZmumubbNp2 kZmumubbNp2 1.48692 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200342.AlpgenPythia_Auto__ZmumubbNp2.SGTOP_SL.e2385_s1581_s1586_r3658_r3549_p1575_v15
+ZmumubbNp3incl kZmumubbNp3incl 0.730208 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200343.AlpgenPythia_Auto__ZmumubbNp3incl.SGTOP_SL.e2385_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kZtautaubbNp0
+#
+ZtautaubbNp0 kZtautaubbNp0 7.67732 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200348.AlpgenPythia_Auto__ZtautaubbNp0.SGTOP_SL.e2386_s1581_s1586_r3658_r3549_p1575_v15
+ZtautaubbNp1 kZtautaubbNp1 3.88633 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200349.AlpgenPythia_Auto__ZtautaubbNp1.SGTOP_SL.e2386_s1581_s1586_r3658_r3549_p1575_v15
+ZtautaubbNp2 kZtautaubbNp2 1.47323 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200350.AlpgenPythia_Auto__ZtautaubbNp2.SGTOP_SL.e2386_s1581_s1586_r3658_r3549_p1575_v15
+ZtautaubbNp3incl kZtautaubbNp3incl 0.724083 kOrange+3 /rdsk/dats8/atlas/SgTopD3PD/mc12_v15/MC/ZjetsHF_AlpgenPythia/user.kind.mc12_8TeV.200351.AlpgenPythia_Auto__ZtautaubbNp3incl.SGTOP_SL.e2386_s1581_s1586_r3658_r3549_p1575_v15
+#
+# kDibosonWW
+#
+ww kDibosonWW 20.8999 kOrange /rdsk/dats7/atlas/SgTopD3PD/mc12_v15/MC/diboson/user.kind.mc12_8TeV.105985.Herwig_WW.SGTOP_SL.e1576_s1499_s1504_r3658_r3549_p1575_v15
+zz kDibosonZZ 1.53789 kOrange /rdsk/dats7/atlas/SgTopD3PD/mc12_v15/MC/diboson/user.kind.mc12_8TeV.105986.Herwig_ZZ.SGTOP_SL.e1576_s1499_s1504_r3658_r3549_p1575_v15
+wz kDibosonWZ 6.97057 kOrange /rdsk/dats7/atlas/SgTopD3PD/mc12_v15/MC/diboson/user.kind.mc12_8TeV.105987.Herwig_WZ.SGTOP_SL.e1576_s1499_s1504_r3658_r3549_p1575_v15

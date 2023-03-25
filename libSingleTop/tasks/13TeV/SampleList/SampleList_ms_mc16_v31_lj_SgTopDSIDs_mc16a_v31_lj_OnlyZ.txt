@@ -1,0 +1,166 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kZmumuInclLight
+#
+364100ZmumuLight kZmumuInclLight 1589.63 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364100.Sh221_Zmumu_maxHtPtV0_70_L.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclC
+#
+364101ZmumuC kZmumuInclC 218.147 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364101.Sh221_Zmumu_maxHtPtV0_70_C.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclB
+#
+364102ZmumuB kZmumuInclB 124.013 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364102.Sh221_Zmumu_maxHtPtV0_70_B.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclLight
+#
+364103ZmumuLight kZmumuInclLight 73.1486 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364103.Sh221_Zmumu_maxHtPtV70_140_L.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclC
+#
+364104ZmumuC kZmumuInclC 19.8411 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364104.Sh221_Zmumu_maxHtPtV70_140_C.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclB
+#
+364105ZmumuB kZmumuInclB 12.08 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364105.Sh221_Zmumu_maxHtPtV70_140_B.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclLight
+#
+364106ZmumuLight kZmumuInclLight 23.6806 kOrange+1 /rdsk/datm8/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364106.Sh221_Zmumu_maxHtPtV140_280_L.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclC
+#
+364107ZmumuC kZmumuInclC 9.04446 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364107.Sh221_Zmumu_maxHtPtV140_280_C.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclB
+#
+364108ZmumuB kZmumuInclB 5.86387 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364108.Sh221_Zmumu_maxHtPtV140_280_B.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclLight
+#
+364109ZmumuLight kZmumuInclLight 4.65413 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364109.Sh221_Zmumu_maxHtPtV280_500_L.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclC
+#
+364110ZmumuC kZmumuInclC 2.20916 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364110.Sh221_Zmumu_maxHtPtV280_500_C.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuInclB
+#
+364111ZmumuB kZmumuInclB 1.45419 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364111.Sh221_Zmumu_maxHtPtV280_500_B.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZmumuIncl
+#
+364112Zmumu kZmumuIncl 1.74358 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364112.Sh221_Zmumu_maxHtPtV500_1000.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+364113Zmumu kZmumuIncl 0.144013 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364113.Sh221_Zmumu_maxHtPtV1000_Ecms.SGTOP1.e5271_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclLight
+#
+364114ZeeLight kZeeInclLight 1586.66 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364114.Sh221_Zee_maxHtPtV0_70_L.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclC
+#
+364115ZeeC kZeeInclC 218.16 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364115.Sh221_Zee_maxHtPtV0_70_C.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclB
+#
+364116ZeeB kZeeInclB 123.302 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364116.Sh221_Zee_maxHtPtV0_70_B.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclLight
+#
+364117ZeeLight kZeeInclLight 74.3928 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364117.Sh221_Zee_maxHtPtV70_140_L.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclC
+#
+364118ZeeC kZeeInclC 19.8296 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364118.Sh221_Zee_maxHtPtV70_140_C.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclB
+#
+364119ZeeB kZeeInclB 12.3085 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364119.Sh221_Zee_maxHtPtV70_140_B.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclLight
+#
+364120ZeeLight kZeeInclLight 24.4068 kOrange+1 /rdsk/datm8/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364120.Sh221_Zee_maxHtPtV140_280_L.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclC
+#
+364121ZeeC kZeeInclC 9.13863 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364121.Sh221_Zee_maxHtPtV140_280_C.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclB
+#
+364122ZeeB kZeeInclB 5.93117 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364122.Sh221_Zee_maxHtPtV140_280_B.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclLight
+#
+364123ZeeLight kZeeInclLight 4.74799 kOrange+1 /rdsk/datm8/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364123.Sh221_Zee_maxHtPtV280_500_L.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclC
+#
+364124ZeeC kZeeInclC 2.22321 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364124.Sh221_Zee_maxHtPtV280_500_C.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeInclB
+#
+364125ZeeB kZeeInclB 1.45716 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364125.Sh221_Zee_maxHtPtV280_500_B.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZeeIncl
+#
+364126Zee kZeeIncl 1.76308 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364126.Sh221_Zee_maxHtPtV500_1000.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+364127Zee kZeeIncl 0.144871 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364127.Sh221_Zee_maxHtPtV1000_Ecms.SGTOP1.e5299_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclLight
+#
+364128ZtautauLight kZtautauInclLight 1587.2 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364128.Sh221_Ztautau_maxHtPtV0_70_L.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclC
+#
+364129ZtautauC kZtautauInclC 218.307 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364129.Sh221_Ztautau_maxHtPtV0_70_C.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclB
+#
+364130ZtautauB kZtautauInclB 124.552 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364130.Sh221_Ztautau_maxHtPtV0_70_B.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclLight
+#
+364131ZtautauLight kZtautauInclLight 74.1331 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364131.Sh221_Ztautau_maxHtPtV70_140_L.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclC
+#
+364132ZtautauC kZtautauInclC 19.709 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364132.Sh221_Ztautau_maxHtPtV70_140_C.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclB
+#
+364133ZtautauB kZtautauInclB 11.9878 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364133.Sh221_Ztautau_maxHtPtV70_140_B.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclLight
+#
+364134ZtautauLight kZtautauInclLight 24.1858 kOrange+1 /rdsk/datm2/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364134.Sh221_Ztautau_maxHtPtV140_280_L.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclC
+#
+364135ZtautauC kZtautauInclC 9.09596 kOrange+1 /rdsk/datm6/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364135.Sh221_Ztautau_maxHtPtV140_280_C.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclB
+#
+364136ZtautauB kZtautauInclB 5.34266 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364136.Sh221_Ztautau_maxHtPtV140_280_B.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclLight
+#
+364137ZtautauLight kZtautauInclLight 4.67189 kOrange+1 /rdsk/datm3/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364137.Sh221_Ztautau_maxHtPtV280_500_L.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclC
+#
+364138ZtautauC kZtautauInclC 2.21896 kOrange+1 /rdsk/datm5/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364138.Sh221_Ztautau_maxHtPtV280_500_C.SGTOP1.e5313_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauInclB
+#
+364139ZtautauB kZtautauInclB 1.46542 kOrange+1 /rdsk/datm7/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364139.Sh221_Ztautau_maxHtPtV280_500_B.SGTOP1.e5313_s3126_r9364_p4172.lj.v31_taus_out.root
+#
+# kZtautauIncl
+#
+364140Ztautau kZtautauIncl 1.76454 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364140.Sh221_Ztautau_maxHtPtV500_1000.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root
+364141Ztautau kZtautauIncl 0.144646 kOrange+1 /rdsk/datm4/atlas/SgTopD3PD/mc16_v31_lj/MC/user.nguseyno.mc16_13TeV.364141.Sh221_Ztautau_maxHtPtV1000_Ecms.SGTOP1.e5307_s3126_r9364_p4172.lj.v31_taus_out.root

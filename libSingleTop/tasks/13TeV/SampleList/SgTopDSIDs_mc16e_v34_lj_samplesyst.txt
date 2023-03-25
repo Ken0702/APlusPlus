@@ -1,0 +1,66 @@
+### Sample Syst File
+### s-channel
+# Single-top s-channel nominal (AFII)
+410644schanlt,kSgTop_sChannel_incl,410644*r10724,kAzure+3,kAtlFast
+410645schanltbar,kSgTop_sChannel_incl,410645*r10724,kAzure+3,kAtlFast
+# Single-top s-channel PH7 (AFII)
+600020schanltPH7,kSgTop_sChannel_incl,600020*r10724,kAzure+3,kAtlFast
+600019schanltbarPH7,kSgTop_sChannel_incl,600019*r10724,kAzure+3,kAtlFast
+# Single-top s-channel aMCP8 (AFII)
+503581schanltaMCP8,kSgTop_sChannel_incl,503581*r10724,kAzure+3,kAtlFast
+# Single-top s-channel aMCH7 (AFII)
+500288schanltbaraMCH7,kSgTop_sChannel_incl,500288*r10724,kAzure+3,kAtlFast
+
+### t-channel
+# PP8 nominal (AFII)
+410658tchanlt,kSgTop_tChannel_incl,410658*r10724,kAzure+5,kAtlFast
+410659tchanltbar,kSgTop_tChannel_incl,410659*r10724,kAzure+5,kAtlFast
+# PH7 (AFII)
+600018tchanltPH7,kSgTop_tChannel_incl,600018*r10724,kAzure+5,kAtlFast
+600017tchanltbarPH7,kSgTop_tChannel_incl,600017*r10724,kAzure+5,kAtlFast
+# aMCP8 (AFII)
+503582tchanltaMCP8,kSgTop_tChannel_incl,503582*r10724,kAzure+5,kAtlFast
+# aMCH7 (AFII)
+500289tchanltaMCH7,kSgTop_tChannel_incl,500289*r10724,kAzure+5,kAtlFast
+
+### tW
+# PP8 nominal (AFII)
+410646Wt,kSgTop_Wt,410646*r10724,kAzure-3,kAtlFast
+410647Wtbar,kSgTop_Wt,410647*r10724,kAzure-3,kAtlFast
+# PP8 DS (FS)
+410654WtDS,kSgTop_Wt,410654*r10724,kAzure-3,kFullSim
+410655WtbarDS,kSgTop_Wt,410655*r10724,kAzure-3,kFullSim
+# PH7 (AFII)
+600727WtPH7,kSgTop_Wt,600727*r10724,kAzure-3,kAtlFast
+600728WtbarPH7,kSgTop_Wt,600728*r10724,kAzure-3,kAtlFast
+# aMCP8 (AFII)
+412002WtaMCP8,kSgTop_Wt,412002*r10724,kAzure-3,kAtlFast
+
+
+### ttbar
+## PP8 nominal, hdamp=1.5mt (AFII)
+410470ttbar,kTtbar,410470*r10724,kRed-4,kAtlFast
+# PP8 hdamp=3mt (AFII)
+410480ttbar1lhdamp3,kTtbar,410480*r10724,kRed-4,kAtlFast
+410482ttbar2lhdamp3,kTtbar,410482*r10724,kRed-4,kAtlFast
+# PP8 hdamp=2mt (AFII)
+411356ttbar1lhdamp2,kTtbar,411356*r10724,kRed-4,kAtlFast
+411358ttbar2lhdamp2,kTtbar,411358*r10724,kRed-4,kAtlFast
+# PP8 hdamp=1.8mt (AFII)
+411353ttbar1lhdamp18,kTtbar,411353*r10724,kRed-4,kAtlFast
+411355ttbar2lhdamp18,kTtbar,411355*r10724,kRed-4,kAtlFast
+# PP8 hdamp=1.3mt (AFII)
+411350ttbar1lhdamp13,kTtbar,411350*r10724,kRed-4,kAtlFast
+411352ttbar2lhdamp13,kTtbar,411352*r10724,kRed-4,kAtlFast
+# PH7.13 (AFII)
+411233ttbar1lPH713,kTtbar,411233*r10724,kRed-4,kAtlFast
+411234ttbar2lPH713,kTtbar,411234*r10724,kRed-4,kAtlFast
+# aMCP8 (AFII)
+410464ttbar1laMCP8,kTtbar,410464*r10724,kRed-4,kAtlFast
+410465ttbar2laMCP8,kTtbar,410465*r10724,kRed-4,kAtlFast
+# aMCH7.13 (AFII)
+412116ttbar1laMCH713,kTtbar,412116*r10724,kRed-4,kAtlFast
+412117ttbar2laMCH713,kTtbar,412117*r10724,kRed-4,kAtlFast
+
+
+

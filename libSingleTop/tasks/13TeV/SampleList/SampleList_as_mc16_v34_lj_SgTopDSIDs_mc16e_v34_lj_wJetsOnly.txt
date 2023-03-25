@@ -1,0 +1,166 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kWmunuInclLight
+#
+364156WmunuLight kWmunuInclLight 15300.1 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364156.Sh221_Wmunu_maxHtPtV0_70_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclC
+#
+364157WmunuC kWmunuInclC 2419.08 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364157.Sh221_Wmunu_maxHtPtV0_70_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclB
+#
+364158WmunuB kWmunuInclB 819.041 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364158.Sh221_Wmunu_maxHtPtV0_70_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclLight
+#
+364159WmunuLight kWmunuInclLight 618.429 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364159.Sh221_Wmunu_maxHtPtV70_140_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclC
+#
+364160WmunuC kWmunuInclC 213.411 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364160.Sh221_Wmunu_maxHtPtV70_140_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclB
+#
+#364161WmunuB kWmunuInclB 69.3299 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364161.Sh221_Wmunu_maxHtPtV70_140_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclLight
+#
+364162WmunuLight kWmunuInclLight 206.221 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364162.Sh221_Wmunu_maxHtPtV140_280_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclC
+#
+364163WmunuC kWmunuInclC 95.5037 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364163.Sh221_Wmunu_maxHtPtV140_280_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclB
+#
+364164WmunuB kWmunuInclB 35.8147 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364164.Sh221_Wmunu_maxHtPtV140_280_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclLight
+#
+364165WmunuLight kWmunuInclLight 38.2089 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364165.Sh221_Wmunu_maxHtPtV280_500_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclC
+#
+364166WmunuC kWmunuInclC 22.2349 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364166.Sh221_Wmunu_maxHtPtV280_500_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuInclB
+#
+364167WmunuB kWmunuInclB 9.3223 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364167.Sh221_Wmunu_maxHtPtV280_500_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWmunuIncl
+#
+364168Wmunu kWmunuIncl 14.5627 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364168.Sh221_Wmunu_maxHtPtV500_1000.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+364169Wmunu kWmunuIncl 1.19761 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364169.Sh221_Wmunu_maxHtPtV1000_Ecms.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclLight
+#
+364170WenuLight kWenuInclLight 15299.7 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364170.Sh221_Wenu_maxHtPtV0_70_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclC
+#
+364171WenuC kWenuInclC 2418.36 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364171.Sh221_Wenu_maxHtPtV0_70_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclB
+#
+364172WenuB kWenuInclB 819.468 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364172.Sh221_Wenu_maxHtPtV0_70_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclLight
+#
+364173WenuLight kWenuInclLight 611.538 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364173.Sh221_Wenu_maxHtPtV70_140_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclC
+#
+364174WenuC kWenuInclC 209.068 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364174.Sh221_Wenu_maxHtPtV70_140_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclB
+#
+364175WenuB kWenuInclB 94.8254 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364175.Sh221_Wenu_maxHtPtV70_140_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclLight
+#
+364176WenuLight kWenuInclLight 196.791 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364176.Sh221_Wenu_maxHtPtV140_280_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclC
+#
+364177WenuC kWenuInclC 95.5097 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364177.Sh221_Wenu_maxHtPtV140_280_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclB
+#
+364178WenuB kWenuInclB 35.894 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364178.Sh221_Wenu_maxHtPtV140_280_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclLight
+#
+364179WenuLight kWenuInclLight 38.0738 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364179.Sh221_Wenu_maxHtPtV280_500_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclC
+#
+364180WenuC kWenuInclC 22.1657 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364180.Sh221_Wenu_maxHtPtV280_500_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuInclB
+#
+364181WenuB kWenuInclB 9.36888 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364181.Sh221_Wenu_maxHtPtV280_500_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWenuIncl
+#
+364182Wenu kWenuIncl 14.7703 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364182.Sh221_Wenu_maxHtPtV500_1000.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+364183Wenu kWenuIncl 1.19664 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364183.Sh221_Wenu_maxHtPtV1000_Ecms.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclLight
+#
+364184WtaunuLight kWtaunuInclLight 15328.6 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364184.Sh221_Wtaunu_maxHtPtV0_70_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclC
+#
+364185WtaunuC kWtaunuInclC 2403.43 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364185.Sh221_Wtaunu_maxHtPtV0_70_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclB
+#
+364186WtaunuB kWtaunuInclB 829.089 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364186.Sh221_Wtaunu_maxHtPtV0_70_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclLight
+#
+364187WtaunuLight kWtaunuInclLight 619.517 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364187.Sh221_Wtaunu_maxHtPtV70_140_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclC
+#
+364188WtaunuC kWtaunuInclC 204.113 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364188.Sh221_Wtaunu_maxHtPtV70_140_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclB
+#
+364189WtaunuB kWtaunuInclB 95.0974 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364189.Sh221_Wtaunu_maxHtPtV70_140_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclLight
+#
+364190WtaunuLight kWtaunuInclLight 196.304 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364190.Sh221_Wtaunu_maxHtPtV140_280_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclC
+#
+364191WtaunuC kWtaunuInclC 95.64 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364191.Sh221_Wtaunu_maxHtPtV140_280_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclB
+#
+#364192WtaunuB kWtaunuInclB 38.8685 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364192.Sh221_Wtaunu_maxHtPtV140_280_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclLight
+#
+364193WtaunuLight kWtaunuInclLight 38.1533 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364193.Sh221_Wtaunu_maxHtPtV280_500_L.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclC
+#
+364194WtaunuC kWtaunuInclC 22.1002 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364194.Sh221_Wtaunu_maxHtPtV280_500_C.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuInclB
+#
+364195WtaunuB kWtaunuInclB 9.38204 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364195.Sh221_Wtaunu_maxHtPtV280_500_B.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+#
+# kWtaunuIncl
+#
+364196Wtaunu kWtaunuIncl 14.5976 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364196.Sh221_Wtaunu_maxHtPtV500_1000.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root
+364197Wtaunu kWtaunuIncl 1.19713 kGreen-7 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364197.Sh221_Wtaunu_maxHtPtV1000_Ecms.SGTOP1.e5340_s3126_r10724_p4344.lj.v34.1.sk2_out-skim.root

@@ -1,0 +1,245 @@
+#This is a documentation of the analysis steps of the t-/Wt channel analysis
+#It is better to start every analysis step in your $LIBSINGLETOP/tasks folder to prevent errors
+
+# ------------------------------------------------------------------------------------------
+# Steps, which are to be done if you checked out the libSingleTop libary for the first time:
+# ------------------------------------------------------------------------------------------
+
+I.1) Choose a machine of the cluster (dats1-8 or datm5-8) and create a user folder:
+     e.g. "mkdir /rdsk/dats6/atlas/bilski"
+
+     The log files and the run files will be written into this user folder.
+   
+I.2)
+I.2.1) If the folder $LIBSINGLETOP/hist doesn't exist, create it.
+I.2.2) If the folder $LIBSINGLETOP/tasks/elec and $LIBSINGLETOP/tasks/muon don't exist, create them.
+
+I.3) Copy 
+   'libAtlasAnalysis/utils/do_hfor_splitting.sh'
+   to your ~/bin folder.
+
+I.4) Change in 'CreateRetryBatchJobsSampleLists.sh' the line 
+     
+     "taskdir="/rdsk/dats6/atlas/"$user"/task_files/"$1"/"$2"Jet/""
+     
+     the dats6 to your machine of point 1).
+
+I.5) Change in 'CallTaskMacro_tChannel.C' in the lines
+
+     "const char* logfile_dir = "/rdsk/dats6/atlas/bilski/task_files/""
+     "const char* histdir_mu  = "/users/eeh/bilski/atlas/APlusPlus/libSingleTop/hist/tChannelAnalysis_mu/";"
+     "const char* histdir_e   = "/users/eeh/bilski/atlas/APlusPlus/libSingleTop/hist/tChannelAnalysis_e/";"
+
+     the dats6 to your machine of point 1) and the user "bilski" to your username.
+
+I.6) Change in 'WriteWhforFiles.C' the user "bilski" to your username in line
+     
+     "TString histdir = "/eeh/bilski/atlas/APlusPlus/libSingleTop/hist/tChannelAnalysis_";"
+
+I.7) Change in 'WriteAllSymmetrizedSystFiles.C' the user "bilski" to your username the line 
+   
+     "const char* histdir = "/eeh/bilski/atlas/APlusPlus/libSingleTop/hist/tChannelAnalysis_";"
+   
+I.8) Change in 'CreateSystematicsPlotterMacros_tChannel.C' the lines
+
+     "const char* plotdir_mu  = "/eeh/bilski/atlas/APlusPlus/libSingleTop/hist/tChannelAnalysis_mu/";"
+     "const char* plotdir_e   = "/eeh/bilski/atlas/APlusPlus/libSingleTop/hist/tChannelAnalysis_e/";"
+
+     the user "bilski" to your username.
+
+I.9) Include '$LIBSINGLETOP/tasks' in your binary path:
+
+     export PATH=$LIBSINGLETOP/tasks:$PATH
+
+
+I.10) Remark:
+      The description is made for t-channel. Do it analogous for the Wt-channel files.
+      For this, also change "tChannelAnalysis" to "WtChannelAnalysis" everywhere above!
+      - The user name "bilski" is must be replaced by your user name (ruthh,strider,sstamm or something else).
+      - Source of error: If a script doesn't work, please check the user path. Maybe something was forgotten in the above description.
+
+
+# ----------------------------------------------------------
+# Steps, which are to be done after every new MC production:
+# ----------------------------------------------------------
+
+II.1) Update the sample list "SampleListMC11c_as0Xb.txt" and add the paths of the new samples.
+
+II.2) Update the sample list "SampleListMC11c_ms0Xb.txt" and add the paths of the new samples.
+
+II.3) Split every  W+JetsLF and W+JetsHF sample to a HFOR folder one level down in the folder hierarchy.
+      Check, if it hasn't been done already!!! Execute:
+      
+      'do_hfor_splitting.sh "SampleListMC_XXXX" "HFOR"'      
+
+      The XXXX stands for 'ms0Xb' or 'as0Xb'. I depends on where the samples are located that you want to split.
+
+      - Remark: It is faster to split the samples on one machine cluster (as0Xb or ms0Xb) and copy 
+      the splitted files to the other cluster than splitting twice (it is very time-consuming!).
+      There is a copy script available in 
+      
+      '$LIBATLASANALYSIS/utils/copy_HFOR_dirs.sh'
+
+II.4)
+II.4.1) Create the batch job task macros for the t-channel analysis in JetBin X for Leptonmode Y.
+
+	root -l -b CallTaskMacro_tChannel.C;
+
+II.4.2) Create the batch job task macros for the Wt-channel analysis in JetBin X for Leptonmode Y.
+	
+	root -l -b CallTaskMacro_Wt.C
+
+
+# -------------------------
+# Steps to run the analysis
+# -------------------------
+
+Remark: All scripts (*.sh) can be run without any argument to invoke the help function.
+	Macros *.C are always run without arguments.
+
+III.1) Update/compile your A++.
+
+III.2) Change in "Atl_tChannelTask.C" (analogously for "Atl_WtChannelTask.C") in the function 
+
+       "void Atl_tChannelTask::InitSelector()"
+
+       the varaibles "n_jets_min" and "n_jets_max" to the jet bin, which you want to analyze.
+       Both variables have to be the same to analyze this exclusive jet bin.
+
+III.3) Delete/move your root files in $LIBSINGLETOP/hist/tChannelAnalysis_e (also for mu and Wt, if it applies)
+       of the analysis, which you want to start.
+
+III.4) Start the analysis for the first time for your channel/lepton/jetbin/cluster;
+
+       e.g. "root -l task_tChannelAnalysis_e_2Jets_as0Xb.C"
+
+       Choose your job(s) and click "Execute Task". If you use the ADVICE (see below), start the task macro with 
+
+       e.g. "root -l -b " and use the command "analysis->ExecuteTask()".
+
+III.5) If all jobs are submitted and done on the cluster (check the queue status in the shell with the command  "qstat")
+       You might have to repeat some submissions since some jobs failed.
+       
+       - Delete all retry sample lists via
+         "rm SampleListRetry*".
+
+       - Execute
+         "./CreateRetryBatchJobsSampleLists.sh lepton jetbin cluster channel" (see input arguments in the script).
+
+       - Create retry task macros from the retry sample lists by opening root via
+       
+         "root -l -b"
+
+         and then loading the retry task macro via 
+	 ".L CreateRetryTaskMacro_tChannel.C"
+
+      	 and then (see documentation of CreateRetryTaskMacro_tChannel.C) executing the retry task macro for example as
+	 "CreateRetryTaskMacro("SampleListRetry","task_tChannelAnalysis_retry.C",
+	                       "$LIBSINGLETOP/hist/tChannelAnalysis_e/",
+                               "/rdsk/datm8/atlas/ruthh/task_files/",
+                               "Atl_tChannelTask_e","as0Xb",k2Jets,kOff,kTight)"
+
+         where "ruthh" should be replaced by your own username and datm8 by your machine of point 1)
+	 at the very top of this manual.
+
+       - Start the created retry macro then via 
+         "root -l task_tChannelAnalysisRetry_e_2Jets_as0Xb.C"
+
+	 Use the created retry macro!
+	 If you use the ADVICE (see below), start the task macro with 
+	 "root -l -b " and use the command "analysis->ExecuteTask()".
+
+       - Repeat all steps of point 5), until after calling 
+         "./CreateRetryBatchJobsSampleLists.sh lepton jetbin cluster channel"
+
+	 no new retry samples lists are created anymore.
+
+III.6) Merge the ttbar files (use screen)
+      
+       "./MergeTTbarFilesForPlotter.sh lepton jetbin channel"
+
+III.7) Merge W+Jets files (use screen)
+
+       "root -l -b WriteAllWhforFiles.C"
+
+III.7.1) If you have not done all systematics, you only need to merge the one you produced.
+	 Look up the enum-number in "WriteWhforFiles.C" enums start with 0!
+	 0 = nominal, 1 = kElScaledUp ...
+
+III.8) Copy some ttbar files for other systematics
+
+      "./MergeTTbarFilesForPlotter-After.sh lepton jetbin channel" 
+
+III.9) Ensure that all symmetriezed files are at the correct palce. Do
+
+       "root -l -b WriteAllSymmetrizedSystFiles.C"
+
+III.9.1) If you have not run all systematics (~30), you have to look-up the enum number corresponding
+ 	 to the systematic you want to produce. (e.g. 4 = ISRFSR)
+	 The enum can be found in "WriteSymmetrizedSystFiles.C", look for SystMode. enum starts with 0!
+
+III.10) You have to repeat 1) to 9) for all lepton modes, jetbins and production channels, which you want to analyze.
+
+
+# -------------------------------------------------------------------
+# Steps to create the stacked plots with the MCPlotter functionality:
+# -------------------------------------------------------------------
+      
+IV.1) Duplicate QCD files for all systematics. Run 
+      
+      "./DuplicateDataQCDFilesForPlotter.sh lepton jetbin channel"
+
+      They only exist for the nominal case. It is important for the stacked plots to have qcd and data in them at all.
+
+IV.2) Create the plotter macros for all systematics
+
+      "root -l -b CreateSystematicsPlotterMacros_tChannel.C"
+
+IV.2.1) W SA tool mode: 1 (for 7 TeV if not otherwise specified)
+
+IV.3) Send all the plotter jobs to the batch cluster at once (!).
+
+      "./SendMCPlotterTasks.sh lepton jetbin tagmode channel"
+
+IV.4) Necessarry for using BILL:
+      By calling 
+
+      "./CreateAdditionalSystFolders.sh lepton jetbin channel"
+
+      the systematics of W normalization and others that lie within the nominal folder still
+      are raised to the same level as the other plotter files and corresponding folders are created for them.
+
+      The command 
+      
+      "./Link_X_LeptonSystematics.sh channel jetbin"
+
+      links the systematics, which don't exist for a particular lepton mode, to the nominal folder.
+
+IV.5) You must repeat 1) to 4) for all lepton modes, jetbins and production channels, which you want to analyze.
+
+
+#
+# The next analysis step is BILL. For more informations see the documentation in $BILLHOME
+# Have fun with analyzing!!! :) 
+#      
+	     
+
+ADVICE: A very easy but useful tool is "screen". It is a ghost shell, which you can discard without
+	closing the sessions. It is optimal for scripts, which use a lot of time, for 
+	example the "do_hfor_splitting" or submitting of the analysis jobs with the task macros.
+	The important thing is to start the scripts with suppressed graphical interface
+	
+	(root -l -b ...). 
+	
+	Important key commands for screen:
+	- "screen": starts a session in screen mode.
+
+	- "CTRL+a" -> "d": discard the screen session.
+	  If you started screen on a HU machine, you can after CTRL+a->d shut down your personal computer.
+
+	- "screen -r": resumes the screen session.
+	  You have to remember, on which machine you started the screen session in order to be able to retrieve it!!!
+
+	- "exit": the exit-command in the screen session terminates the screen session!
+          You must terminate unused sessions, otherwise you have to choose between different
+	  open screen sessions when doing "screen -r"!!!

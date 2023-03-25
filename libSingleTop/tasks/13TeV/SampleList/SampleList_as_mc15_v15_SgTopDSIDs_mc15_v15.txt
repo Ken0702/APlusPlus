@@ -1,0 +1,70 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kDATA_TOPQ1
+#
+data kDATA_TOPQ1 + kBlack /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodA.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodB.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodK.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodF.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data15_13TeV.periodJ.physics_Main.SGTOP1.grp15_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodD.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodI.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data15_13TeV.periodH.physics_Main.SGTOP1.grp15_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodL.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodG.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data15_13TeV.periodG.physics_Main.SGTOP1.grp15_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data15_13TeV.periodF.physics_Main.SGTOP1.grp15_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodC.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data16_13TeV.periodE.physics_Main.SGTOP1.grp16_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data15_13TeV.periodE.physics_Main.SGTOP1.grp15_v01_p2950.ll.v15_out.root
++ + + + /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/DATA/user.smergelm.data15_13TeV.periodD.physics_Main.SGTOP1.grp15_v01_p2950.ll.v15_out.root
+#
+# kSgTop_Wt
+#
+Wt_ll kSgTop_Wt 3.77701 kAzure-3 /rdsk/dats8/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.410015.PhPy6_P2012_Wt_2l_t.SGTOP1.e3753_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+Wtbar_ll kSgTop_Wt 3.7748 kAzure-3 /rdsk/dats3/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.410016.PhPy6_P2012_Wt_2l_tbar.SGTOP1.e3753_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+410050 kSgTop_tZj 0.24013 kAzure+3 /rdsk/dats3/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.410050.MGPy6_P2012_tZ_4fl_tchan_l.SGTOP1.e4279_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+#
+# kTtbarPlusW
+#
+410066 kTtbarPlusW 0.233059 kRed+2 /rdsk/dats6/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410066.MGPy8_ttW_Np0.SGTOP1.e4111_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+410067 kTtbarPlusW 0.185618 kRed+2 /rdsk/dats5/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410067.MGPy8_ttW_Np1.SGTOP1.e4111_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+410068 kTtbarPlusW 0.180576 kRed+2 /rdsk/dats3/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410068.MGPy8_ttW_Np2.SGTOP1.e4111_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+410111 kTtbarPlusZ 0.0145315 kRed+2 /rdsk/dats6/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410111.MGPy8_ttee_Np0.SGTOP1.e4632_s2726_r7725_r7676_p2952.ll.v15_out.root
+410112 kTtbarPlusZ 0.0261894 kRed+2 /rdsk/dats8/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410112.MGPy8_ttee_Np1.SGTOP1.e4632_s2726_r7725_r7676_p2952.ll.v15_out.root
+410113 kTtbarPlusZ 0.0145658 kRed+2 /rdsk/dats1/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410113.MGPy8_ttmumu_Np0.SGTOP1.e4632_s2726_r7725_r7676_p2952.ll.v15_out.root
+410114 kTtbarPlusZ 0.0262151 kRed+2 /rdsk/dats4/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410114.MGPy8_ttmumu_Np1.SGTOP1.e4632_s2726_r7725_r7676_p2952.ll.v15_out.root
+410115 kTtbarPlusZ 0.01493 kRed+2 /rdsk/dats5/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410115.MGPy8_tttautau_Np0.SGTOP1.e4632_s2726_r7725_r7676_p2952.ll.v15_out.root
+410116 kTtbarPlusZ 0.0268629 kRed+2 /rdsk/dats4/atlas/SgTopD3PD/mc15_v15/MC/user.icioara.mc15_13TeV.410116.MGPy8_tttautau_Np1.SGTOP1.e4632_s2726_r7725_r7676_p2952.ll.v15_out.root
+410000 kTtbar 451.664 kRed-4 /rdsk/dats5/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.410000.PhPy6_P2012_ttbar_hdamp172_l.SGTOP1.e3698_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+#
+# kZeeIncl
+#
+361106 kZeeIncl 1950.63 kOrange+1 /rdsk/dats6/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361106.PhPy8_Zee.SGTOP1.e3601_s2576_s2132_r7725_r7676_p2669.ll.v15_out.root
+#
+# kZmumuIncl
+#
+361107 kZmumuIncl 1950.63 kOrange+1 /rdsk/dats8/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361107.PhPy8_Zmumu.SGTOP1.e3601_s2576_s2132_r7725_r7676_p2669.ll.v15_out.root
+#
+# kZtautauIncl
+#
+361108 kZtautauIncl 1950.63 kOrange+1 /rdsk/dats5/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361108.PhPy8_Ztautau.SGTOP1.e3601_s2726_r7725_r7676_p2669.ll.v15_out.root
+#
+# kDibosonWW
+#
+361600 kDibosonWW 10.631 kOrange /rdsk/dats4/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361600.PhPy8_WWlvlv.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.ll.v15_out.root
+361601 kDibosonWZ 4.4625 kOrange /rdsk/dats4/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361601.PhPy8_WZlvll_mll4.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+361603 kDibosonZZ 1.2568 kOrange /rdsk/dats2/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361603.PhPy8_ZZllll_mll4.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2952.ll.v15_out.root
+361604 kDibosonZZ 0.92498 kOrange /rdsk/dats6/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361604.PhPy8_ZZvvll_mll4.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.ll.v15_out.root
+361607 kDibosonWZ 3.2849 kOrange /rdsk/dats3/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361607.PhPy8_WZqqll_mll20.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.ll.v15_out.root
+361610 kDibosonZZ 2.2739 kOrange /rdsk/dats2/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.361610.PhPy8_ZZqqll_mqq20mll20.SGTOP1.e4054_s2608_s2183_r7725_r7676_p2669.ll.v15_out.root
+#
+# kFCNC_utZ_K01L
+#
+957011 kFCNC_utZ_K01L 0.034511145 kYellow /rdsk/dats3/atlas/SgTopD3PD/mc15_v15/MC/user.smergelm.mc15_13TeV.957011.MGPy8_topFCNC_KLut_tZ_3l.SGTOP1.e6106a_a766_a818_p2842_01.ll.v15_out.root 

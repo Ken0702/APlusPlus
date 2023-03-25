@@ -1,0 +1,6 @@
+RootCore:0:RootCore:/datc/atlas/kaphle/APP_cache/build/RootCore/obj:RootCore:1:svn.cern.ch/reps/atlasoff/PhysicsAnalysis/D3PDTools/RootCore/tags/RootCore-00-04-62
+Asg_Boost:0:Asg_Boost:/datc/atlas/kaphle/APP_cache/build/RootCore/obj:Asg_Boost:1:svn.cern.ch/reps/atlasoff/AsgExternal/Asg_Boost/tags/Asg_Boost-01-61-00-04
+Asg_Lhapdf:0:Asg_Lhapdf:/datc/atlas/kaphle/APP_cache/build/RootCore/obj:Asg_Boost Asg_Lhapdf:1:svn.cern.ch/reps/atlasoff/AsgExternal/Asg_Lhapdf/tags/Asg_Lhapdf-06-01-05-01
+CalibrationDataInterface:0:CalibrationDataInterface:/datc/atlas/kaphle/APP_cache/build/RootCore/obj:CalibrationDataInterface:1:svn.cern.ch/reps/atlasoff/PhysicsAnalysis/JetTagging/JetTagPerformanceCalibration/CalibrationDataInterface/tags/CalibrationDataInterface-00-04-08
+PdfReweightingTool:0:PdfReweightingTool:/datc/atlas/kaphle/APP_cache/build/RootCore/obj:Asg_Boost Asg_Lhapdf PdfReweightingTool:1:svn.cern.ch/reps/atlasinst/Institutes/Humboldt/SingleTop/PdfReweightingTool/tags/PdfReweightingTool-00-00-14
+TopFakes:0:TopFakes:/datc/atlas/kaphle/APP_cache/build/RootCore/obj:TopFakes:1:skaphle@svn.cern.ch/reps/atlasoff/PhysicsAnalysis/TopPhys/xAOD/TopFakes/trunk

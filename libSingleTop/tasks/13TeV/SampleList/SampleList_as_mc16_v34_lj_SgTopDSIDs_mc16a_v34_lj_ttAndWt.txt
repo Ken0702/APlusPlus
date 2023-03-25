@@ -1,0 +1,16 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kSgTop_Wt
+#
+410646Wt kSgTop_Wt 35.8495 kAzure-3 /rdsk/dat23/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410646.PhPy8EG_Wt_DR_t.SGTOP1.e6552_s3126_r9364_p4346.lj.v34.sk2_out-skim.root
+410647Wtbar kSgTop_Wt 35.8591 kAzure-3 /rdsk/dat23/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410647.PhPy8EG_Wt_DR_tbar.SGTOP1.e6552_s3126_r9364_p4346.lj.v34.sk2_out-skim.root
+#
+# kTtbar
+#
+410470ttbar kTtbar 452.352 kRed-4 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410470.PhPy8EG_ttbar_hdamp258p75_l.SGTOP1.e6337_s3126_r9364_p4346.lj.v34truth.sk1_out-skim.root

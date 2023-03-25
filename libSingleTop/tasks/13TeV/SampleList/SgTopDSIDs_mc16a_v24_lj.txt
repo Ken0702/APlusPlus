@@ -1,0 +1,85 @@
+# see also
+# tasks/SgTopDSIDs_v15.txt (8 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc15_v15_lj.txt (13 TeV s-channel)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16_v20_lj.txt (13 TeV s-channel, rel.21)
+# tasks/13TeV/SampleList/SgTopDSIDs_mc16a_v21_lj.txt 
+# https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/SingleTopProductionV23lj
+# ~kaphle/atlas/download/mc16_v23_lj/all_reduced_MC16a.txt
+#
+# This sample list is for MC16a samples, corresponding to 2015/16 data. Need to adapt DSID field to check for r-tag.
+#
+# changes from v23:
+# - t-channel only AFII 642/643
+# - no Zjets or Diboson
+# - has diff. lepton isolation WP to check QCD behavior
+
+# DATA
+data15,kDATA_TOPQ1,data15_13TeV,kBlack
+data16,kDATA_TOPQ1,data16_13TeV,kBlack
+
+# QCD multi-jet
+QCDMMdata15,kQCDMatrixMethod,data15_13TeV,kMagenta+2
+QCDMMdata16,kQCDMatrixMethod,data16_13TeV,kMagenta+2
+
+# Single-top s-channel
+410644schanlt,kSgTop_sChannel_incl,410644*r9364,kAzure+3,kFullSim
+410645schanltbar,kSgTop_sChannel_incl,410645*r9364,kAzure+3,kFullSim
+
+# Single-top t-channel
+#410011tchanlt,kSgTop_tChannel_incl,410011*r9364,kAzure+5,kFullSim
+#410012tchanltbar,kSgTop_tChannel_incl,410012*r9364,kAzure+5,kFullSim
+410642tchanlt,kSgTop_tChannel_incl,410642*r9364,kAzure+5,kAtlFast
+410643tchanltbar,kSgTop_tChannel_incl,410643*r9364,kAzure+5,kAtlFast
+#410658tchanlt,kSgTop_tChannel_incl,410658*r9364,kAzure+5,kFullSim
+#410659tchanltbar,kSgTop_tChannel_incl,410659*r9364,kAzure+5,kFullSim
+
+# Single-top Wt
+410646Wt,kSgTop_Wt,410646*r9364,kAzure-3,kFullSim
+410647Wtbar,kSgTop_Wt,410647*r9364,kAzure-3,kFullSim
+
+# ttbar
+410470ttbar,kTtbar,410470*r9364,kRed-4,kFullSim
+
+# W + jets
+364156WmunuLight,kWmunuInclLight,364156*r9364,kGreen-7,kFullSim
+364157WmunuC,kWmunuInclC,364157*r9364,kGreen-7,kFullSim
+364158WmunuB,kWmunuInclB,364158*r9364,kGreen-7,kFullSim
+364159WmunuLight,kWmunuInclLight,364159*r9364,kGreen-7,kFullSim
+364160WmunuC,kWmunuInclC,364160*r9364,kGreen-7,kFullSim
+364161WmunuB,kWmunuInclB,364161*r9364,kGreen-7,kFullSim
+364162WmunuLight,kWmunuInclLight,364162*r9364,kGreen-7,kFullSim
+364163WmunuC,kWmunuInclC,364163*r9364,kGreen-7,kFullSim
+364164WmunuB,kWmunuInclB,364164*r9364,kGreen-7,kFullSim
+364165WmunuLight,kWmunuInclLight,364165*r9364,kGreen-7,kFullSim
+364166WmunuC,kWmunuInclC,364166*r9364,kGreen-7,kFullSim
+364167WmunuB,kWmunuInclB,364167*r9364,kGreen-7,kFullSim
+364168Wmunu,kWmunuIncl,364168*r9364,kGreen-7,kFullSim
+364169Wmunu,kWmunuIncl,364169*r9364,kGreen-7,kFullSim
+364170WenuLight,kWenuInclLight,364170*r9364,kGreen-7,kFullSim
+364171WenuC,kWenuInclC,364171*r9364,kGreen-7,kFullSim
+364172WenuB,kWenuInclB,364172*r9364,kGreen-7,kFullSim
+364173WenuLight,kWenuInclLight,364173*r9364,kGreen-7,kFullSim
+364174WenuC,kWenuInclC,364174*r9364,kGreen-7,kFullSim
+364175WenuB,kWenuInclB,364175*r9364,kGreen-7,kFullSim
+364176WenuLight,kWenuInclLight,364176*r9364,kGreen-7,kFullSim
+364177WenuC,kWenuInclC,364177*r9364,kGreen-7,kFullSim
+364178WenuB,kWenuInclB,364178*r9364,kGreen-7,kFullSim
+364179WenuLight,kWenuInclLight,364179*r9364,kGreen-7,kFullSim
+364180WenuC,kWenuInclC,364180*r9364,kGreen-7,kFullSim
+364181WenuB,kWenuInclB,364181*r9364,kGreen-7,kFullSim
+364182Wenu,kWenuIncl,364182*r9364,kGreen-7,kFullSim
+364183Wenu,kWenuIncl,364183*r9364,kGreen-7,kFullSim
+364184WtaunuLight,kWtaunuInclLight,364184*r9364,kGreen-7,kFullSim
+364185WtaunuC,kWtaunuInclC,364185*r9364,kGreen-7,kFullSim
+364186WtaunuB,kWtaunuInclB,364186*r9364,kGreen-7,kFullSim
+364187WtaunuLight,kWtaunuInclLight,364187*r9364,kGreen-7,kFullSim
+364188WtaunuC,kWtaunuInclC,364188*r9364,kGreen-7,kFullSim
+364189WtaunuB,kWtaunuInclB,364189*r9364,kGreen-7,kFullSim
+364190WtaunuLight,kWtaunuInclLight,364190*r9364,kGreen-7,kFullSim
+364191WtaunuC,kWtaunuInclC,364191*r9364,kGreen-7,kFullSim
+364192WtaunuB,kWtaunuInclB,364192*r9364,kGreen-7,kFullSim
+364193WtaunuLight,kWtaunuInclLight,364193*r9364,kGreen-7,kFullSim
+364194WtaunuC,kWtaunuInclC,364194*r9364,kGreen-7,kFullSim
+364195WtaunuB,kWtaunuInclB,364195*r9364,kGreen-7,kFullSim
+364196Wtaunu,kWtaunuIncl,364196*r9364,kGreen-7,kFullSim
+364197Wtaunu,kWtaunuIncl,364197*r9364,kGreen-7,kFullSim

@@ -1,0 +1,22 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kSgTop_sChannel_incl
+#
+410644schanlt kSgTop_sChannel_incl 2.0572 kAzure+3 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410644.PhPy8EG_sch_l_t.SGTOP1.e6527_s3126_r10724_p4346.lj.v34truth.sk1_out-skim.root
+410645schanltbar kSgTop_sChannel_incl 1.28661 kAzure+3 /rdsk/dat21/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410645.PhPy8EG_sch_l_tbar.SGTOP1.e6527_s3126_r10724_p4346.lj.v34truth.sk1_out-skim.root
+#
+# kSgTop_tChannel_incl
+#
+410658tchanlt kSgTop_tChannel_incl 44.0587 kAzure+5 /rdsk/dat24/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410658.PhPy8EG_tch_BW50_l_t.SGTOP1.e6671_s3126_r10724_p4346.lj.v34truth.sk1_out-skim.root
+410659tchanltbar kSgTop_tChannel_incl 26.233 kAzure+5 /rdsk/dat24/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410659.PhPy8EG_tch_BW50_l_tbar.SGTOP1.e6671_s3126_r10724_p4346.lj.v34truth.sk1_out-skim.root
+#
+# kSgTop_Wt
+#
+410646Wt kSgTop_Wt 35.8495 kAzure-3 /rdsk/dat23/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410646.PhPy8EG_Wt_DR_t.SGTOP1.e6552_s3126_r10724_p4346.lj.v34.sk2_out-skim.root
+410647Wtbar kSgTop_Wt 35.8591 kAzure-3 /rdsk/dat23/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410647.PhPy8EG_Wt_DR_tbar.SGTOP1.e6552_s3126_r10724_p4346.lj.v34.sk2_out-skim.root

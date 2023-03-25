@@ -1,0 +1,10 @@
+ROOTSYS = /cvmfs/sft.cern.ch/lcg/releases/LCG_87/ROOT/6.08.02/x86_64-slc6-gcc49-opt
+PLATFORM = linux
+CXX = g++
+CXXFLAGS = -O2 -Wall -fPIC -pthread -std=c++1y -m64 -I/cvmfs/sft.cern.ch/lcg/releases/LCG_87/ROOT/6.08.02/x86_64-slc6-gcc49-opt/include
+CXXFLAGS_NOOPT = -Wall -fPIC -pthread -std=c++1y -m64 -I/cvmfs/sft.cern.ch/lcg/releases/LCG_87/ROOT/6.08.02/x86_64-slc6-gcc49-opt/include
+SOFLAGS = -shared
+LD = g++
+LDFLAGS = -m64
+ROOTLIBS = -L/cvmfs/sft.cern.ch/lcg/releases/LCG_87/ROOT/6.08.02/x86_64-slc6-gcc49-opt/lib -lCore -lRIO -lNet -lHist -lGraf -lGraf3d -lGpad -lTree -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lThread -lMultiProc -pthread -lm -ldl -rdynamic
+ROOT_VERSION = 6.08/02

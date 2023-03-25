@@ -1,0 +1,7 @@
+workareaRelative = ..
+rootcoredir = /mnt/eeh/kaphle/atlas/APlusPlus_clean_2018-12-20/external/RootCore
+rootcoreobj = RootCore/obj
+rootcoreconf = x86_64-Linux-gcc4.9.3-root6.08.02
+CXXFLAGS = 
+LDFLAGS = 
+use_pedantic = 1

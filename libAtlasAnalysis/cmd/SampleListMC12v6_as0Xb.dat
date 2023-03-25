@@ -1,0 +1,5 @@
+
+# sgtop
+s_channel kSgTop_sChannel_incl /rdsk/dats5/atlas/SgTopD3PD/mc12_v6/MC/sgtop/user.kind.mc12_8TeV.110119.PowhegPythia_P2011C_st_schan_lep.NTUP_SGTOP_SL.e1720_s1581_s1586_r3658_r3549_p1400_v6 physics
+Wt kSgTop_Wt /rdsk/dats5/atlas/SgTopD3PD/mc12_v6/MC/sgtop/user.kind.mc12_8TeV.110140.PowhegPythia_P2011C_st_Wtchan_incl_DR.NTUP_SGTOP_SL.e1743_s1581_s1586_r3658_r3549_p1400_v6 physics
+t_channel kSgTop_tChannel_incl /rdsk/dats5/atlas/SgTopD3PD/mc12_v6/MC/sgtop/user.kind.mc12_8TeV.110101.AcerMCPythia_P2011CCTEQ6L1_singletop_tchan_l.NTUP_SGTOP_SL.e1731_s1581_s1586_r3658_r3549_p1400_v6 physics

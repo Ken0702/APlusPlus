@@ -1,0 +1,53 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kSgTop_sChannel_incl
+#
+410644schanlt kSgTop_sChannel_incl 2.0572 kAzure+3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410644.PhPy8EG_sch_l_t.SGTOP1.e6527_a875_r10724_p4514.lj.v34.0.sk2_out-skim.root
+410645schanltbar kSgTop_sChannel_incl 1.28661 kAzure+3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410645.PhPy8EG_sch_l_tbar.SGTOP1.e6527_a875_r10724_p4514.lj.v34.0.sk2_out-skim.root
+600020schanltPH7 kSgTop_sChannel_incl 2.05629 kAzure+3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.600020.PhH7EG_716_sch_l_t.SGTOP1.e7954_a875_r10724_p4346.lj.v34.0.sk2_out-skim.root
+600019schanltbarPH7 kSgTop_sChannel_incl 1.28646 kAzure+3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.600019.PhH7EG_716_sch_l_tbar.SGTOP1.e7954_a875_r10724_p4346.lj.v34.0.sk2_out-skim.root
+503581schanltaMCP8 kSgTop_sChannel_incl 3.34976 kAzure+3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.503581.aMCPy8_sch_lep_shower_N30N23.SGTOP1.e8262_a875_r10724_p4346.lj.v34.0.sk2_out-skim.root
+500288schanltbaraMCH7 kSgTop_sChannel_incl 3.34887 kAzure+3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.500288.aMCH7EG_NN30NLO_schnel_lep.SGTOP1.e8186_a875_r10724_p4346.lj.v34.0.sk2_out-skim.root
+#
+# kSgTop_tChannel_incl
+#
+410658tchanlt kSgTop_tChannel_incl 44.0587 kAzure+5 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410658.PhPy8EG_tch_BW50_l_t.SGTOP1.e6671_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+410659tchanltbar kSgTop_tChannel_incl 26.233 kAzure+5 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410659.PhPy8EG_tch_BW50_l_tbar.SGTOP1.e6671_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+600018tchanltPH7 kSgTop_tChannel_incl 44.0526 kAzure+5 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.600018.PhH7EG_716_tch_l_t.SGTOP1.e7954_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+600017tchanltbarPH7 kSgTop_tChannel_incl 26.2333 kAzure+5 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.600017.PhH7EG_716_tch_l_tbar.SGTOP1.e7954_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+503582tchanltaMCP8 kSgTop_tChannel_incl 70.4377 kAzure+5 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.503582.aMCPy8_tch_lep_shower_N30N23.SGTOP1.e8262_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+500289tchanltaMCH7 kSgTop_tChannel_incl 70.4216 kAzure+5 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.500289.aMCH7EG_NN30NLO_tchnel_lep.SGTOP1.e8186_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+#
+# kSgTop_Wt
+#
+410646Wt kSgTop_Wt 35.8495 kAzure-3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410646.PhPy8EG_Wt_DR_t.SGTOP1.e6552_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+410647Wtbar kSgTop_Wt 35.8591 kAzure-3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410647.PhPy8EG_Wt_DR_tbar.SGTOP1.e6552_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+410654WtDS kSgTop_Wt 35.8542 kAzure-3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410654.PhPy8EG_Wt_DS_t.SGTOP1.e6552_s3126_r10724_p4346.lj.v34.sk2_out-skim.root
+410655WtbarDS kSgTop_Wt 35.8542 kAzure-3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410655.PhPy8EG_Wt_DS_tbar.SGTOP1.e6552_s3126_r10724_p4346.lj.v34.sk2_out-skim.root
+600727WtPH7 kSgTop_Wt 35.859 kAzure-3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.600727.PhH7EG_716_Wt_DR_t.SGTOP1.e8272_a875_r10724_p4514.lj.v34.0.sk2_out-skim.root
+600728WtbarPH7 kSgTop_Wt 35.8657 kAzure-3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.600728.PhH7EG_716_Wt_DR_tbar.SGTOP1.e8272_a875_r10724_p4514.lj.v34.0.sk2_out-skim.root
+412002WtaMCP8 kSgTop_Wt 71.6963 kAzure-3 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.412002.aMCPy8EG_HThalfscale_tW.SGTOP1.e6817_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+#
+# kTtbar
+#
+410470ttbar kTtbar 452.352 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410470.PhPy8EG_ttbar_hdamp258p75_l.SGTOP1.e6337_a875_r10724_p4514.lj.v34.sk2_out-skim.root
+410480ttbar1lhdamp3 kTtbar 364.743 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410480.PhPy8EG_ttbar_hdamp517p5_1l.SGTOP1.e6454_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+410482ttbar2lhdamp3 kTtbar 87.7005 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410482.PhPy8EG_ttbar_hdamp517p5_2l.SGTOP1.e6454_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+411356ttbar1lhdamp2 kTtbar 362.043 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.411356.PhPy8EG_ttbar_hdamp345_1l.SGTOP1.e7887_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+411358ttbar2lhdamp2 kTtbar 89.9375 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.411358.PhPy8EG_ttbar_hdamp345_2l.SGTOP1.e7887_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+411353ttbar1lhdamp18 kTtbar 366.483 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.411353.PhPy8EG_ttbar_hdamp310p5_1l.SGTOP1.e7887_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+411355ttbar2lhdamp18 kTtbar 88.4849 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.411355.PhPy8EG_ttbar_hdamp310p5_2l.SGTOP1.e7887_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+411350ttbar1lhdamp13 kTtbar 361.919 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.411350.PhPy8EG_ttbar_hdamp224p25_1l.SGTOP1.e7887_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+411352ttbar2lhdamp13 kTtbar 86.428 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.411352.PhPy8EG_ttbar_hdamp224p25_2l.SGTOP1.e7887_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+411233ttbar1lPH713 kTtbar 364.755 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.411233.PhH7EG_ttbar_hdamp258p75_713_1l.SGTOP1.e7580_a875_r10724_p4514.lj.v34.sk2_out-skim.root
+411234ttbar2lPH713 kTtbar 87.7292 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.411234.PhH7EG_ttbar_hdamp258p75_713_2l.SGTOP1.e7580_a875_r10724_p4514.lj.v34.sk2_out-skim.root
+410464ttbar1laMCP8 kTtbar 366.25 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410464.aMCPy8EG_ttbar_noShWe_1l.SGTOP1.e6762_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+410465ttbar2laMCP8 kTtbar 89.1447 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.410465.aMCPy8EG_ttbar_noShWe_2l.SGTOP1.e6762_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+412116ttbar1laMCH713 kTtbar 366.289 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.412116.aMCH7EG_MEN30NLO_ttbar_1l.SGTOP1.e7620_a875_r10724_p4346.lj.v34.sk2_out-skim.root
+412117ttbar2laMCH713 kTtbar 89.1153 kRed-4 /rdsk/datv8/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.412117.aMCH7EG_MEN30NLO_ttbar_2l.SGTOP1.e7620_a875_r10724_p4514.lj.v34.sk2_out-skim.root

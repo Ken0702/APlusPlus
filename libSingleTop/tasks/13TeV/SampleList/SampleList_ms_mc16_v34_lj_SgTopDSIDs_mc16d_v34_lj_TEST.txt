@@ -1,0 +1,11 @@
+#
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# !!! This is an automatically generated file !!!
+# !!! D O   N O T   E D I T                   !!!
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#
+#
+#
+# kWenuInclLight
+#
+364170WenuLight kWenuInclLight 15299.7 kGreen-7 /rdsk/dat24/atlas/SgTopD3PD/mc16_v34_lj/MC/user.tpelzer.mc16_13TeV.364170.Sh221_Wenu_maxHtPtV0_70_L.SGTOP1.e5340_s3126_r10201_p4344.lj.v34.1.sk2_out-skim.root

@@ -1,0 +1,49 @@
+2015-05-13 Soren Stamm <soren.stamm@cern.ch>
+	* Updated documentation and installation procedure
+	* Extended testPackage binary to show all functions.
+	  Added comments and more examples.
+	* Removed verbosity settings, because it caused problems
+	  for some users. Replace SILENT by 0 and uncomment the line
+	  if LHAPDF is too noisy.
+	* Tagging as PdfReweightingTool-00-00-14
+
+
+2015-05-12 Soren Stamm <soren.stamm@cern.ch>
+	* Updated normfactors. Now for each member pdf, one normfactor is required.
+	* Updated to CT10nlo
+	* Work needed:
+	  * Update sample list for ntup common
+	  * Update documentation and installation procedure
+	  * Add root-interpreter config to install guide
+	  * Update test script with comments from Janet
+	  * Update pdf scripts package with new pdf
+
+2015-04-17 Soren Stamm <soren.stamm@cern.ch>
+	* Fixed small bug: missed a 'const' for the print function
+	* Tagging as PdfReweightingTool-00-00-13
+
+2015-02-23 Soren Stamm <soren.stamm@cern.ch>
+	* Updated to LHAPDF6
+	* Updated to Asg_Lhapdf and Asg_Boost
+	* Updated test scripts
+	* Tagging as PdfReweightingTool-00-00-12
+
+2014-10-16 Soren Stamm <soren.stamm@cern.ch>
+	* Last tag for LHAPDF5
+	* Tagging as PdfReweightingTool-00-00-11
+
+2014-04-16 Soren Stamm <soren.stamm@cern.ch>
+	* Adding new samples
+	* Tagging as PdfReweightingTool-00-00-10
+
+2014-03-06 Soren Stamm <soren.stamm@cern.ch>
+	* Adding s-channel single top scale factors
+	* Tagging as PdfReweightingTool-00-00-09
+
+2014-03-05 Soren Stamm <soren.stamm@cern.ch>
+	* Adding ChangeLog
+	* Fixing NNPDF computation (mean / std has to be computed, member0 can not be used)
+	* The first pdf-set is now by default the denominator, when computing pdf-weights.
+	  * This is as default CT10
+	  * Scale factors for sample normalization have been computed with CT10 as denominator
+	* Tagging as PdfReweightingTool-00-00-08
